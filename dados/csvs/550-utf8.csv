@@ -1,0 +1,3884 @@
+Estado;Código;Título;Descrição;Notas de aplicação;Exemplos de NA;Notas de exclusão;Diplomas jurídico-administrativos REF;Tipo de processo;Processo transversal (S/N);Dono do processo;Participante no processo;Tipo de intervenção do participante;Código do processo relacionado;Título do processo relacionado;Tipo de relação entre processos;Dimensão qualitativa do processo;Uniformização do processo;Prazo de conservação administrativa;Nota ao PCA;Justificação PCA;Forma de contagem do PCA;Destino final;Justificação DF;Notas;;;;;;;;;;;
+
+;550;EXECUÇÃO DE OPERAÇÕES DE SEGURANÇA, PROTEÇÃO OU DEFESA;Relativo à realização de ações operacionais de prevenção e contenção de riscos e ameaças (internas ou externas, de causa humana ou natural) à segurança nacional, à segurança coletiva e à segurança das pessoas individualmente consideradas, no que se inclui a garantia do regular funcionamento das instituições, a manutenção e reposição da ordem, segurança e tranquilidade públicas e a proteção e socorro a pessoas e bens.;"Operações e ações materiais que ocorram tanto em território nacional como no estrangeiro, de forma autónoma ou em cooperação com outras entidades nacionais ou estrangeiras#
+Prestação de serviços de segurança, proteção e socorro#
+Aplicável tanto às entidades que prestam os serviços referidos como às que solicitam a prestação dos mesmos#";;"A produção de informações no âmbito do SIRP deve ser considerada em ""Planeamento e gestão estratégica/ Produção de informações estratégicas e de segurança"" (150.30);
+As operações de sensibilização das populações (por exemplo, exercícios de reação em cenário de acidente) devem ser consideradas em ""Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade"" (900.10);
+As operações de fiscalização da conformidade às normas (por exemplo, fiscalização de atividades de pesca, entre outras) devem ser consideradas em ""Supervisão, controlo e responsabilização/ Inspeção, auditoria, fiscalização e monitorização de conformidade à norma"" (500.10);
+As autorizações (por exemplo, atribuição de licença de uso e porte de arma) devem ser consideradas em ""Reconhecimentos e permissões/ Licenciamentos, certificações e outras autorizações"" (450.10);
+O registo e processamento de títulos de identificação e de autorização de circulação ou permanência de pessoas no país (por exemplo, passaporte, visto, autorização de residência) devem ser considerados em ""Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos"" (400.10);
+A participação em ações de deteção e investigação criminal deve ser considerada em ""Administração da justiça/ Prevenção e investigação criminal"" (600.10).";;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;550.10;"Segurança pública
+";"Compreende as operações vocacionadas para a manutenção e reposição da ordem e gestão de incidentes de segurança e segurança geral de pessoas e bens, nomeadamente no que respeita à prevenção e intervenção em situações perturbadoras da tranquilidade na rua e em locais públicos, à dissuasão de atentados à segurança de pessoas e bens e, ainda, ao controlo da entrada, permanência e saída de cidadãos nacionais e estrangeiros do país. Envolve a componente da segurança na saúde.
+Compreende, igualmente, as atividades de proteção pessoal aos elementos dos órgãos de soberania, a altas entidades nacionais ou estrangeiras ou a qualquer cidadão sujeito a situação de ameaça relevante.
+Compreende, ainda, as atividades de prestação das honras de Estado.";"Policiamento regular de espaços públicos#
+Policiamento ou apoio policial no quadro de programas especiais (verão seguro, escola segura, programa de proteção de idosos, etc.)#
+Operações de segurança rodoviária#
+Apoio policial a eventos de alto risco ou iniciativas específicas (manifestações, concentrações, desfiles, cortejos, provas desportivas, entre outros)#
+Segurança a pessoas e comitivas#
+Policiamento a infraestruturas críticas (transportes, redes de energia, água, comunicações, infraestruturas logísticas, entre outras)#
+Interdições de utilização decididas por entidades administrativas (por exemplo, interdição de utilização de praia)#
+Apoio de forças de segurança a diligências diversas (circulação de boletins de voto, entrega de exames, realização de notificações, etc.)#
+Interceção e controlo de pessoas na fronteira#
+Ações de admissão/readmissão, afastamento, expulsão administrativa e condução à fronteira de pessoas em situação irregular#
+";"Verão seguro#
+Escola segura#
+Programa de proteção de idosos#
+Manifestações#
+Concentrações#
+Desfiles#
+Cortejos#
+Provas desportivas#
+Transportes#
+Redes de energia#
+Redes de água#
+Comunicações#
+Infraestruturas logísticas#
+Interdição de utilização de praia#
+Circulação de boletins de voto#
+Entrega de exames#
+Realização de notificações#";"Quando haja lugar a operações ou ações que careçam de autorização prévia ou ratificação do Ministério Público (ilícitos criminais) deverá ser iniciado processo em ""Administração da justiça/Prevenção e investigação criminal"" (600.10).";;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;"550.10.001
+";Segurança de espaços públicos e abertos ao público;"Operações de guarda, de vigia e de apoio à mobilidade, em situações de rotina ou no âmbito de acontecimentos ocasionais e temporários onde a previsão de risco é reduzida, em espaços públicos ou abertos ao público, edifícios e equipamentos públicos, costa marítima, cursos fluviais, parques, matas e florestas.
+Inicia com a ação planeada e termina com o relato da operação.
+Inclui indicação do pagamento do serviço, quando devido, alocação de meios e recursos adequados, captação e tratamento de imagem e som, sinalização de ocorrências, emissão da alerta aquando da deteção de anomalias e correspondente atuação.";"Monitorização de recursos tecnológicos de vigilância#
+Operações de policiamento de espaço público e aberto ao público que decorram da requisição dos serviços de segurança por entidades públicas e privadas#
+Operações de regulação do trânsito rodoviário e pedonal#
+Reposição da ordem e gestão de incidentes de segurança que decorra do policiamento do espaço público e aberto ao público#
+Policiamento de proximidade#
+Operações para garantir a segurança rodoviária#";;"A segurança e vigilância de instalações e equipamentos públicos que não seja realizada por forças de segurança deve ser considerada em 300.40.504 – Controlo de segurança e vigilância de instalações e equipamentos públicos#
+O processamento da requisição de serviços de segurança por entidades públicas e privadas deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços#
+As operações de segurança no âmbito de eventos de alto risco, bem como a Reposição da ordem e gestão de incidentes de segurança que decorra no âmbito destes eventos devem ser consideradas em 550.10.002 – Ação de segurança a eventos de alto risco#
+A Reposição da ordem e gestão de incidentes de segurança que decorra de intervenções não programadas deve ser considerada em 550.10.600 – Reposição da ordem e gestão de incidentes de segurança#
+O processamento de contraordenação deve ser considerado em 500.30.001 – Processamento de contraordenações#";"DL 13/2017#
+DL 216/2012#
+Lei 49/2008#
+DL 197/2008#
+Lei 53/2007#
+Lei 19/2004#
+DL 81/95#";PC;S;"FSS#
+AL#
+";"AP#
+";Iniciar#;"150.20.300#
+150.30.001#
+150.40.500#
+300.10.005#
+450.10.213#
+500.10.301#
+500.20.002#
+500.20.003#
+500.20.300#
+500.30.001#
+600.10.500#
+900.10.001#
+900.10.002#
+900.10.500#
+900.20.601#
+900.20.602#
+950.20.600#
+";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Licenciamento ou comunicação de ocupação de espaços públicos#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+Processamento de contraordenações#
+Processamento de inquérito-crime#
+Conceção e realização de atividades ou acontecimentos artísticos#
+Conceção e realização de atividades desportivas ou recreativas#
+Organização e participação em homenagens e cerimónias comemorativas#
+Organização de cerimónias de tomada de posse e assinatura de documentos#
+Organização de visitas institucionais#
+Processamento de avisos de exercício do direito de reunião em locais públicos#
+";"Síntese (sintetizado)#
+Cruzada#
+Síntese (sintetizado)#
+Cruzada#
+Sucessão (sucessor)#
+Suplemento para#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Cruzada#
+Suplemento para#
+Sucessão (antecessor)#
+";Reduzida;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (PN 500.10.301 - Realização de fiscalização - base para as Inspeções Sem Aviso Prévio a Postos da GNR e Esquadras da PSP, que tendencialmente não se debruçam sobre os atos de gestão).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (operações efetuadas).";;;;;;;;;;;;
+
+;"550.10.002
+";Ação de segurança a eventos de alto risco;"Operações de segurança programadas, no âmbito de iniciativas públicas ou privadas de grande visibilidade e de impacto nacional ou cuja previsão de risco seja considerada elevada.
+Inicia com a comunicação, interna ou externa, ou com a requisição do serviço e termina com o relato da operação.
+Inclui indicação do pagamento do serviço, quando devido, diagnóstico de segurança e de avaliação de risco, definição da atuação, articulação das forças de segurança, quando devido, emissão de alerta aquando da deteção de anomalias e a correspondente atuação.";"Garante e reposição da ordem e gestão de incidentes de segurança que decorra da ação de segurança a eventos de alto risco#
+Operações de policiamento a eventos de alto risco que decorram da requisição dos serviços de segurança por entidades públicas e privadas#";;"O processamento da requisição de serviços de segurança por entidades públicas e privadas deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços#
+A Reposição da ordem e gestão de incidentes de segurança que decorra do policiamento do espaço público deve ser considerada em 550.10.001 – Segurança de espaços públicos e abertos ao público#
+A Reposição da ordem e gestão de incidentes de segurança que decorra de intervenções não programadas deve ser considerada em 550.10.600 – Reposição da ordem e gestão de incidentes de segurança#";"DL 13/2017#
+DL 216/2012#
+DL 197/2008#
+Lei 53/2007#
+Lei 19/2004#
+";PE;S;FSS#;"AL#
+FA#
+SEF#
+ANPC#";"Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#";"150.30.001#
+300.10.005#
+350.30.001#
+450.10.213#
+500.10.001#
+500.30.001#
+500.20.002#
+500.20.003#
+500.20.300#
+550.10.600#
+600.10.500#
+900.10.001#
+950.20.600#";"Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Cobrança de receitas e pagamento de despesas#
+Licenciamento ou comunicação de ocupação de espaços públicos#
+Realização de auditorias#
+Processamento de contraordenações#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+Reposição da ordem e gestão de incidentes de segurança#
+Processamento de inquérito-crime#
+Conceção e realização de atividades ou acontecimentos artísticos#
+Processamento de avisos de exercício do direito de reunião em locais públicos#
+";"Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Complementar#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+Sucessão (sucessor)#";Elevada;S;;;;;;;;;;;;;;;;;;
+
+;"550.10.002.01
+";Ação de segurança a eventos de alto risco: preparação;"Inicia com planeamento da ação ou com a comunicação da requisição e termina a definição da atuação.
+Inclui o diagnóstico de segurança e avaliação de risco.";;;;;;;;;;;;;;;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória;
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.20.002 - Realização de inquérito, do PN 500.20.003 - Realização de sindicância, do PN 500.20.300 - Procedimento disciplinar  e do PN 550.10.600 - Reposição da ordem e gestão de incidentes de segurança.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada no
+PN 550.10.002.02 - Ação de segurança a eventos de alto risco: realização e registo.
+A informação relativa à preparação da Ação de segurança a eventos de alto risco está sintetizada no relato da operação.";;;;;;;;;;;;
+
+;550.10.002.02;Ação de segurança a eventos de alto risco: realização e registo;"Inicia com a operacionalização e termina com a aprovação do relato da operação.
+Inclui articulação das forças de segurança, emissão de alerta aquando da deteção de anomalias, elaboração e atualização do relato de operações.";;;;;;;;;;;;;;;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.20.002 - Realização de inquérito, do PN 500.20.003 - Realização de sindicância, do PN 500.20.300 - Procedimento disciplinar  e do PN 550.10.600 - Reposição da ordem e gestão de incidentes de segurança.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Sintetiza a informação de
+PN 550.10.002.01 - Ação de segurança a eventos de alto risco: preparação.
+A informação relativa à Ação de segurança a eventos de alto risco está sintetizada no relato da operação.
+";;;;;;;;;;;;
+
+;"550.10.004
+
+
+";"Apoio de forças de segurança a diligências
+
+";"Prestação de serviços de proteção e segurança requeridos por forças da ordem, autoridades públicas e entidades privadas.
+Inicia com a requisição do serviço e termina com o relato da operação.
+Inclui o planeamento das condições de segurança, autorização, indicação do pagamento do serviço, quando devido, e operacionalização.";"Operações de policiamento de espaço público e aberto ao público que decorram da requisição dos serviços de segurança por entidades públicas e privadas#
+Requisição de forças da ordem para apoio de segurança a operações de investigação criminal (ex.: buscas)#
+Saídas do recluso do estabelecimento prisional em caso de transferência, temporária ou definitiva, para estabelecimento ou unidade diferente daquele a que está afeto#
+Deslocações do recluso para comparência em atos processuais, internamento hospitalar ou realização de ato médico no exterior, visitas íntimas, saídas para realização de atividades e saídas especiais#";;"O processamento da requisição de serviços de segurança por entidades públicas e privadas deve ser considerado em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços#
+As diligências processuais devem ser consideradas no âmbito dos respetivos processos#";"Portaria 286/2013#
+Despacho 9954/2013#
+DL 51/2011#
+Lei 115/2009#
+DL 197/2008#
+Lei 63/2007#
+Lei 53/2007#
+Lei 19/2004#
+DL 13/2017#
+
+";PC;S;"FSS#
+DGRSP#
+PJ#
+AL#
+SEF#
+FA#
+
+
+
+";AP#;Iniciar#;"150.20.300#
+150.30.001#
+150.40.500#
+300.10.005#
+500.10.001#
+500.10.301#
+500.20.002#
+500.20.003#
+500.20.300#
+500.30.001#
+500.30.500#
+600.10.500#
+950.20.600#";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+Processamento de contraordenações#
+Aplicação de medidas administrativas cautelares#
+Processamento de inquérito-crime#
+Processamento de avisos de exercício do direito de reunião em locais públicos#";"Síntese (sintetizado)#
+Cruzada#
+Síntese (sintetizado)#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#";Média;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e PN 500.10.301 - Realização de fiscalização.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (operações efetuadas).";;;;;;;;;;;;
+
+;"550.10.005
+
+";"Segurança de infraestruturas estratégicas
+
+";"Operações de segurança e proteção de infraestruturas críticas, de pontos sensíveis e espaços considerados potencialmente de elevado grau de ameaça e risco.
+Inicia com a ordem de operação e termina com o relatório.
+Inclui, no âmbito de cada ação, a planificação, a análise do grau de ameaça e a avaliação do risco.";Vigilância e proteção de infraestruturas rodoviárias, ferroviárias, aeroportuárias, portuárias, emissoras de radiações ionizantes e outras instalações críticas#;;"As ações de vigilância e proteção a edifícios públicos devem ser consideradas em 550.10.001 – Segurança de espaços públicos e abertos ao público#
+As ações de segurança das instalações de órgãos de soberania devem ser consideradas em 550.10.006 – Segurança a órgãos de soberania e altas entidades#";"Lei 53/2007#
+Lei 63/2007#";PE;S;"FA#
+FSS#";EDIE#;Iniciar#;"150.20.300#
+150.40.500#
+300.10.005#
+500.10.001#
+500.10.301#
+500.20.002#
+500.20.003#
+500.20.300#
+500.30.001#
+550.10.009#
+550.10.011#
+550.20.001#
+550.20.006#
+550.20.501#
+550.30.003#
+550.30.005#
+550.30.200#
+550.30.400#
+600.10.500#
+";"Avaliação de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+Processamento de contraordenações#
+Vigilância da fronteira#
+Cibersegurança#
+Emissão de avisos e declaração de alertas#
+Atendimento telefónico de emergência#
+Atuação em estados de emergência#
+Atuação em estado de sítio#
+Extração e proteção de contingentes e Forças Nacionais destacadas#
+Defesa do território das nações aliadas#
+Vigilância dos espaços sob soberania e jurisdição nacional, da circulação e segurança das linhas de comunicação#
+Processamento de inquérito-crime#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Síntese (sintetizado)#
+";Elevada;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+A informação sobre os que processos que indiciaram ilícitos criminais é recuperável em
+PN 600.10.500 - Processamento de inquérito-crime;
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (operações efetuadas).";;;;;;;;;;;;
+
+;"550.10.006
+
+";Segurança a órgãos de soberania e altas entidades;"Operações que visam garantir a segurança das instalações de órgãos de soberania, segurança pessoal de membros de órgãos de soberania e de altas entidades nacionais ou estrangeiras, e de outros cidadãos, quando sujeitos a situação de ameaça relevante.
+Inicia com a ordem de operações e termina com a elaboração do relatório.
+Inclui análise de grau de ameaça, avaliação de risco e alternativa de atuação.
+
+";Todas as ações relacionadas com a garantia da segurança a órgãos de soberania#;;"As escalas devem ser consideradas em 150.20.101 – Planeamento estratégico de atividades#
+O processamento de gratificações e montantes compensatórios devem ser considerados em 350.10.600 – Lançamento de receitas e de despesas#";"Lei 63/2007#
+Lei 53/2007#";PE;S;FSS#;"SEF#
+PR#
+PM#
+AR#
+PGR#
+Trb#
+";"Iniciar#
+Iniciar#
+Iniciar#
+Iniciar#
+Iniciar#
+Iniciar#";"150.20.300#
+150.40.500#
+500.10.001#
+500.10.301#
+500.20.002#
+500.20.003#
+500.20.300#
+500.30.001#
+600.10.500#";"Avaliação de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+Processamento de contraordenações#
+Processamento de inquérito-crime#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Síntese (sintetizado)#";Média;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN  500.10.301 - Realização de fiscalização.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+A informação sobre os que processos que indiciaram ilícitos criminais é recuperável em
+PN 600.10.500 - Processamento de inquérito-crime;
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (operações efetuadas).";;;;;;;;;;;;
+
+;550.10.007;Prestação de escolta e guarda de honra;"Prestação de escolta e guarda de honra aos órgãos de soberania e de altas entidades, bem como à prestação de honras de Estado.
+Inicia com o pedido e termina com o relatório da ação.
+Inclui a realização da ação.
+";"Prestação de escolta e guarda de honra a órgãos de soberania e de outras altas entidades que lhe sejam confiadas#
+Prestação de honras de Estado#";;;"Portaria 123/2011#
+Lei 63/2007#
+";PE;S;GNR#;PSP#;Assessorar#;"150.20.300#
+150.40.500#
+500.10.301#
+500.20.002#
+500.20.003#
+600.10.500#
+900.10.500#";"Avaliação de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Processamento de inquérito-crime#
+Organização e participação em homenagens e cerimónias comemorativas#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Síntese (sintetizado)#
+Cruzada#";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (500.10.301 - Realização de fiscalização - base para as Inspeções Sem Aviso Prévio a Postos da GNR e Esquadras da PSP, que tendencialmente não se debruçam sobre os atos de gestão).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+A informação sobre os que processos que indiciaram ilícitos criminais é recuperável em
+PN 600.10.500 - Processamento de inquérito-crime;
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (operações efetuadas).";;;;;;;;;;;;
+
+;550.10.008;Controlo de pessoas nas fronteiras;"Operações de controlo das entradas e saídas de pessoas de território nacional através de fronteiras externas, que provenham de, ou se destinem a Estados que não sejam parte da Convenção de Aplicação, ou que utilizem um troço interno de um voo com origem ou destino em Estados que não sejam parte da Convenção, para verificação da conformidade das condições do movimento fronteiriço realizado, e de controlo sobre as zonas internacionais dos portos e dos aeroportos, nomeadamente autorizando ou recusando o acesso de passageiros a tais zonas.                                                     
+Inicia com a apresentação dos documentos de viagem do cidadão cujo movimento está a ser controlado e termina com a autorização de entrada ou saída, através de aposição de carimbo de movimento quando aplicável ou com a recusa de entrada ou saída, no caso das fronteiras aéreas, e com o desembaraço dos navios, no caso das fronteiras marítimas.  
+Integra a verificação da validade e autenticidade dos documentos de viagem, a verificação do visto e a conformidade dos fins para que foi atribuído e de outra documentação relevante, como sejam declarações dos progenitores autorizando a viagens a menores, comprovativo de meios de subsistência, e consultas às bases de dados de segurança. Em caso de irregularidades origina um relatório de ocorrência.
+Inclui eventual cooperação com outras entidades, com elaboração de planos de atuação, ordens de operações e relatórios de ocorrências.
+";"Vigilância e fiscalização nos postos de fronteira, incluindo a zona internacional dos portos e aeroportos#
+Controlo de circulação de pessoas nas fronteiras externas#
+Interceção de pessoas nos postos de fronteira, aéreos e marítimos, para verificação da conformidade das suas condições de entrada no país#
+Impedimento de entrada ou saída do território nacional de pessoas que não satisfaçam os requisitos legais exigíveis para o efeito#
+Controlo do desembarque de passageiros e tripulantes de embarcações e aeronaves#";;"A emissão de vistos deve ser considerada em 550.10.301 – Emissão de vistos#
+A fiscalização da carga e mercadorias nas fronteiras deve ser considerada em 500.10.301 – Realização de fiscalização#
+O patrulhamento das fronteiras deve ser considerado em 550.10.009 – Vigilância da fronteira#";"Lei 29/2012#
+Lei 23/2007#
+Decreto Regulamentar 84/2007#
+Decreto 13/2007#
+DL 252/2000#
+DL 244/95#
+DL 433/82#";PE;S;SEF#;"PSP#
+GNR#";"Executar#
+Executar#";"150.20.103#
+150.20.300#
+500.30.001#
+500.30.005#
+500.30.006#
+500.30.500#
+550.10.009#
+550.10.305#
+550.10.306#
+550.30.200#
+550.30.400#
+600.10.500#
+600.40.300#
+
+
+";"Planeamento operacional de atividades#
+Avaliação de atividades#
+Processamento de contraordenações#
+Abandono voluntário do território nacional#
+Afastamento coercivo do território nacional#
+Aplicação de medidas administrativas cautelares#
+Vigilância da fronteira#
+Processamento de pedidos de asilo#
+Readmissão de estrangeiros em situação ilegal#
+Defesa do território das nações aliadas#
+Vigilância dos espaços sob soberania e jurisdição nacional, da circulação e segurança das linhas de comunicação#
+Processamento de inquérito-crime#
+Expulsão judicial#
+";"Sucessão (sucessor)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Cruzada#
+";Média;S;15;;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Informação necessária para o processamento do PN 150.20.103- Planeamento operacional de atividades, dado que o controlo pode incidir, repetidamente, sobre os mesmos indivíduos, considerando no entanto o prazo de prescrição do ilícito criminal.
+";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade).";;;;;;;;;;;;
+
+;"550.10.009
+
+";Vigilância da fronteira;"Operações policiais destinadas a vigiar, patrulhar e controlar as fronteiras do espaço sob soberania e jurisdição nacional, do Continente e das Regiões Autónomas, bem como da fronteira comunitária.
+Inicia a preparação com a decisão do Comandante, com a denúncia de infrações ou com a requisição de entidades/organismos parceiros. Termina com o relatório da operação ou da guia de patrulha.
+Inclui a operacionalização da missão.";"Todas as operações policiais de vigilância das fronteiras terrestre, marítima ou aérea#
+Aplica-se, ainda, às seguintes situações#
+Preservação e proteção ambiental e da prevenção da criminalidade#
+Garantir a livre circulação no território nacional e defesa de portos e aeroportos#
+Vigiar e controlar as principais rotas internacionais aéreas e marítimas que intersetam o Espaço Estratégico de Interesse Nacional Permanente#";;"As operações de controlo das entradas e saídas de pessoas pelas fronteiras do território nacional devem ser consideradas em 550.10.008 – Controlo de pessoas nas fronteiras#
+A fiscalização da carga e mercadorias nas fronteiras deve ser considerada em 500.10.301 – Realização de fiscalização#";"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#
+Lei Orgânica 6/2014#
+Lei 63/2007#
+Decreto Regulamentar 86/2007#
+Lei 31-A/2009#";PE;S;"GNR#
+SEF#
+FAP#
+Marinha#
+AAN#
+AMN#";"GNR#
+SEF#
+FAP#
+Marinha#
+AAN#
+AMN#
+PJ#
+AT#
+ANS#
+APA#
+";"Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+";"150.20.103#
+150.20.300#
+150.30.001#
+200.10.001#
+550.10.005#
+550.10.008#
+600.10.500#
+";"Planeamento operacional de atividades#
+Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Negociação e definição de posições nacionais#
+Segurança de infraestruturas estratégicas#
+Controlo de pessoas nas fronteiras#
+Processamento de inquérito-crime#
+";"Sucessão (sucessor)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (sucessor)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+
+";Elevada;N;15;;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Informação necessária para o processamento do PN 150.20.103 - Planeamento operacional de atividades, dado que o controlo pode incidir, repetidamente, sobre os mesmos indivíduos, considerando no entanto o prazo de prescrição do ilícito criminal.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada no
+PN 150.20.300 - Avaliação de atividades e nas situações em que concorre com ilícitos criminais o processo dá origem ao PN 600.10.500 - Processamento de inquérito-crime.";;;;;;;;;;;;
+
+;550.10.010;Ação de ordem e segurança em estabelecimento prisional;"Utilização dos meios comuns e dos meios especiais de segurança que têm em vista a manutenção da ordem e da segurança no estabelecimento prisional.
+Inicia com a ação a realizar e termina com o registo da operação.
+Inclui o controlo de visitantes efetuado no momento de entrada e saída no estabelecimento por elemento dos serviços de vigilância e segurança.";"Ações de observação de reclusos, nomeadamente, durante o período noturno#
+Controlo periódico de presenças (contexto prisional)#
+Batimento de grades#
+Revista pessoal (em contexto prisional)#
+Busca (em contexto prisional)#
+Recurso a meios cinotécnicos e de videovigilância (em contexto prisional)#
+Apreensão temporária de objetos a recluso#
+Privação ou restrição do convívio com determinados reclusos ou do acesso a espaços comuns do estabelecimento prisional#
+Utilização de algemas em recluso#
+Colocação de recluso em cela de separação da restante população prisional e de colocação em quarto de segurança#
+Utilização de meios coercivos em recluso#
+Ações de vigilância e controlo de visitas a reclusos#
+";;;"Portaria 286/2013#
+DL 51/2011#
+Lei 115/2009#
+";PE;N;"DGRSP#
+EMGFA#
+";;;"150.20.300#
+150.40.001#
+150.40.500#
+500.20#
+600.40.001#
+600.40.002#";"Avaliação de atividades#
+Realização de operações estatísticas oficiais#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Ação disciplinar#
+Acompanhamento da execução de pena e medida privativa da liberdade#
+Execução de pena e medida privativa da liberdade em meio prisional#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#";Elevada;S;1;;"#Critério legal:
+Conjugação da [DL 3/2014], Estatuto do corpo da guarda prisional, artº 7, Regime disciplinar, em que se determina que ""Aos trabalhadores do CGP é aplicável o Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas, aprovado pela [Lei 58/2008], de 9 de setembro"" com o prazo prescricional de infração disciplinar - artº 178, nº 1 da [Lei 35/2014] (que revoga a [Lei 58/2008]).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.40.001 – Realização de operações estatísticas oficiais;
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (operações efetuadas).";;;;;;;;;;;;
+
+;550.10.011;Cibersegurança;"Operações de segurança e proteção no ciberespaço, nomeadamente das redes, dos sistemas e dos serviços vitais de informação e comunicação, contra ameaças que ponham em risco o espaço de liberdade individual e coletiva.
+Inicia com a ação de vigilância, constatação de uma vulnerabilidade, existência de ameaça ou denúncia e termina com a reposição da segurança dos sistemas e infraestruturas de comunicação.
+Inclui a prevenção, monotorização, análise de risco, a deteção de intrusão, coordenação das ações tendo em vista a reposição da segurança.";"Reporte de incidentes de cibersegurança, à interoperabilidade e o acesso entre os sistemas de informação das entidades que fazem parte do Sistema de Segurança Interna#
+
+
+";;"A investigação e prevenção criminal da cibercriminalidade.  coadjuvação judiciária, a preservação da prova, a prevenção criminal deve ser considerada em ""Administração da justiça/Prevenção e investigação criminal"" (600.10)#";"Resolução do Conselho de Ministros 36/2015#
+Resolução do Conselho de Ministros 12/2012#
+Lei 53/2007#
+Lei 49/2008#
+";PE;S;"CNCS#
+INFARMED#
+
+
+";"PJ#
+PSP#
+GNR#
+AP#
+INFARMED#";"Assessorar#
+Assessorar#
+Assessorar#
+Comunicar#
+Comunicar#";"150.30.001#
+550.10.005#
+500.20.002#
+500.20.003#
+500.20.300#
+500.10.300#
+550.30.002#";"Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Segurança de infraestruturas estratégicas#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+Realização de inspeção#
+Ciberdefesa#";"Cruzada#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Cruzada#";Média;S;10;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância, 500.20.300 - Procedimento disciplinar) e inspetiva (500.10.300 - Realização de inspeção).";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;;;;
+
+;550.10.300;Sinalização informativa e reguladora;"Definição da distribuição de sinalética destinada a transmitir aos utentes perigos, obrigações, restrições, proibições, indicações, avisos e orientações.
+Inicia com a identificação de necessidades ou com o pedido de interessados e termina com o registo da retirada da sinalética.
+Inclui diagnóstico, desenho do projeto, a indicação do cadastro da sinalética e colocação da sinalização.";"Sinalização de emergência e socorro colocada em instalações e equipamentos públicos#
+Sinalização de locais de risco público#
+Sinalização de contaminação de água#
+Sinalização de obras em curso#
+Sinalização de intervenção em arribas#
+Sinalização de trânsito#
+
+";;"A elaboração de planos de segurança ou de proteção deve ser considerada em processos de negócio de 150 – Planeamento e Gestão Estratégica em função do âmbito de aplicação nacional, regional, municipal ou organizacional do instrumento de planeamento#
+A manutenção e reparação da sinalização devem ser consideradas em 300.40.503 – Conservação e valorização de edifícios, infraestruturas e equipamentos públicos#
+A participação de danos em sinalização de segurança deve ser considerada em 300.40.509 – Manutenção e reparação de bens móveis duradouros#
+O plano de segurança deve ser considerado em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+A organização de ações de sensibilização e divulgação deve ser considerada em 900.10.502 – Organização e participação em iniciativas de prevenção e sensibilização#";"Lei 54/2005#
+DL 44/2005#
+Decreto Regulamentar 22-A/98#";PC;N;"AP#
+";;;"150.20.300#
+300.30.008#
+450.10.063#
+450.10.213#
+500.10.001#
+500.10.301#
+500.20.002#
+500.20.003#
+500.20.300#
+800.10.302#";"Avaliação de atividades#
+Registo de documentos e informação#
+Licenciamento ou autorização de atividades de transporte#
+Licenciamento ou comunicação de ocupação de espaços públicos#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+Monitorização de recursos ambientais e naturais#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#";Reduzida;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (PN 500.10.301 - Realização de fiscalização).
+Nota: As ocorrências que possam manifestar inconformidades ou ilícitos são objeto de sanção administrativa ou de encaminhamento para investigação criminal, sendo suspensa a contagem do Prazo de conservação administrativa.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada recuperável em
+PN 150.20.300 - Avaliação de atividades;
+PN 300.30.008 - Registo de documentos e informação.";;;;;;;;;;;;
+
+;550.10.301;Emissão de vistos;"Emissão de um documento a um cidadão estrangeiro, que não seja titular de autorização de residência ou não seja detentor de prorrogação de permanência, que o habilita a apresentar-se num posto de fronteira e a solicitar a entrada no país, e depois de autorizado, a entrar e permanecer em território nacional durante determinado período de tempo e para certas finalidades.
+Inicia com a apresentação do pedido junto da autoridade competente e termina com a concessão de visto que é aposto no documento de viagem do respetivo titular, ou com o indeferimento do pedido.
+Inclui a apreciação das condições do titular por parte das autoridades que emitem o visto e, em certos casos, estipulados por lei, a obtenção de pareceres prévios obrigatórios junto do Serviço de Estrangeiros e Fronteiras ou do Serviço de Informações de Segurança, consoante o caso.
+";"Emissão de vistos para fins de escala aeroportuária, de curta duração, de estada temporária e para obtenção de autorização de residência#
+Emissão de vistos por embaixadas e postos consulares#
+Emissão de vistos de curta duração e especiais nos postos de fronteira pela autoridade de controlo fronteiriço#";;;"Lei 29/2012#
+Lei 23/2007#
+Decreto Regulamentar 84/2007#
+Decreto Regulamentar 2/2013#
+Regulamento CE 810/2009#
+";PE;S;"Cns#
+SEF#";"SEF#
+Cns#";"Apreciar#
+Iniciar#";"150.20.300#
+400.10.042#
+500.30.005#
+500.30.006#
+500.30.500#
+550.10.303#
+550.10.306#
+";"Avaliação de atividades#
+Identificação de estrangeiros#
+Abandono voluntário do território nacional#
+Afastamento coercivo do território nacional#
+Aplicação de medidas administrativas cautelares#
+Autorização de residência#
+Readmissão de estrangeiros em situação ilegal#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+";Elevada;N;5;;"#Critério legal:
+[Regulamento CE 810/2009] do Parlamento Europeu e do Conselho, Código Comunitário de Vistos, artº 24, nº 1 ""O visto pode ser emitido para uma, duas ou múltiplas entradas. O prazo de validade não pode exceder cinco anos"".
+
+";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada no
+PN 150.20.300 - Avaliação de atividades;
+Recuperável no
+PN 400.10.042 - Identificação de estrangeiros.";Nota ao tipo de participação do SEF (vistos cujo dono do processo é o MNE, o SEF emite parecer prévio à emissão).;;;;;;;;;;;
+
+;550.10.302;Autorização de trânsito para efeitos de afastamento por via aérea;"Operações decorrentes da emissão de pedido de trânsito aeroportuário, efetuado junto de um Estado-membro da UE, para efeitos de afastamento por via aérea de um cidadão de Estado terceiro, com ou sem escolta, nos casos em que o afastamento não se possa realizar em voo direto.
+Inicia-se com a apresentação do pedido de trânsito e termina com a autorização do Estado requerido e a efetivação do afastamento, ou, excecionalmente, quando não haja resposta dentro dos prazos a que o referido Estado está obrigado, com a realização da operação de trânsito, mediante mera notificação.
+Inclui preenchimento do pedido de autorização de trânsito aeroportuário.
+";Operações de afastamento de cidadãos de Estado terceiro que requeiram trânsito aeroportuário em território de Estados Membros da União Europeia#;;;"Lei 29/2012#
+Lei 23/2007#
+Decreto Regulamentar 84/2007#
+Diretiva CE 110/2003#";PE;N;SEF#;;;"150.20.300#
+500.30.006#
+600.40.300#";"Avaliação de atividades#
+Afastamento coercivo do território nacional#
+Expulsão judicial#";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#";Reduzida;S;1;;"#Critério de utilidade administrativa:
+Prazo necessário para a execução do procedimento instrumental para a concretização da medida de afastamento (PN 500.30.006 - Afastamento coercivo do território nacional; PN 600.40.300 - Expulsão judicial), no caso de um pedido de apoio apresentado por Portugal.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada no
+PN 150.20.300 - Avaliação de atividades;
+PN 500.30.006 - Afastamento coercivo do território nacional.";;;;;;;;;;;;
+
+;550.10.303;Autorização de residência;"Concessão de autorização a cidadãos de país terceiro para residência em território nacional.
+Inicia com pedido de autorização de residência por parte do interessado e termina com a notificação da decisão.
+Inclui fundamentação, análise dos requisitos e decisão.  
+Inclui, ainda, cancelamento e renovação.
+";"Autorizações de residência para#
+Exercício de atividade profissional subordinada ou independente#
+Atividade de investigação ou altamente qualificada#
+Estudo, estágio profissional não remunerado ou voluntariado#
+Investimento#
+Vítimas de tráfico de seres humanos ou de auxílio à emigração ilegal#
+Reagrupamento familiar#";;Os pedidos de nacionais de um Estado-membro da UE, de um Estado parte do EEE, nacionais de Estados terceiros, familiares de cidadão português e nacionais de Estados terceiros que residam em território nacional na qualidade de refugiados, beneficiários de proteção subsidiária prevista na legislação do asilo ou beneficiários de proteção temporária, devem ser considerados em 550.10.305 – Processamento de pedidos de asilo#;"Lei 29/2012#
+Lei 23/2007#
+";PE;N;SEF#;;;"150.20.300#
+400.10.025#
+400.10.026#
+400.10.028#
+400.10.029#
+500.30.005#
+500.30.006#
+500.30.500#
+550.10.301#
+550.10.304#
+550.10.305#
+600.40.300#";"Avaliação de atividades#
+Aquisição de nacionalidade#
+Atribuição e registo de estatuto de igualdade#
+Emissão de documentos de viagem a estrangeiros#
+Emissão de título de residente#
+Abandono voluntário do território nacional#
+Afastamento coercivo do território nacional#
+Aplicação de medidas administrativas cautelares#
+Emissão de vistos#
+Manifestações de interesse#
+Processamento de pedidos de asilo#
+Expulsão judicial#";"Síntese (sintetizado)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Sucessão (antecessor)#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Sucessão (sucessor)#
+Cruzada#";Elevada;S;5;;"#Critério legal:
+[Lei 23/2007], RJEPSAETN, art.º 76º – Autorização de residência permanente:
+2 - O título de residência deve, porém, ser renovado de cinco em cinco anos ou sempre que se verifique a alteração dos elementos de identificação nele registados.
+Artigo 80 – Concessão e renovação de autorização de residência permanente:
+1 - Sem prejuízo das disposições da presente lei relativas ao estatuto dos nacionais de Estados terceiros residentes de longa duração, beneficiam de uma autorização de residência permanente os cidadãos estrangeiros que, cumulativamente:
+a) Sejam titulares de autorização de residência temporária há pelo menos cinco anos.
+[Lei 37/81], LN, art.º 6º, nº 2, a):
+2 - O Governo concede a nacionalidade, por naturalização, aos menores, nascidos no território português, filhos de estrangeiros, desde que preencham os requisitos das alíneas c) e d) do número anterior e desde que, no momento do pedido, se verifique uma das seguintes condições:
+a) Um dos progenitores aqui resida legalmente há pelo menos cinco anos;
+#Critério de utilidade administrativa:
+Prazo de caducidade da autorização, processamento de novos títulos de residência e residência permanente, confirmação de dados no âmbito da aquisição de nacionalidade portuguesa (PN 400.10.025 - Aquisição de nacionalidade).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada no
+PN 150.20.300 - Avaliação de atividades;
+Recuperável no
+PN 400.10.042 - Identificação de estrangeiros.";;;;;;;;;;;;
+
+;550.10.304;Manifestações de interesse;"Concessão de autorização de caráter excecional a nacionais de países terceiros que não reúnam todos os requisitos para exercício de atividade profissional subordinada, ou independente, para regularização da sua situação em território nacional.
+Inicia com apresentação de manifestação de interesse do requerente e termina com a notificação da decisão sobre a concessão excecional de autorização de residência temporária.
+Inclui abertura de procedimento oficioso, análise dos meios de prova relativos às condições que permitem beneficiar deste mecanismo.
+";Regularização da situação de cidadão nacional de país terceiro que não reúnam todos os requisitos para residência no país, nomeadamente a posse de visto de residência para fins de trabalho subordinado ou independente#;;Os pedidos de nacionais de um Estado-membro da UE, de um Estado parte do EEE, nacionais de Estados terceiros, familiares de cidadão português e nacionais de Estados terceiros que residam em território nacional na qualidade de refugiados, beneficiários de proteção subsidiária prevista na legislação do asilo ou beneficiários de proteção temporária, devem ser considerados em 550.10.305 – Processamento de pedidos de asilo#;Lei 23/2007#;PE;N;SEF#;;;"150.20.300#
+400.10.029#
+550.10.303#";"Avaliação de atividades#
+Emissão de título de residente#
+Autorização de residência#";"Síntese (sintetizado)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#";Elevada;S;2;;"#Critério legal:
+[Lei 23/2007], RJEPSAETN, art.º 72º, nº 1, e).
+#Critério de utilidade administrativa:
+Prazo de caducidade (um ano) e tempo para processamento da autorização de prorrogação (prorrogável por igual período).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada no
+PN 150.20.300 - Avaliação de atividades;
+Recuperável no
+PN 400.10.042 - Identificação de estrangeiros.";;;;;;;;;;;;
+
+;550.10.305;Processamento de pedidos de asilo;"Processamento dos pedidos e análise das condições de concessão de asilo ou proteção subsidiária no âmbito dos estatutos de requerente de asilo, de refugiado e de proteção subsidiária.
+Inicia com o pedido do interessado junto da autoridade responsável sob a forma escrita ou oral, do qual, no segundo caso, é de imediato lavrado auto pela autoridade policial que recebe o pedido e remetido à autoridade responsável, e termina com decisão relativa à concessão ou recusa de estatuto de refugiado ou de proteção subsidiária.  
+Inclui entrevista, análise dos fundamentos do pedido, análise de provas documentais quando existentes, verificação de que o requerente não beneficia de estatuto idêntico atribuído por outro Estado-membro e de que não beneficia de estatuto legal noutro país para além do país de origem, eventual realização de perícias médico-legais, recolha de informação sobre o país de origem e sobre os factos invocados para o pedido de proteção, parecer do Conselho Português para os Refugiados, elaboração de proposta fundamentada de admissibilidade ou não admissibilidade do pedido.
+Em caso de admissibilidade do pedido segue-se uma segunda fase do procedimento onde é efetuada uma instrução mais detalhada que culmina na apresentação de proposta fundamentada ao membro do governo responsável pela área da administração interna de concessão ou recusa do estatuto de refugiado ou de proteção subsidiária.
+";"Estrangeiros e apátridas perseguidos ou gravemente ameaçados de perseguição, em consequência de atividade exercida no Estado da sua nacionalidade ou da sua residência habitual, em favor da democracia, libertação social e nacional, da paz, liberdade e direitos da pessoa humana ou receando ser perseguidos em virtude da sua raça, religião, nacionalidade, opiniões políticas e que por essa razão não queiram regressar ao seu Estado de nacionalidade ou da sua residência habitual#
+Estrangeiros e apátridas que sejam impedidos ou se sintam impossibilitados de regressar ao país da sua nacionalidade ou da sua residência habitual, quer atendendo à sistemática violação dos direitos humanos que aí se verifique, quer por correrem o risco de sofrer ofensa grave que ponha em risco a sua vida ou a integridade física#
+";;;"Lei 26/2014#
+Lei 27/2008#";PE;S;SEF#;"PSP#
+GNR#
+Cns#
+PJ#
+PMar#";"Iniciar#
+Iniciar#
+Iniciar#
+Iniciar#
+Iniciar#";"150.20.300#
+400.10.028#
+400.10.029#
+500.30.005#
+550.10.008#
+550.10.303#";"Avaliação de atividades#
+Emissão de documentos de viagem a estrangeiros#
+Emissão de título de residente#
+Abandono voluntário do território nacional#
+Controlo de pessoas nas fronteiras#
+Autorização de residência#";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (antecessor)#";Reduzida;S;5;;"#Critério legal:
+[Lei 27/2008], Concessão do asilo ou proteção subsidiária, art.º 67º - Título de residência, ""1 — Aos beneficiários do estatuto de refugiado é concedida uma autorização de residência válida pelo período inicial de cinco anos"".
+#Critério de utilidade administrativa:
+Data de validade da autorização: O direito de asilo pode ter validade até cinco anos e ser reapreciado e prorrogado mantendo-se os pressupostos para o reconhecimento daquele direito";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação sintetizada no
+PN 150.20.300 - Avaliação de atividades;
+Recuperável no
+PN 400.10.042 - Identificação de estrangeiros.";;;;;;;;;;;;
+
+;"550.10.306
+
+
+";Readmissão de estrangeiros em situação ilegal;"Processamento dos pedidos de readmissão que ocorrem nos termos de convenções internacionais, ao abrigo das quais os cidadãos estrangeiros que se encontrem ilegalmente no território de um Estado, vindos diretamente de outro Estado, podem ser por este readmitidos, mediante pedido formulado pelo Estado em cujo território se encontrem.
+Inicia com a receção do pedido do Estado requerente e termina com a aceitação e readmissão do cidadão estrangeiro, ou com a recusa do pedido.
+Inclui tratamento do pedido formulado pelo Estado requerente e, se existente, do auto de declarações e documentação identificativa disponível do cidadão, consulta informática, e se necessário, do processo de residente, decisão e sua comunicação ao Estado requerente e ao departamento responsável pelo processo de residente.
+";Casos em que haja um acordo ou convenção internacional de readmissão#;;A readmissão ativa deve ser considerada em 500.30.006 – Afastamento coercivo do território nacional#;"Lei 29/2012#
+Lei 23/2007#
+DL 252/2000#";PE;N;SEF#;;;"150.20.300#
+500.30.001#
+500.30.005#
+500.30.006#
+500.30.007#
+550.10.301#
+550.10.008#";"Avaliação de atividades#
+Processamento de contraordenações#
+Abandono voluntário do território nacional#
+Afastamento coercivo do território nacional#
+Condução à fronteira#
+Emissão de vistos#
+Controlo de pessoas nas fronteiras#";"Síntese (sintetizado)#
+Cruzada#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Cruzada#";Média;N;3;;"#Critério legal:
+[Lei 23/2007], RJEPSAETN, art.º 167º - Interdição de entrada ""Ao cidadão estrangeiro reenviado para outro Estado ao abrigo de convenção internacional é vedada a entrada no País pelo período de três anos"".
+#Critério de utilidade administrativa:
+Prazo em que não deve ser emitido visto (PN 550.10.301 - Emissão de vistos) ou autorização de entrada após controlo de fronteira (PN 550.10.008 - Controlo de pessoas nas fronteiras) (nos casos de readmissão ativa).
+
+";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada no
+PN 150.20.300 - Avaliação de atividades;
+Recuperável no
+PN 400.10.042 - Identificação de estrangeiros.
+Os dados relativos à readmissão, designadamente em caso de readmissão passiva, ficam registados no processo do cidadão.";;;;;;;;;;;;
+
+;550.10.307;Implementação de medidas de segurança de medicamentos, produtos de saúde e alimentares;"Operações de segurança e aplicação de medidas de minimização do risco de medicamentos e produtos de saúde, tendo como objetivo a salvaguarda da saúde pública.
+Inicia com a submissão da medida pelos titulares ou com a elaboração de proposta de medida e termina com o registo da revogação da autorização de introdução no mercado ou de alteração da medida.
+Inclui parecer de avaliação de publicidade, indicação de medida a aplicar, validação e avaliação da medida, verificação da implementação.
+";"Elaboração do Boletim de Farmacovigilância, destinado aos profissionais de saúde, com informação sobre efeitos adversos de medicamentos autorizados, quer a nível nacional quer europeu#
+Validação de comunicações dirigidas aos profissionais de saúde (DHPC – Direct Healthcare Professional Communication)#
+Acompanhamento da implementação das Medidas Urgentes de Segurança (MUS)#
+Avaliação de materiais educacionais#
+Definição de limites máximos de resíduos de pesticidas no interior e à superfície dos géneros alimentícios e dos alimentos para animais, de origem vegetal ou animal#";;"A revogação de AM por medidas de segurança deve ser considerada em 450.10.640 – Autorização de introdução de produtos e substâncias no mercado#
+As alterações para implementação das recomendações do PRAC decorrentes de avaliação de sinais de segurança(C.I.z) do tipo IAIN) devem ser consideradas em  450.10.640 – Autorização de introdução de produtos e substâncias no mercado#";Regulamento de Execução UE 520/2012#;PE;N;INFARMED#;;;"150.20.300#
+300.30.008#
+450.10.640#
+500.10.001#
+800.10.304#
+800.10.306#
+800.10.606#";"Avaliação de atividades#
+Registo de documentos e informação#
+Autorização de introdução de produtos e substâncias no mercado#
+Realização de auditorias#
+Monitorização de segurança de medicamentos após autorização de introdução no mercado (AIM)#
+Monitorização da segurança de produtos de saúde#
+Avaliação da rutura de stocks de medicamentos e identificação de alternativas terapêuticas#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Suplemento para#
+Cruzada#
+Cruzada#
+Síntese (sintetiza)#";Elevada;N;10;;"#Critério legal:
+[Regulamento de execução UE 520/2012], art.º 12, nº 2,  ""Os titulares de autorização de introdução no mercado devem tomar as medidas necessárias para que os elementos referidos no artigo 2.o sejam conservados durante pelo menos cinco anos depois de o titular da autorização de introdução no mercado ter posto formalmente termo ao sistema tal como descrito no dossiê principal do sistema de farmacovigilância. Os dados e documentos de farmacovigilância relativos a cada medicamento autorizado devem ser conservados enquanto o medicamento for autorizado e durante pelo menos 10 anos depois de a autorização de introdução no mercado ter deixado de existir.""
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001  - Realização de auditorias (no que diz respeito à atuação da Administração).";"Conforme disposição legal
+5 - Data em que a autorização de introdução no mercado deixe de existir, nos termos do n.º 2, do art. 12.º, [Regulamento de execução UE 520/2012].";E;"#Critério de densidade informacional:
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (operações efetuadas).
+PN 300.30.008 - Registo de documentos (registo dos casos tratados, intervenientes e etapas).";;;;;;;;;;;;
+
+;550.10.600;"Reposição da ordem e gestão de incidentes de segurança
+";"Operações reativas ou de intervenção não programadas a fenómenos de desacatos, tumultos, violência concertada, catástrofes naturais, incidentes críticos ou acidentes não naturais que provocam a alteração dos níveis de segurança de pessoas e bens, assim como do normal funcionamento das instituições.
+Inicia com a sinalização do foco de insegurança e termina com o relato da operação.
+Inclui diagnóstico de situação, operacionalização e atualização do ponto de situação.";"Resolução e gestão de incidentes críticos#
+Intervenção táctica em situações de violência concertada e de elevada perigosidade, complexidade e risco#
+Inactivação de explosivos e segurança em subsolo#
+Cooperação com as forças militares ao nível de reforço e apoio às forças de segurança#
+Gestão de incidente inopinado, configurando uma situação de flagrante delito ou que exija a imediata intervenção policial (sequestro, tomada de reféns ou ameaça/descoberta de engenho explosivo)#";;"A reposição da ordem e gestão de incidentes de segurança que decorra do policiamento do espaço público deve ser considerada em 550.10.001 – Segurança de espaços públicos e abertos ao público#
+A reposição da ordem e gestão de incidentes de segurança que decorra da Ação de segurança a eventos de alto risco deve ser considerada em 550.10.002 – Ação de segurança a eventos de alto risco#
+A investigação criminal dos incidentes deverá ser considerada em 600.10 – Prevenção e investigação criminal";"DL 197/2008#
+Lei 19/2004#
+Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#
+Lei Orgânica 6/2014#
+Lei Constitucional 1/2005#
+DL 406/74#
+Lei Orgânica 1/2011#
+DL 48/95#
+DL 13/2017#
+";PE;S;"FSS#
+FA#
+AL#
+";"SEF#
+ANPC#
+FSS#
+FA#";"Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#";"150.20.300#
+150.30.001#
+500.10.001#
+500.10.301#
+500.30.001#
+500.20.300#
+500.20.002#
+500.20.003#
+550.10.002#
+600.10.500#
+
+
+
+
+";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Realização de auditorias#
+Realização de fiscalização#
+Processamento de contraordenações#
+Procedimento disciplinar#
+Realização de inquérito#
+Realização de sindicância#
+Ação de segurança a eventos de alto risco#
+Processamento de inquérito-crime#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Suplemento para#
+Sucessão (antecessor)#";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (PN 500.10.301 - Realização de fiscalização).";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Enumeração e tipificação dos casos recuperável através das estatísticas.
+Esta síntese não permite recuperar o particular e individual, mas apenas o geral.
+A informação criada é representativa da atuação isolada ou articulada de forças de segurança em ações de complexidade elevada e com recursos a uma elevada percentagem de operacionais, com grande impacto ao nível da segurança pública.   
+As informações referentes à coordenação das operações e da cooperação das forças militares com as forças e serviços de segurança não é recuperada noutro PN.";;;;;;;;;;;;
+
+;550.20;Proteção civil, socorro de emergência e prevenção de acidentes;Compreende as operações relacionadas com a prestação de serviços preventivos e reativos a situações de emergência e de prevenção de acidentes. Inclui as atividades de vigilância e análise de risco, ações de alerta de situações de risco, gestão de medidas corretivas, pedidos de auxílio e, ainda, as ações de socorro a pessoas e bens em caso de acidente, catástrofe ou calamidade, prestados por qualquer força de segurança, de defesa, de saúde, de proteção civil e/ou por quaisquer outras entidades.;"Difusão de alertas de risco (alertas sobre o clima, sismos, estado do mar, incêndios, etc.)#
+Apoio preventivo de bombeiros a espetáculos e eventos#
+Processamento de pedidos de socorro em caso de incêndio, naufrágio, inundação, medicamentos, epidemias, etc
+Apoio à localização de sinistrados#
+Transporte de sinistrados#";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;550.20.001;Emissão de avisos e declaração de alertas;"Operações de advertência e sinalização de perigos e riscos potenciais ou iminentes.
+Inicia com a emissão do aviso de condições específicas ou de circunstâncias de perigo ou risco à população ou a determinados setores e termina com o registo da emissão de alerta para as entidades competentes.
+Inclui articulação entre as entidades, validação de alertas, quando aplicável, difusão de recomendações e medidas de proteção.
+";"Difusão de alertas referente ao uso de medicamentos#
+Emissão de alertas referente ao consumo de produtos alimentares#
+Emissão de alerta de risco de derrocada de arribas#
+Emissão de aviso de sismo#
+Emissão de alerta de aumento de radiação ionizante#
+Emissão de alerta de concentração de raios ultravioletas#
+Emissão de aviso de cheias#
+Emissão de aviso de secas#
+Emissão de aviso de incêndio#
+Emissão de avisos metereológicos#
+Emissão de aviso nuclear#
+Emissão de alerta de rutura de barragens#
+Emissão de aviso agricola#";;"A recolha de dados sobre os índices de poluição ambiental deve ser considerada em 800.10.301 – Monitorização de índices da qualidade ambiental#
+A recolha de dados sobre os recursos naturais, espécies e paisagens deve ser considerada em 800.10.302 – Monitorização de recursos ambientais e naturais#
+A recolha de dados sobre o abastecimento e distribuição de água e do saneamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais#
+A difusão de informação relativa a recomendações e medidas de prevenção deve ser considerada em 900.20.201 - Edição e publicação de conteúdos#";"DL 72/2011#
+Lei 65/2007#
+DL 75/2007#
+Portaria 338/2007#
+DL 134/2006#
+DL 207/2006#
+Lei 54/2005#
+Lei 58/2005#
+";PC;S;"ANPC#
+AL#
+INFARMED#
+ASAE#
+DGS#
+IPMA#
+ANMP#
+APA#
+DGADR#
+DRAP-Alg#
+DRAP-Aln#
+DRAP-C#
+DRAP-LVT#
+DRAP-N#";AP#;Comunicar#;"150.20.300#
+300.40.504#
+300.40.507#
+500.10.001#
+500.10.301#
+500.20.002#
+500.20.003#
+550.10.005#
+550.20.002#
+550.20.004#
+800.10.300#
+800.10.301#
+800.10.302#
+800.10.303#
+800.10.304#
+800.10.306#
+
+";"Avaliação de atividades#
+Controlo de segurança e vigilância de instalações e equipamentos públicos#
+Implementação de planos de contingência#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Segurança de infraestruturas estratégicas#
+Ação de vigilância#
+Realização de piquetes de prevenção#
+Controlo ambiental de infraestruturas e equipamentos#
+Monitorização de índices da qualidade ambiental#
+Monitorização de recursos ambientais e naturais#
+Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais#
+Monitorização de segurança de medicamentos após autorização de introdução no mercado (AIM)#
+Monitorização da segurança de produtos de saúde#";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (antecessor)#";Média;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (PN 500.10.301 - Realização de fiscalização).";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.
+A informação tem grande impacto ao nível da segurança pública.
+
+
+
+";;;;;;;;;;;;
+
+;"550.20.002
+
+
+
+";Ação de vigilância;"Operações preventivas de reconhecimento e proteção através da vigia e acompanhamento de comportamento e atividades de pessoas ou de espaços e emissão de pedido de proteção e socorro aquando da deteção de risco ou de perigo iminente.
+Inicia com a ação de vigilância planeada e termina com o relato da operação.
+Inclui emissão de alerta e diagnóstico de situação, quando necessário.";Monitorização de recursos tecnológicos de vigilância e alerta#;"Vigilância de matas e florestas#
+Vigilância da alteração de cursos de água#
+Vigilância contra derrames tóxicos#
+Vigilância à radioatividade no ambiente#
+Vigilância contra desastres naturais#
+Vigilância contra intempéries#
+Vigilância marítima#
+Vigilância de ondas de calor#
+Vigilância de poluentes atmosféricos#";"A instalação de sistemas automáticos de deteção de incêndios deve ser considerada em 300.40.503 – Conservação e valorização de edifícios, infraestruturas e equipamentos públicos#
+A ação de vigilância das forças de segurança no âmbito do policiamento deve ser considerada no 550.10.001 – Segurança de espaços públicos e abertos ao público#
+A ação de vigilância no âmbito de apoio à investigação criminal deve ser considerada em 600.10.504 – Ação de pesquisa e vigilancia#
+O pedido de proteção e socorro deve ser considerado em 550.20.500 – Ação de proteção e socorro#
+A recolha de dados sobre os índices de poluição ambiental deve ser considerada em 800.10.301 – Monitorização de índices da qualidade ambiental#
+A recolha de dados sobre os recursos naturais, espécies e paisagens deve ser considerada em 800.10.302 – Monitorização de recursos ambientais e naturais#
+A recolha de dados sobre o abastecimento e distribuição de água e do saneamento de águas residuais deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais#";"NOP ANPC 3101/2013#
+DL 49-A/2012#
+Lei 11/2009#
+DL 220/2008#
+DL 344/2007#
+Lei 58/2005#
+";PE;S;"PMar#
+APA#
+IPMA#
+DGRM#
+ICNF#
+GNR#
+AL#";"ANPC#
+";"Assessorar#
+
+";"150.20.300#
+150.40.500#
+500.10.301#
+500.20.002#
+500.20.003#
+500.20.300#
+550.20.001#
+550.20.500#
+800.10.301#
+800.10.302#";"Avaliação de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+Emissão de avisos e declaração de alertas#
+Ação de proteção e socorro#
+Monitorização de índices da qualidade ambiental#
+Monitorização de recursos ambientais e naturais#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Suplemento para#
+Cruzada#
+Cruzada#";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (PN 500.10.301 - Realização de fiscalização).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos).";;;;;;;;;;;;
+
+;550.20.003;Realização de exercícios e simulacros;"Preparação sistemática de pessoas e animais através da simulação de cenários de emergência e catastróficos, visando treinar a destreza, os equipamentos e a comunicação das forças de proteção civil e socorro no terreno e testar os procedimentos planeados.
+Inicia com a identificação da necessidade do exercício ou com o pedido de simulacro das entidades e termina com o envio de recomendações.
+Inclui pedido às entidades (quando a iniciativa é das forças de segurança), análise do pedido, elaboração de orçamento, indicação do pagamento, quando devido, reunião preparatória, acionamento dos meios necessários, operacionalização e relato do exercício e simulacro.";"Realização de simulacros por iniciativa de entidades públicas#
+Realização de simulacros a pedido de entidades privadas#
+Realização de exercícios e operações de âmbito militar, nacionais ou internacionais#";;"A realização de exercícios e simulacros que decorra de ações de formação deve ser considerada em 750.20.600 – Realização de atividades de ensino ou formação#
+A realização de exercícios militares deve ser considerada em 550.30.006 – Realização de exercícios militares#
+A elaboração de orçamento do exercício e simulacro contratualizado deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços#";"NOP ANPC 3101/2013#
+DL 220/2008#
+Portaria 1532/2008#
+";PC;S;"FSS#
+FA#
+AL#
+ANPC#
+Grupo IP#
+";"AP#
+FSS#
+FA#
+ANPC#
+INMLCF#
+PJ#
+AL#";"Iniciar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+";"150.10.200#
+150.10.300#
+150.10.400#
+150.20.001#
+300.10.005#
+500.10.001#
+";"Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito regional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito municipal e intermunicipal#
+Preparação de regras e orientações internas#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Realização de auditorias#
+";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Cruzada#
+Suplemento para#
+";Elevada;S;;;;;;;;;;;;;;;;;;
+
+;550.20.003.01;Realização de exercícios e simulacros: preparação;"Inicia com a identificação da necessidade do exercício ou com a comunicação da requisição do serviço pelas entidades e termina com a a aprovação do exercício ou simulacro.
+Inclui pedido às entidades (quando a iniciativa é das forças de segurança), reunião preparatória, planeamento da ação, avaliação de risco e acionamento dos meios necessários.";;;;;;;;;;;;;;;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (PN 500.10.301 - Realização de fiscalização).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada em 550.20.003.02 - Realização de exercícios e simulacros: condução e registo.";;;;;;;;;;;;
+
+;550.20.003.02;Realização de exercícios e simulacros: condução e registo;"Inicia com a operacionalização dos meios e intervenientes e termina com o envio do relato da operação ou recomendações, quando devido.
+Inclui a produção do relato.";;;;;;;;;;;;;;;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (PN 500.10.301 - Realização de fiscalização).";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Sintetiza a informação de 550.20.003.01 – Realização de exercícios e simulacros: preparação. 
+A informação criada é representativa da atuação de forças de proteção e socorro em ações de complexidade elevada e com recursos a uma elevada percentagem de operacionais, com grande impacto ao nível da proteção e socorro a bens e pessoas.    ";;;;;;;;;;;;
+
+;550.20.004;Realização de piquetes ocasionais de prevenção;"Operação de segurança preventiva em situações de potencial risco, no âmbito de eventos ocasionais que ocorram no espaço público ou aberto ao público.
+Inicia com o pedido interno ou com a comunicação da requisição do serviço pelas entidades e termina com o relato do exercício.
+Inclui planeamento da ação, avaliação de risco, identificação dos meios necessários, elaboração de orçamento da ação e operacionalização.";"Realização de piquetes por iniciativa de entidades públicas#
+Realização de piquetes a pedido de entidades privadas#";;A elaboração de orçamento do piquete de prevenção contratualizado deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços#;"DL 309/2002#
+DL 141/2009#
+DL 268/2009#
+DL 48/2011#";PC;S;"FSS#
+AL#
+ANPC#
+";AP#;Iniciar#;"150.20.300#
+150.40.500#
+300.10.005#
+450.10.221#
+500.10.001#
+500.10.300#
+500.10.301#
+500.20.002#
+500.20.003#
+550.20.001#
+550.20.500#
+900.10.001#
+900.10.002#
+950.20.600#
+";"Avaliação de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Licenciamento de recintos itinerantes ou improvisados#
+Realização de auditorias#
+Realização de inspeção#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Emissão de avisos e declaração de alertas#
+Ação de proteção e socorro#
+Conceção e realização de atividades ou acontecimentos artísticos#
+Conceção e realização de atividades desportivas ou recreativas#
+Criação e atualização de contactos institucionais#
+";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Sucessão (sucessor)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+";Reduzida;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (PN 500.10.301 - Realização de fiscalização).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos).";;;;;;;;;;;;
+
+;"550.20.005
+
+";"Identificação de recursos e meios mobilizáveis para atuação no âmbito da proteção e socorro
+
+
+
+";"Identificação e caracterização dos recursos e meios disponíveis e mais facilmente mobilizáveis, ao nível local, regional e nacional em situação de acidente grave ou catástrofe.
+Inicia com identificação e termina com a anulação do registo.
+Inclui recolha de informação.
+";"Reconhecimento e relação de recursos e meios públicos utilizáveis#
+Reconhecimento e relação de recursos e meios privados utilizáveis#";;;"Lei 27/2006#
+Lei 80/2015#
+";PC;S;"ANPC#
+AL#
+";AP#;Assessorar#;"150.10.200#
+150.10.300#
+150.10.400#
+150.20.001#
+150.20.200#
+150.20.404#
+150.30.001#
+300.10.700#
+300.10.601#
+300.30.008#
+300.40.501#
+300.50.401#
+500.10.301#
+500.20.002#
+500.20.003#
+500.20.300#
+";"Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito regional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito municipal e intermunicipal#
+Preparação de regras e orientações internas#
+Planeamento de necessidades de recursos humanos#
+Prestação de contas#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Depósito de bens não culturais#
+Requisição temporária de bens do domínio privado#
+Registo de documentos e informação#
+Conservação e proteção de informação#
+Processamento de pedidos de material consumível#
+Realização de fiscalização#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Síntese (sintetizado)#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância) e de fiscalização (PN 500.10.301 - Realização de fiscalização).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada no
+PN 150.20.001 - Preparação de regras e orientações internas.";;;;;;;;;;;;
+
+;"550.20.006
+
+";Atendimento telefónico de emergência;"Prestação em tempo útil de informações e de adequado encaminhamento em situações de urgência relativas a questões de saúde, incêndios, assaltos e outras, visando assegurar a interoperabilidade, compatibilidade e interação entre as centrais de emergência e os sistemas de informação das várias entidades envolvidas e acionamento dos sistemas de socorro.
+Inicia com a receção da chamada e termina com o encaminhamento adequado para a resposta de emergência.
+Inclui informações necessárias ao correto encaminhamento e acionamento dos meios de resposta.
+";"Atendimento, em central telefónica, para ocorrer a situações de emergência#
+
+";;"A prestação de assistência médica a vítimas de acidente ou de doença súbita deve ser considerada em 700.20.300 – Prestação de cuidados de emergência médica#
+A operacionalização de ações de socorro deve ser considerada em 550.20.500 – Ação de proteção e socorro#";"DL 167/2006#
+DL 73/97#
+";PE;S;FSS#;"PSP#
+GNR#
+ANPC#
+INEM#
+MP#
+FA#
+AMN#
+APA#
+SGMAI#
+AL#";"Apreciar#
+Apreciar#
+Apreciar#
+Apreciar#
+Apreciar#
+Apreciar#
+Apreciar#
+Apreciar#
+Assessorar#
+Assessorar#";"150.20.300#
+150.40.500#
+500.10.001#
+550.10.005#
+550.20.500#
+700.20.102#";"Avaliação de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Realização de auditorias#
+Segurança de infraestruturas estratégicas#
+Ação de proteção e socorro#
+Prevenção de crises pandémicas e situações de emergência sanitária ou de saúde pública#";"Síntese (sintetizado)#
+Suplemento para#
+Suplemento para#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Sucessão (sucessor)#";Média;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para processamento do PN 150.40.500 - Recolha de tratamento de dados estatísticos de apoio à gestão.
+";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada complementarmente em
+PN 150.20.300 - Avaliação de atividades;
+PN 150.40.500 - Recolha de tratamento de dados estatísticos de apoio à gestão.";;;;;;;;;;;;
+
+;"550.20.500
+
+";"Ação de proteção e socorro
+
+";"Operação de auxílio ou assistência prestada em situações de perigo ou de riscos naturais ou tecnológicos com entidades militares e civis.
+Inicia com a decisão do tipo de intervenção e termina com o relato da operação.
+Inclui diagnóstico de situação, acionamento dos meios e recursos necessários e operacionalização.
+Inclui, ainda, as ações de proteção de pessoas e bens que se encontrem em situações de perigo em colaboração com entidades militares e civis.
+
+";"Busca e salvamento marítimo, aéreo e terrestre#
+Intervenção em caso de acidente rodoviário, marítimo, ferroviário ou aéreo#
+Intervenção em caso de catástrofe natural#
+Intervenção em caso de cheias ou inundações#
+Intervenção em caso de incêndio#
+Ocorrência de falsos alarmes#
+Transporte de sinistrados e doentes#
+Transporte de órgãos para transplante#
+Apoio sanitário#
+Evacuações médicas#
+Proteção em caso de contaminação nuclear, biológica, química e radiológica#
+Criação de infraestruturas provisórias#
+Preparação e resposta a emergências radiológicas e nucleares#";;"A assistência médica que decorra no transporte de sinistrados e doentes deve ser considerada em 700.20.300 – Prestação de cuidados de emergência médica#
+A ajuda humanitária no estrangeiro deve ser considerada em 200.30.001 – Coordenação e execução de ações de ajuda humanitária e de emergência#
+O acolhimento de emergência enquanto resposta de proteção social deve ser considerado em 650.20.600 – Acolhimento de emergência em equipamentos de apoio social#
+";"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#
+Lei Orgânica 6/2014#
+NOP ANPC 3101/2013#
+DL 220/2008#
+Lei 65/2007#
+Lei 53/2007#
+Lei 63/2007#
+DL 75/2007#
+DL 78/2007#
+Lei 27/2006#
+DL 252/2000#";PE;S;"AL#
+ANPC#
+FSS#
+FA#
+Grupo IP#";"AL#
+ANPC#
+FSS#
+FA#
+SEF#
+APA#
+";"Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+
+
+";"150.20.300#
+500.10.001#
+500.20.002#
+500.20.003#
+500.20.300#
+550.20.002#
+550.20.004#
+550.20.006#
+550.30.600#
+650.20.600#
+700.20.300#
+";"Avaliação de atividades#
+Realização de auditorias#
+Realização de inquérito#
+Realização de sindicância#
+Procedimento disciplinar#
+Ação de vigilância#
+Realização de piquetes de prevenção#
+Atendimento telefónico de emergência#
+Participação em operações de resposta a crises#
+Acolhimento de emergência em equipamentos de apoio social#
+Prestação de cuidados de emergência médica#
+";"Síntese (sintetizado)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#";Elevada;N;;;;;;;;;;;;;;;;;;
+
+;550.20.500.01;Ação de proteção e socorro: preparação;"Inicia com o alarme ou com o pedido de proteção e socorro e termina com a preparação da operacionalização.
+Inclui diagnósticos de situação, definição e acionamento dos meios e recursos necessários e operacionalização articulada entre forças de segurança, de proteção e militares, quando devido.";;;;;;;;;;;;;;;10;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância; PN 500.20.300 - Procedimento disciplinar) e inspetiva (500.10.300 - Realização de inspeção) e em sede do PN 500.10.001 - Realização de auditorias.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação sintetizada recuperável no relato da operação previsto em PN 550.20.500.02 - Ação de proteção e socorro: realização e registo.";;;;;;;;;;;;
+
+;550.20.500.02;Ação de proteção e socorro: realização e registo;"Inicia com a elaboração do relato da operação e termina com a sua comunicação.
+";;;;;;;;;;;;;;;10;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede de ação disciplinar (PN 500.20.002 - Realização de inquérito; PN 500.20.003 - Realização de sindicância; PN 500.20.300 - Procedimento disciplinar) e inspetiva (500.10.300 - Realização de inspeção) e em sede do PN 500.10.001 - Realização de auditorias.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação síntese do PN 550.20.500.01 - Ação de proteção e socorro: preparação e execução.
+
+";;;;;;;;;;;;
+
+;"550.20.501
+
+";Atuação em estado de emergência;"Intervenção em situações de estados de emergência declarado quando se verifiquem ou ameacem verificar-se casos de calamidade pública.
+Inicia com a declaração de estado de emergência sob a forma de decreto do Presidente da República ou representante nas Regiões Autónomas e termina com a revogação do decreto ou pelo decurso do prazo fixado.
+Inclui a audição do Governo e a autorização da Assembleia da República, a renovação ou modificação da declaração.
+
+ ";"Ssegurança dos cidadãos em situações de calamidade pública#
+Participação das Forças Armadas e apoio às autoridades administrativas civis#";;"As situações de atos de força ou insurreição devem ser consideradas em 550.30.003 – Atuação em estado de sítio#
+
+";"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#
+Lei Orgânica 6/2014#
+Lei 44/86#";PE;S;"ANPC#
+AAC#
+FSS#
+";FA#;Assessorar#;"150.20.300#
+150.30.001#
+300.10.005#
+550.10.005#";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Segurança de infraestruturas estratégicas#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (sucessão)#
+Cruzada#";Elevada;S;5;;"#Critério legal:
+[Lei 44/86],  RESEE, art.º 2º, nº 3, Garantias dos direitos dos cidadãos, ""Os cidadãos cujos direitos, liberdades e garantias tiverem sido violados por declaração do estado de sítio ou do estado de emergência, ou por providência adotada na sua vigência, ferida de inconstitucionalidade ou ilegalidade, designadamente por privação ilegal ou injustificada da liberdade, têm direito à correspondente indemnização, nos termos gerais"",
+[DL 47344/66],  CC, art.º 498º,  nº 1 - Prazo prescricional do direito de indemnização de 3 anos;
+([DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+
+
+";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+As relações de síntese  estabelecidas com outros PN, como as estatísticas e a avaliação da atividade da entidade, apenas permitem recuperar a enumeração dos casos (a sua dimensão geral), não habilitando a uma síntese qualitativa que represente a complexidade do PN.
+Pelo que, se torna necessário a conservação da atuação particular da entidade neste PN.
+";;;;;;;;;;;;
+
+;"550.30
+
+";"Missões de defesa e apoio à paz
+";Compreende as operações militares e paramilitares desenvolvidas em situações de guerra ou de manutenção da paz, em território nacional ou no estrangeiro.;;;"A celebração de convenções, acordos ou protocolos internacionais, ainda que diretamente relacionados com operações de defesa, deve ser considerada em ""Execução da política externa/ Definição de políticas conjuntas e dos instrumentos de regulação"" (200.10).";;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;"550.30.001
+
+";Participação em operações de defesa convencional do território nacional;"Ações decorrentes da participação em operações que assegurem a defesa militar da República e a organização da resistência ativa, a fim de garantir a integridade do território, a defesa do espaço aéreo e marítimo nacionais, e a liberdade e segurança das populações contra qualquer agressão ou ameaças externas.
+Inicia com a determinação da Tutela e ou do Chefe do Estado-Maior-General das Forças Armadas e termina com a aprovação do relatório final.
+Inclui autorização dos chefes dos ramos das Forças Armadas, nomeação e publicitação dos participantes das missões, elaboração de ordens e relatórios operacionais.
+";"Segurança e defesa do território nacional e dos cidadãos (defesa militar da nação)#
+Organização da resistência ativa, a fim da garantir e repor a independência nacional e a integridade do território, a defesa do espaço aéreo e marítimo nacionais, a liberdade e segurança das populações contra qualquer agressão ou ameaças externas#";;"As ações de exercício da soberania, jurisdição e responsabilidades nacionais nomeadamente as ações de proteção e socorro devem ser consideradas em 550.20.500 – Ação de proteção e socorro#
+A vigilância dos espaços sob soberania e jurisdição nacional, da circulação e segurança das linhas de comunicação deve ser consideradas em 550.30.400 – Vigilância dos espaços sob soberania e jurisdição nacional, da circulação e segurança das linhas de comunicação#";"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#";PE;S;"FA#
+";"EMGFA#
+DGPDN#";"Decidir#
+Assessorar#";150.20.300#;"Avaliação de atividades#
+";Síntese (sintetizado)#;Média;S;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;C;"#Critério legal:
+[Lei 100/2003], CJM, art.º 49º, 
+Disposições comuns 
+1 - O procedimento criminal e as penas impostas pelos crimes previstos nos artº 41 a 44 e 46 a 48 são imprescritíveis.
+Considerou-se para a conservação permanente a imprescritibilidade de alguns crimes.";;;;;;;;;;;;
+
+;"550.30.002
+
+";Ciberdefesa;"Condução de operações militares no ciberespaço, assegurando a liberdade de ação do país no ciberespaço e, quando necessário e determinado, a exploração proactiva do ciberespaço para dificultar o seu uso hostil contra o interesse nacional ou impedir ameaças que ponham em risco a soberania e a segurança nacional.
+Inicia com a avaliação da ameaça e termina com e termina com a aprovação do relatório final.
+Inclui a identificação de potenciais atacantes e as suas intenções e a resposta às ameaças.
+
+
+";Operações defensivas, de exploração e ofensivas contra ataques cibernéticos#;;"O apoio na proteção e defesa das infraestruturas criticas nacionais e do governo eletrónico do Estado deve ser considerado em 550.10.011 – Cibersegurança#
+
+
+
+
+
+";"Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 6/2003#
+Resolução do Conselho de Ministros 36/2015#
+Despacho 13692/2013#
+Resolução do Conselho de Ministros 26/2013#
+
+
+";PE;S;"FA#
+";"EMGFA#
+DGPDN#";"Decidir#
+Assessorar#";"150.20.300#
+150.30.001#
+300.10.005#
+550.10.011#
+550.30.004#";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Cibersegurança#
+Evacuação de cidadãos nacionais em áreas de tensão#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#";Elevada;S;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;;;;
+
+;"550.30.003
+
+";Atuação em estado de sítio;"Intervenção em situações de estados de sítio a fim de garantir a soberania, a independência, a integridade territorial ou a ordem constitucional democrática e a segurança dos cidadãos.
+Inicia com a declaração de estado de sítio sob a forma de decreto do Presidente da República e termina com a  revogação do decreto ou pelo decurso do prazo fixado.
+Inclui a audição do Governo e a autorização da Assembleia da República, a renovação ou modificação da declaração.";"Segurança e defesa do território nacional e dos cidadãos quando se verifiquem ou estejam iminentes atos de força ou insurreição#
+Participação das forças e serviços de segurança e de autoridades administrativas civis#";;As situações de calamidade devem ser consideradas em 550.20.501 – Atuação em estados de emergência#;"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#
+Lei 44/86#
+Lei Orgânica 1/2012#";PE;S;EMGFA#;"FA#
+FSS#
+
+";"Assessorar#
+Assessorar#
+";"150.20.300#
+150.30.001#
+300.10.005#
+550.10.005#";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Segurança de infraestruturas estratégicas#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (sucessão)#
+Cruzada#";Elevada;S;5;;"#Critério legal:
+Conjugação:
+[Lei 44/86], RESEE, art.º 2º, nº 3, ""Os cidadãos cujos direitos, liberdades e garantias tiverem sido violados por declaração do estado de sítio ou do estado de emergência, ou por providência adotada na sua vigência, ferida de inconstitucionalidade ou ilegalidade, designadamente por privação ilegal ou injustificada da liberdade, têm direito à correspondente indemnização, nos termos gerais"";
+[DL 47344/66], CC, art.º 498º, nº 1 – Prazo prescricional do direito de indemnização; 
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+As relações de síntese  estabelecidas com outros PN, como as estatísticas e a avaliação da atividade da entidade, apenas permitem recuperar a enumeração dos casos (a sua dimensão geral), não habilitando a uma síntese qualitativa que represente a complexidade do PN.
+Pelo que, se torna necessário a conservação da atuação particular da entidade neste PN.
+";;;;;;;;;;;;
+
+;"550.30.004
+
+";Evacuação de cidadãos nacionais em áreas de tensão;"Atuação no Espaço Estratégico de Interesse Nacional Conjuntural a fim de proteger e evacuar cidadãos nacionais em áreas de tensão ou crise, através de ações autónomas ou eventualmente coligadas.
+Inicia com a caracterização da situação e termina com a aprovação do relatório final.
+Inclui determinação da Tutela e/ou do CEMGFA, autorização dos chefes dos Ramos, planeamento da ação, nomeação e publicitação dos participantes na missão, elaboração de ordens e relatórios operacionais.";Cidadãos civis em qualquer zona do globo em que os interesses nacionais estejam em causa ou tenham lugar acontecimentos que os possam afetar#;;As ações de socorro, busca e salvamento devem ser consideradas em 550.20.500 – Ação de Proteção e Socorro#;"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#";PE;S;"FA#
+";"EMGFA#
+DGPDN#";"Decidir#
+Assessorar#";"150.20.300#
+150.30.001#
+200.30.001#
+300.10.005#
+550.30.002#
+800.10.602#";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Coordenação e execução de ações de ajuda humanitária e de emergência#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Ciberdefesa#
+Realização de estudos científicos e técnicos de apoio a políticas públicas#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#";Média;S;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;;;;
+
+;"550.30.005
+
+";Extração e proteção de contingentes e Forças Nacionais destacadas;"Atuação no Espaço Estratégico de Interesse Nacional Conjuntural a fim de proceder à extração, proteção ou reforço de contingentes e FND, em ambiente não permissivo, com oposição.
+Inicia com a caracterização da situação e termina com a aprovação do relatório final.
+Inclui determinação da Tutela e/ou do CEMGFA, autorização dos chefes dos Ramos, planeamento da ação, nomeação e publicitação dos participantes na missão, elaboração de ordens e relatórios operacionais.";Militares em qualquer zona do globo em que os interesses nacionais estejam em causa ou tenham lugar acontecimentos que os possam afetar#;;A evacuação de cidadãos nacionais em áreas de crise devem ser consideradas em 550.30.004 – Evacuação de cidadãos nacionais em áreas de tensão#;"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#";PE;S;"FA#
+";"EMGFA#
+DGPDN#";"Decidir#
+Assessorar#";"150.20.300#
+150.30.001#
+200.10.001#
+200.10.800#
+300.10.005#
+550.10.005#
+";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Negociação e definição de posições nacionais#
+Celebração de acordos e outros atos internacionais#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Segurança de infraestruturas estratégicas#
+";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+";Média;S;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;;;;
+
+;"550.30.006
+
+";Realização de exercícios militares;"Capacitar a prontidão de pessoal e meios, incluindo os diferentes órgãos e ramos militares para uma articulação concertada em território nacional e internacional.  em exercícios conjuntos e combinados.
+Inicia com a avaliação da necessidade ou com o planeamento da ação e termina com o relatório final.
+Inclui autorização do CEMGFA e dos chefes dos Ramos, nomeação e publicitação dos participantes nos exercícios, elaboração de ordens e de relatórios operacionais.";"Manobras e a exercícios militares conjuntos entre os ramos das Forças Armadas ou com as Forças Armadas de outros países#
+Manobras militares e a exercícios em território nacional ou estrangeiro#
+Exercícios nacionais e internacionais de ciberdefesa#";;;Resolução do Conselho de Ministros 19/2013#;PE;S;"FA#
+";"EMGFA#
+APA#";"Decidir#
+Comunicar#";"150.20.300#
+200.10.800#
+300.10.005#
+";"Avaliação de atividades#
+Celebração de acordos e outros atos internacionais#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#";"Síntese (sintetizado)#
+Sucessão (antecessor)#
+Cruzada#
+";Elevada;S;;;;;;;;;;;;;;;;;;
+
+;550.30.006.01;Realização de exercícios militares: preparação e execução;"Aplica-se às fases de desenvolvimento das específicações e do conceito, do planeamento e desenvolvimento dos produtos e termina na fase da conduta operacional.
+Inicia com todas as atividades associadas ao desenvolvimento das específicações e do conceito do exercício, as atividades de planeamento, coordenação, e preparação do exercício e termina com as instruções necessárias à condução do exercício.
+Inclui a execução do exercício.
+";;;;;;;;;;;;;;;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal.
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional: 
+Informação sintetizada em 550.30.006.02 - Realização de exercícios militares: análise e avaliação.";;;;;;;;;;;;
+
+;550.30.006.02;Realização de exercícios militares: análise e avaliação;"Inicia após a fase de execução do exercício.
+Inclui a elaboração dos relatórios de primeiras impressões (FIR), do relatório final do exercício (FER) e termina com a elaboração do relatório das ações corretivas (RAR).
+
+";;;;;;;;;;;;;;;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal.
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Sintetiza a informação de 550.30.006.01 – Realização de exercícios militares: preparação e execução ";;;;;;;;;;;;
+
+;550.30.200;Defesa do território das nações aliadas;"Empregar forças e meios militares a fim de assegurar a satisfação dos compromissos internacionais assumidos no quadro mútuo de defesa coletiva.
+Inicia com a avaliação da necessidade e termina com o relatório final.
+Inclui determinação do CEMGFA e autorização dos chefes dos Ramos, nomeação e publicitação dos participantes nos exercícios, elaboração de ordens e de relatórios operacionais.";Ambito da OTAN e da União Europeia (EU)#;;;"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#
+Lei Orgânica 6/2014#
+
+";PE;S;"FA#
+";"EMGFA#
+DGPDN#";"Decidir#
+Assessorar#";"150.30.001#
+200.10.001#
+200.10.002#
+200.10.800#
+300.10.005#
+550.10.005#
+550.10.008#
+800.10.602#
+
+";"Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Negociação e definição de posições nacionais#
+Representação e participação em organizações internacionais#
+Celebração de acordos e outros atos internacionais#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Segurança de infraestruturas estratégicas#
+Controlo de pessoas nas fronteiras#
+Realização de estudos científicos e técnicos de apoio a políticas públicas#";"Cruzada#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Síntese (sintetizado)#";Elevada;S;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;;;;
+
+;550.30.400;Vigilância dos espaços sob soberania e jurisdição nacional, da circulação e segurança das linhas de comunicação;"Intervenção de controlo dos espaços sob soberania nacional e/ou no Espaço Estratégico de Interesse Nacional Permanente para assegurar a sua plena utilização em segurança, no respeito pelo Direito Internacional.
+Inicia com a determinação da Tutela e/ou do CEMGFA e termina com a aprovação do relatório final.
+Inclui autorização dos chefes dos Ramos, nomeação e publicitação dos participantes das missões, elaboração de ordens e relatórios operacionais.";"Exercício da soberania, jurisdição e responsabilidades nacionais#
+Fiscalização marítima e aérea, vigilância aérea e terrestre#
+Preservação e proteção ambiental e da prevenção da criminalidade#
+Garantir a livre circulação no território nacional e defesa de portos e aeroportos#
+Vigiar e controlar as principais rotas internacionais aéreas e marítimas que intersetam o Espaço Estratégico de Interesse Nacional Permanente#";;"As ações de controlo de fronteiras devem ser consideradas em 550.10.008 – Controlo de pessoas nas fronteiras#
+Excluem-se as ações no âmbito do Regime jurídico aplicável ao trabalho aéreo#
+A execução de operações de segurança proteção ou defesa deve ser considerada em 550.10.302 – Autorização de trânsito para efeitos de afastamento por via aérea#";"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#
+Lei Orgânica 6/2014#
+
+";PE;S;"AAN#
+AMN#
+FA#";"EMGFA#
+APA#";"Decidir#
+Assessorar#";"150.20.300#
+150.30.001#
+200.10.001#
+300.10.005#
+550.10.005#
+550.10.008#
+800.10.602#";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Negociação e definição de posições nacionais#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Segurança de infraestruturas estratégicas#
+Controlo de pessoas nas fronteiras#
+Realização de estudos científicos e técnicos de apoio a políticas públicas#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (sucessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Síntese (sintetizado)#";Média;S;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;;;;
+
+;550.30.600;"Participação em operações de resposta a crises
+";"Participação das forças militares em operações de resposta em cenário de guerra no âmbito da OTAN, a fim de contribuir para a segurança internacional.
+Inicia-se com os despachos da tutela e das direções dos organismos participantes e termina com o relatório final.
+Inclui autorização dos chefes dos Ramos, nomeação e publicitação dos participantes das missões, elaboração de ordens e relatórios operacionais.
+";"Operações militares fora do território nacional e no âmbito da OTAN, que assenta nos compromissos internacionais de Portugal, envolvendo praticamente todas as capacidades expedicionárias das Forças Armadas portuguesas#
+Apoio e assistência a deslocados e refugiados e operações humanitárias fora do âmbito das operações de apoio à paz#";;"A evacuação de cidadãos nacionais em áreas de crise deve ser considerada em 550.30.004 – Evacuação de cidadãos nacionais em áreas de tensão#
+A extração e proteção de Contingentes e Forças Nacionais Destacadas deve ser considerada em 550.30.005 – Extração e proteção de contingentes e Forças Nacionais Destacadas#
+As ações de proteção, socorro, busca e salvamento devem ser consideradas em 550.20.500 – Ação de proteção e socorro#";"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei Orgânica 1-A/2009#
+Lei Orgânica 6/2014#
+
+";PE;S;"FA#
+";"EMGFA#
+";"Decidir#
+";"150.20.300#
+150.30.001#
+200.10.002#
+200.10.800#
+200.30.001#
+300.10.005#
+550.20.500#";"Avaliação de atividades#
+Produção e intercâmbio de informação estratégica para segurança interna e defesa#
+Representação e participação em organizações internacionais#
+Celebração de acordos e outros atos internacionais#
+Coordenação e execução de ações de ajuda humanitária e de emergência#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Ação de proteção e socorro#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Sucessão (sucessor)#";Média;S;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;;;;
+
+;550.30.601;Participação em missões de apoio à paz;"Ações decorrentes de compromissos, de acordos, tratados e convenções internacionais, de participação em operações e missões em tempo de paz, integrando forças militares e de segurança.
+Inicia com os despachos da tutela e das direções dos organismos participantes e termina com o relatório final.
+Inclui análise dos pedidos de intervenção, fornecimento de elementos adicionais às entidades envolvidas, preparação do empreendimento, apuramento dos encargos resultantes, elaboração de relatório sobre atuação no terreno, coordenação entre entidades.
+";"Gestão civil de crises e de manutenção da paz no âmbito policial que decorram fora do território nacional, quer sob a égide de um organismo internacional (EUROGENDFOR, NATO, ONU) quer sob a requisição do Governo anfitrião#
+Atuação militar para reposição e manutenção da paz#
+Atuação militar no âmbito da OTAN, incluindo o policiamento aéreo e vigilância aeronaval, da EU, ONU e CPLP, nomeadamente manutenção, imposição, restabelecimento e consolidação da paz e prevenção de conflitos#
+Compromissos decorrentes de acordos, tratados e convenções internacionais, designadamente em operações internacionais de gestão civil de crises da União Europeia, de apoio à paz da ONU e/ou coordenadas por outras Organizações Internacionais ou Regionais em que haja participação no âmbito policial#";;"A ajuda humanitária no estrangeiro deve ser considerada em 200.30.001 – Coordenação e execução de ações de ajuda humanitária e de emergência#
+Excluem-se as operações de âmbito estritamente militar que não sejam a manutenção da ordem pública, de investigação criminal, de proteção da natureza e pesquisa de informações policiais#";"Lei Orgânica 6/2014#
+Resolução do Conselho de Ministros 19/2013#
+Lei 53/2007#
+Lei 63/2007#
+DL 75/2007#
+DL 78/2007#
+DL 252/2000#";PE;S;"FA#
+";"EMGFA#
+DGPDN#";"Decidir#
+Assessorar#";"100.10.002#
+150.20.300#
+200.10.002#
+200.10.800#
+200.30.001#
+300.10.005#";"Aprovação e comunicação de convenções internacionais#
+Avaliação de atividades#
+Representação e participação em organizações internacionais#
+Celebração de acordos e outros atos internacionais#
+Coordenação e execução de ações de ajuda humanitária e de emergência#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Cruzada#
+Cruzada#";Elevada;S;5;;"#Critério legal:
+[Lei Orgânica 2/2009], RDM, 
+art.º 55º - Prescrição do procedimento disciplinar
+1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infração tiver sido cometida.
+2 - Exceptuam-se as infrações disciplinares que constituam também ilícito criminal
+art.º 56º - Prescrição das penas
+1 - As penas disciplinares prescrevem nos prazos seguintes:
+a) Cinco anos.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

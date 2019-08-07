@@ -1,0 +1,1525 @@
+Estado;Código;Título;Descrição;Notas de aplicação;Exemplos NA;Notas de exclusão;Diplomas jurídico-administrativos REF;Tipo de processo;Processo transversal (S/N);Dono do processo;Participante no processo;Tipo de intervenção do participante;Código do processo relacionado;Título do processo relacionado;Tipo de relação entre processos;Dimensão qualitativa do processo;Uniformização do processo;Prazo de conservação administrativa;Nota ao PCA;Justificação PCA;Forma de contagem do PCA;Destino final;Justificação DF;Notas;;;;;;;;
+
+;800;PRESTAÇÃO DE SERVIÇOS TÉCNICOS E CIENTÍFICOS, INVESTIGAÇÃO E DESENVOLVIMENTO;Relativo a atividades de investigação científica em qualquer domínio do conhecimento, a atividades de desenvolvimento técnico e tecnológico, de transferência de tecnologia e inovação, bem como a outras atividades que utilizam métodos científicos para a produção de conhecimento ou resolução de problemas.;Aplicável tanto às entidades que prestam os serviços referidos como aos que solicitam a prestação dos mesmos#;;"A prestação de serviços de ensino/formação deve ser considerada em ""Prestação de serviços de ensino e formação"" (750).
+A prestação de cuidados de saúde deve ser considerada em ""Prestação de cuidados de saúde"" (700).
+Os processos de investigação criminal devem ser considerados em ""Administração da justiça/ Prevenção e investigação criminal"" (600.10).";;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;800.10;Execução de serviços científicos e técnicos;"Compreende os serviços de assistência técnica por emissão de relatórios ou pareceres técnicos especializados com base em instrumentos de referência e/ou no conhecimento científico, e/ou serviços de assistência técnica no campo (ex. exploração de recursos naturais) ou laboratorial (ex. desenvolvimento de novos métodos analíticos ou aplicação de metodologias conhecidas a pedido de clientes).
+Compreende também o levantamento de dados e constituição de repositórios ou bancos de dados de reconhecimento ou monitorização de parâmetros em qualquer domínio científico e para qualquer finalidade, a produção de cartografia digital ou analógica, a realização de trabalhos laboratoriais, de exames periciais, de estudos de impacto ou outros trabalhos de apoio e consultoria técnico-científica.";"Exemplos de aplicação:
+- Processos de recolha e processamento de informação geodésica e georreferenciada para caracterização topográfica e topo-hidrográfica, administrativa, geológica, biológica, ou outra;
+- Processos de monitorização e vigilância sísmica, climática, sanitária, epidemiológica;
+- Produção de cartografia de base ou temática;
+- Realização de análises laboratoriais;
+- Realização de peritagens;
+- Elaboração de estudos de impacto ambiental.";;"De notar que os resultados (relatórios finais) das atividades técnico-científicas constituem-se, por vezes, em inputs de outros processos (por exemplo, o resultado de um estudo de impacto ambiental pode vir a integrar um processo de planeamento, o resultado do processamento de análises laboratoriais pode vir a integrar um processo de investigação criminal, etc.).
+Os relatórios de estudos de impacto ambiental, ou outros, entregues para fundamentação ou apreciação associada a um processo de decisão (de planeamento, de licenciamento ou outro) devem ser considerados no âmbito do processo em causa.
+A produção estatística deve ser considerada em ""Planeamento e gestão estratégica/ Produção de informação estatística"" (150.40).
+A contratualização e a gestão de contratos de qualquer serviço prestado pelos organismos da Administração devem ser consideradas em ""Administração de direitos, bens e serviços/ Aquisição, venda, abate ou permuta"" (300.10).";;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;800.10.001;Produção de informação georreferenciada;"Aquisição e processamento de informação geográfica e alfanumérica.
+Inicia com recolha de informação geodésica, topográfica e fotogramétrica e de informação temática, organizada ou não sob a forma de bases de dados digitais, e termina com a obtenção de cartografia de base, de cartografia temática e de conjuntos de dados geográficos, de acordo com as solicitações dos utilizadores
+Inclui execução de levantamentos diretos com base em GNSS e Topografia, levantamentos fotogramétricos com base em imagens aéreas ou orbitais, recolha de dados cartográficos já existentes, fotointerpretação de imagens, generalização cartográfica, criação de Modelos Digitais do Terreno e de Superfície. 
+";"Produção de cartografia de base (topográfica e topográfica de imagem, vulgarmente conhecida por ortofotomapas)#
+Produção de cartografia hidrográfica#
+Produção de cartografia temática#
+Produção de cartografia derivada#";Sistema de identificação do parcelário agricola#;A contratualização de serviços no âmbito da recolha ou produção de informação geográfica deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis e prestação de serviços#;"Decreto Regulamentar 10/2009#
+DL 180/2009#
+DL 202/2007#
+DL 193/95#";PE;N;"AL#
+DGT#
+Grupo IP#
+";;;"150.10.600#
+710.10.003#
+710.10.004#
+710.10.005#
+800.10.002#
+800.10.302#";"Avaliação de políticas e instrumentos de operacionalização#
+Recolha e drenagem de águas residuais#
+Tratamento de resíduos#
+Tratamento e rejeição de águas residuais#
+Produção de informação geodésica#
+Monitorização de recursos ambientais e naturais#";"Sucessão (sucessor)#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Complementar#
+Sucessão (sucessor)#";Média ;S;3;;"#Critério legal:
+[DL 180/2009], art.º 24º, nº 3, ""O IGP compila e envia à Comissão Europeia um relatório, de três em três anos.""
+#Critério de utilidade administrativa:
+Prazo para processamento do PN 150.10.600 - Avaliação de políticas e instrumentos de operacionalização.";Data de conclusão do procedimento;C;"#Critério de densidade informacional:
+É complementar do PN 800.10.002 - Produção de informação geodésica.";;;;;;;;;
+
+;800.10.002;Produção de informação geodésica;"Levantamento e processamento de dados geodésicos para constituição de repositórios de dados, com vista à determinação de sistemas geográficos de referência, data altimétricos e planimétricos e parâmetros de transformação. Processo essencial de suporte a toda a produção de cartografia de base. 
+Inicia com a aquisição de dados e termina com a produção da informação. 
+Inclui levantamentos geodésicos no local, monitorização/aferição de equipamentos, validação, cálculo e processamento dos dados.";"Constituição de sistemas geodésicos de referência#
+Determinação de coordenadas e altitudes de vértices geodésicos para controlo posicional e levantamentos topográficos#
+Determinação de altitudes de alta precisão, para cartografia e projetos de apoio à construção de obras de arte#
+Determinação de valores de aceleração da gravidade para a exploração mineira, entre outras#
+Disponibilização de registos maregráficos para elaboração de tabelas de maré, apoio a levantamentos hidrográficos e controlo de zonas costeiras#";Difusão de dados das Estações Permanentes GNSS (Global Navigation Satellite System)#;;"DL 153/2015#
+Portaria 265/2015#";PE;N;DGT#;;;"150.10.600#
+800.10.001#";"Avaliação de políticas e instrumentos de operacionalização#
+Produção de informação georreferenciada#";"Sucessão (sucessor)#
+Complementar#";Elevada;S;3;;"#Critério legal:
+[DL 180/2009], art.º 24º, nº 3, ""O IGP compila e envia à Comissão Europeia um relatório, de três em três anos.""
+#Critério de utilidade administrativa:
+Prazo para processamento do PN 150.10.600 -  Avaliação de políticas e instrumentos de operacionalização.";Data de conclusão do procedimento;C;"#Critério de densidade informacional:
+É complementar do PN 800.10.001 - Produção de informação georreferenciada.";;;;;;;;;
+
+;800.10.300;"Controlo ambiental de infraestruturas e equipamentos
+
+
+";"Recolha contínua ou pontual de informação ou dados, quantitativos ou qualitativos, de modo a garantir o controlo ambiental tendo por base valores de referência.
+Inicia com a observação ou medição de informação e termina com a identificação de fatores críticos ou a validação de agentes padrão.
+Inclui registo de valores.
+";"Identificação de microorganismos em equipamentos#
+Controlo ambiental em contexto de higiene e saúde no trabalho#
+Monitorização e controlo ambiental de instalações# 
+Verificação e controlo microbiológico de instrumentos e mecanismos#
+Controlo da temperatura e da humidade em equipamentos, instrumentos e mecanismos#
+Controlo ambiental de infraestruturas#
+Controlo ambiental de laboratórios#
+";;"O combate a fatores de risco ambientais deve ser considerado em 300.40.506 – Implementação de ações para cumprimento de parâmetros ambientais#
+Combate às pragas deverá ser considerado no 710.10.600 – Profilaxia e controlo de infestantes, pragas e doenças das plantas#";"Portaria 353-A/2013#
+DL 118/2013#
+Lei 102/2009#
+Regulamento CE 1221/2009#
+DL 35/2008#
+Portaria 461/2007#
+DL 79/2006#
+DL 80/2006#
+DL 152/2005#
+DL 50/2005#
+Lei 7/2009#
+DL 441/91#
+DL 243/86#";PC;N;AP#;;;"150.10.200#
+150.40.500#
+250.30.600#
+300.10.005#
+300.30.008#
+300.40.503#
+300.40.505#
+300.40.506#
+300.40.507#
+300.40.509#
+500.10.001#
+500.10.301#
+500.30.500#
+550.20.001#
+700.10.001#
+700.20.100#
+710.10.600#
+800.10.601#
+
+";"Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Prevenção e resolução de conflitos laborais#
+Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Registo de documentos e informação#
+Conservação e valorização de edifícios, infraestruturas e equipamentos#
+Higienização de instalações e equipamentos#
+Implementação de ações para cumprimento de parâmetros ambientais#
+Implementação de planos de contingência#
+Manutenção e reparação de bens móveis duradouros#
+Realização de auditorias#
+Realização de fiscalização#
+Aplicação de medidas administrativas cautelares#
+Emissão de avisos e declaração de alertas#
+Referenciação de utentes para consultas#
+Rastreio#
+Profilaxia e controlo de infestantes, pragas e doenças das plantas#
+Realização de ensaios laboratoriais#
+";"Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+";Média;N;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização.";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação recuperável no PN 150.40.500 -Recolha e tratamento de dados estatísticos de apoio à gestão:
+E caso tenha existido um incidente a informação é recuperável nos
+PN 300.40.506 - Implementação de ações para cumprimento de parâmetros ambientais;
+PN 300.40.507 - Implementação de planos de contingência.";;;;;;;;;
+
+;800.10.301;"Monitorização de índices da qualidade ambiental
+
+
+";"Recolha  contínua ou pontual de informação sobre níveis de ruído, da qualidade da água, do ar e de  toxicidade do solo.
+Inicia com a verificação  de acordo com um plano de monitorização previamente estabelecido e termina com o relatório de apuramento de valores e sua comparação com os indicadores de referência.
+Inclui a identificação das fontes de emissão, do tipo poluentes e a evolução das concentrações médias anuais.
+
+
+
+";"Monitorização de índices de qualidade das massas de água#
+Monitorização das águas balneares costeiras e fluviais#
+Monitorização microbiológica das areias#
+Monitorização de índices de qualidade do ar#
+Monitorização de índices de poluição do solo#
+Monitorização de índices de ruído#
+Monitorização de índices radiológicos#";;"Os índices de poluição em ambiente de trabalho devem ser considerados em 800.10.300 – Controlo ambiental de infraestruturas e equipamentos#
+Os avisos e alertas de segurança devem ser considerados em 550.20.001 – Emissão de avisos e declaração de alertas#
+A vigilância no âmbito da segurança deve ser considerada em 550.20.002 – Ação de vigilância#
+A qualidade da água da rede de distribuição pública deve ser considerada em 800.10.303 – Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais#";"Lei 31/2014#
+DL 127/2013#
+DL 38/2013#
+DL 102/2010#
+Portaria 677/2009#
+Portaria 676/2009#
+DL 173/2008#
+DL 278/2007#
+DL 226-A/2007#
+DL 9/2007#
+DL 221/2006#
+DL 146/2006#
+DL 181/2006#
+Portaria 263/2005#
+Lei 58/2005#
+Portaria 303-A/2004#
+DL 78/2004#
+Portaria 1387/2003#
+DL 293/2003#
+DL 193/2003#
+DL 178/2003#
+DL 129/2002#
+DL 242/2001#
+DL 276/99#
+Portaria 286/93#";PE;N;"APA#
+CCDR-N#
+CCDR-C#
+CCDR-LVT#
+CCDR-Aln#
+CCDR-Alg#
+DRAP-N#
+DRAP-C#
+DRAP-LVT#
+DRAP-Aln#
+DRAP-Alg#
+IPMA#
+AL#
+ACES#
+IST#
+DGRM#
+ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+INSA#
+DGS#";;;"150.10.100#
+150.10.200#
+150.10.600#
+150.40.500#
+200.10.001#
+200.10.800#
+300.30.008#
+300.40.502#
+300.40.506#
+300.50.601#
+450.10.066#
+450.10.068#
+450.10.070#
+450.10.072#
+450.10.207#
+450.10.208#
+450.10.215#
+450.10.223#
+450.10.232#
+450.10.234#
+450.10.640#
+500.10.301#
+550.20.001#
+550.20.002#
+800.10.601#
+800.10.602#
+";"Definição de políticas setoriais#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+Avaliação de políticas e instrumentos de operacionalização#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Negociação e definição de posições nacionais#
+Celebração de acordos e outros atos internacionais#
+Registo de documentos e informação#
+Conservação e proteção de recursos naturais, espécies e paisagens#
+Implementação de ações para cumprimento de parâmetros ambientais#
+Exploração de recursos naturais#
+Licenciamento ou autorização de atividades agrícolas, aquícolas, pecuárias, florestais, de caça e de pesca#
+Licenciamento de atividades de gestão de resíduos#
+Licenciamento ou autorização de atividades industriais#
+Licenciamento ou autorização de atividades artísticas, desportivas e recreativas#
+Licenciamento ou autorização de instalações agropecuárias#
+Licenciamento ou autorização de instalações industriais#
+Licenciamento especial de ruído#
+Licenciamento para a rejeição de águas residuais#
+Licenciamento de pesquisa e captação de água#
+Licenciamento ou autorização de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis#
+Autorização de introdução de produtos e substâncias no mercado#
+Realização de fiscalização#
+Emissão de avisos e declaração de alertas#
+Ação de vigilância#
+Realização de ensaios laboratoriais#
+Realização de estudos científicos e técnicos de apoio a políticas públicas#
+";"Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização";Data de conclusão do procedimento;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;
+
+;800.10.302;Monitorização de recursos ambientais e naturais;"Recolha sistemática ou pontual de dados sobre elementos geológicos, zoológicos, botânicos, hídricos, marinhos ou aéreos, ou vigilância de habitats ou paisagens, por forma a controlar os respetivos níveis de perenidade e sustentabilidade.
+Inicia com a verificação ou medição de dados e termina com a emissão de relatórios.
+Inclui registo de dados recolhidos.";"Monitorização de áreas protegidas#
+Monitorização de elementos geológicos, geomorfológicos#
+Monitorização de fauna e flora em vias de extinção#
+Monitorização de habitats naturais#
+Monitorização de geomonumentos# 
+Monitorização de parques naturais#
+Monitorização de reservas ecológicas#
+Monitorização hidromorfológica#
+Monitorização da orla costeira#
+Monitorização de meio marinho#
+Monitorização de recursos minerais#";;"A conservação e proteção de recursos naturais, espécies e paisagens deve ser considerada em 300.40.502 – Conservação e proteção de recursos naturais, espécies e paisagens#
+A classificação de áreas protegidas deve ser considerada em 450.20.505 – Classificação de bens sítios e áreas#
+Os avisos e alertas de segurança devem ser considerados em 550.20.001 – Emissão de avisos e declaração de alertas#
+A vigilância no âmbito da segurança deve ser considerada em 550.20.002 – Ação de vigilância#";"DL 242/2015#
+DL 38/2015#
+Lei 19/2014#
+Resolução do Conselho de Ministros 12/2014#
+DL 201/2012#
+DL 142/2008#
+DL 340/2007#
+DL 180/2006#
+DL 59/99#
+Lei 33/96#";PE;N;"APA#
+DGRM#
+ICNF#";;;"150.10.100#
+150.10.200#
+150.10.300#
+150.10.500#
+150.20.101#
+150.40.500#
+200.10.800#
+300.30.008#
+300.40.004#
+300.40.502#
+300.40.506#
+300.50.601#
+500.10.301#
+550.10.300#
+550.20.001#
+550.20.002#
+800.10.001#
+800.10.601#
+800.10.602#
+800.10.608#
+800.20.001#
+800.20.002#
+800.20.500#
+850.10.003#
+";"Definição de políticas setoriais#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito regional#
+Elaboração de instrumentos de cooperação interinstitucional#
+Planeamento estratégico de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Celebração de acordos e outros atos internacionais#
+Registo de documentos e informação#
+Reprodução de espécies de fauna e flora#
+Conservação e proteção de recursos naturais, espécies e paisagens#
+Implementação de ações para cumprimento de parâmetros ambientais#
+Exploração de recursos naturais#
+Realização de fiscalização#
+Sinalização informativa e reguladora#
+Emissão de avisos e declaração de alertas#
+Ação de vigilância#
+Produção de informação georreferenciada#
+Realização de ensaios laboratoriais#
+Realização de estudos científicos e técnicos de apoio a políticas públicas#
+Produção de repositórios de amostras biológicas e seus derivados#
+Realização de estudos de investigação básica#
+Execução de projetos de investigação aplicada#
+Desenvolvimento experimental e aplicacional#
+Formalização de candidaturas e acompanhamento de apoios pontuais#
+";"Cruzada#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+";Média;N;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+[Lei 50/2006], LQCA, art.º 40º - Prazo prescricional das contraordenações ambientais.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização";Data de conclusão do procedimento;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;
+
+;800.10.303;Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais;"Recolha contínua, pontual ou aleatória de informação ou dados, quantitativos ou qualitativos, de modo a identificar ocorrências anómalas através da constante comparação entre os valores de referência e as medidas apuradas.
+Inicia com a verificação ou medição de dados e termina com a validação de dados indicadores ou obrigatórios.
+Inclui medição de pressão de água, medição de caudais de água, medição de cloro, nível de água em reservatório e volume de água consumida, reconhecimento de valores críticos.";;;"Os avisos e alertas de segurança devem ser considerados em 550.20.001 – Emissão de avisos e declaração de alertas#
+A vigilância no âmbito da segurança deve ser considerada em 550.20.002 – Ação de vigilância#";"Lei 10/2014#
+DL 77/2006#
+Lei 58/2005#";PE;N;"AL#
+";;;"150.40.500#
+300.30.008#
+300.40.504#
+300.40.505#
+300.40.506#
+300.50.601#
+450.10.069#
+500.10.001#
+550.20.001#
+800.10.601#
+";"Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo de documentos e informação#
+Controlo de segurança e vigilância de instalações e equipamentos públicos#
+Higienização de instalações e equipamentos públicos#
+Implementação de ações para cumprimento de parâmetros ambientais#
+Exploração de recursos naturais#
+Licenciamento ou autorização de atividades de tratamento e distribuição de água#
+Realização de auditorias#
+Emissão de avisos e declaração de alertas#
+Realização de ensaios laboratoriais#
+";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (sucessor)#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+";Média;N;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação síntese recuperável no PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);
+PN 300.30.008 - Registo de documentos e informação (casos tratados).";Os planos de gestão de bacia hidrográfica são revistos de seis em seis anos.;;;;;;;;
+
+;800.10.304;Monitorização de segurança de medicamentos após autorização de introdução no mercado (AIM);"Deteção, registo e avaliação das reações adversas, com o objectivo de determinar a incidência, gravidade e nexo de causalidade com os medicamentos, baseadas no estudo sistemático e multidisciplinar dos efeitos dos medicamentos.
+Inicia com a comunicação de reações adversas ou com a recolha sistemática de informações sobre os riscos de medicamentos para os doentes ou para a saúde pública e termina com a comunicação da proposta de medida de segurança ou regulamentar.  
+Inclui avaliação científica, ponderação das medidas de segurança adequadas à prevenção ou minimização dos riscos, proposta de adoção das medidas regulamentares necessárias feitas com base nos relatórios periódicos remetidos.
+
+
+";"Gestão de sinal de segurança#
+Processamento e Avaliação de notificações de Reações Adversas a Medicamentos (RAM)#
+Processamento e Avaliação de Relatórios Periódicos de Segurança (RPS)#
+Processamento e Avaliação de Planos de Gestão do Risco (PGR)#
+Processamento e Avaliação dos Estudos de Segurança (PASS) ou de Eficácia (PAES) Pós-Autorização#
+Troca de informação de segurança de medicamentos entre as Autoridades congéneres nos Estados-membros, a Agência Europeia do Medicamento (EMA) e a Comissão Europeia (NUI - Non Urgent Information e RA - Rapid Alerts)#
+";;A divulgação de alertas de segurança deve ser classificada em 550.20.001 – Emissão de avisos e declaração de alertas#;Regulamento de Execução UE 520/2012#;PE;S;INFARMED#;"DGS#
+SICAD#";"Comunicar#
+Comunicar#";"300.30.008#
+450.10.640#
+500.10.001#
+550.10.307#
+550.20.001#
+800.10.606#";"Registo de documentos e informação#
+Autorização de introdução de produtos e substâncias no mercado#
+Realização de auditorias#
+Implementação de medidas de segurança de medicamentos, produtos de saúde e alimentares#
+Emissão de avisos e declaração de alertas#
+Avaliação da rutura de stocks de medicamentos e identificação de alternativas terapêuticas#";"Síntese (sintetiza)#
+Sucessão (sucessor)#
+Suplemento para#
+Cruzada#
+Sucessão (antecessor)#
+Sucessão (antecessor)#";Elevada;N;10;;"#Critério legal:
+[Regulamento de Execução UE 520/2012] da Comissão, art.º 12º, nº 2 ""Os dados e documentos de farmacovigilância relativos a cada medicamento autorizado devem ser conservados enquanto o medicamento for autorizado e durante pelo menos 10 anos depois de a autorização de introdução no mercado ter deixado de existir.(...)"".
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";"Conforme disposição legal
+5 - Data em que a autorização de introdução no mercado deixe de existir, nos termos do n.º 2, do art.º 12.º, [Regulamento de execução UE 520/2012]";"E
+";"#Critério de densidade informacional:
+Informação recuperável no PN 550.20.001 - Emissão de avisos e declaração de alertas.";;;;;;;;;
+
+;"800.10.305
+";Monitorização de segurança de ensaios clínicos;"Verificação da segurança na utilização experimental de medicamentos, de forma a permitir a avaliação permanente da relação benefício-risco em que se baseou a autorização dos ensaios clínicos em curso.
+Inicia com o processamento das notificações de realização do ensaio clínico e termina com a informação de conclusão do ensaio ou com a comunicação da suspensão.
+Inclui análise e avaliação de toda a informação com potencial impacto na realização do ensaio (segurança dos participantes e credibilidade dos dados/resultados) e, quando aplicável, suspensão ou revogação da autorização do ensaio.      
+";"Avaliação das notificações de suspeitas de reações Adversas graves e inesperadas (SUSAR)#
+Avaliação de relatórios anuais de segurança de medicamentos experimentais (DSUR)#
+Avaliação de outra informação de segurança notificada durante a realização do ensaio clínico#";;A autorização para a realização dos ensaios clínicos deve ser classificada em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento#;"Lei 21/2014#
+Lei 73/2015#";PE;N;INFARMED#;;;"300.30.008#
+450.10.073#
+550.20.001#
+800.10.600#";"Registo de documentos e informação#
+Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento#
+Emissão de avisos e declaração de alertas#
+Realização de ensaios clínicos#";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Sucessão (sucessor)#";Média;N;30;;"#Critério legal:
+Suplemento à Diretiva 2005/28/CE, datado de 03/12/2009 - Detailed guidelines on good clinical practice specific to advanced therapy medicinal products, 7.3 e Annex - Traceability records.";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação recuperável no PN 800.10.600 - Realização de ensaios clínicos.";Suplemento à Diretiva 2005/28/CE, datado de  03/12/2009   Detailed guidelines on good clinical practice specific to advanced therapy medicinal products,  Annex - Traceability records e Emenda à  Diretiva 75/319/EEC de 20 maio de 1975,  versão de julho de 1996, - 8. Essential documents for the conduct of a clinical trial.;;;;;;;;
+
+;800.10.306;Monitorização da segurança de produtos de saúde;"Deteção, registo, avaliação e prevenção de incidentes com dispositivos médicos e dos efeitos indesejáveis em produtos cosméticos ou quaisquer outros problemas associados a produtos de saúde tendo em vista a salvaguarda da saúde pública.
+Inicia com a comunicação e recolha de informação sobre
+ocorrências adversas ou incidentes ocorridos e termina com a comunicação da decisão (implementação de ações corretivas quando aplicável).
+Inclui análise e avaliação de toda a informação recolhida, nomeadamente a avaliação de relatórios de outras autoridades competentes relativos a questões de vigilância com dispositivos médicos, a ponderação das medidas de segurança adequadas à prevenção ou minimização do risco e proposta de adoção das medidas corretivas e de segurança a implementar.
+";Avaliação de relatórios de outras Autoridades Competentes relativos a questões de vigilância com dispositivos médicos#;;;DL 145/2009#;PE;S;INFARMED#;"DGS#
+IGAS#
+ERS#
+HH#";"Comunicar#
+Comunicar#
+Comunicar#
+Comunicar#";"300.30.008#
+450.10.073#
+450.10.640#
+500.10.001#
+500.10.301#
+550.10.307#
+550.20.001#";"Registo de documentos e informação#
+Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento#
+Autorização de introdução de produtos e substâncias no mercado#
+Realização de auditorias#
+Realização de fiscalização#
+Implementação de medidas de segurança de medicamentos, produtos de saúde e alimentares#
+Emissão de avisos e declaração de alertas#";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Suplemento para#
+Suplemento para#
+Cruzada#
+Sucessão (sucessor)#";Elevada;N;80;;"#Critério legal:
+[Regulamento de Execução UE 520/2012] da Comissão, art.º 12º, nº 2 ""Os dados e documentos de farmacovigilância relativos a cada
+medicamento autorizado devem ser conservados enquanto o medicamento for autorizado e durante pelo menos 10 anos depois de a autorização de introdução no mercado ter deixado de existir.(...)""
+#Critério de utilidade administrativa:
+Período durante o qual a administração pode exercer a sua atividade de controlo ao que acresce um perído cautelar dadas as implicações na saúde pública considerando a esperança média de vida à nascença (80 anos, fonte INE).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação recuperável no PN 550.20.001 - Emissão de avisos e declaração de alertas.";Fabricante tem o dever de manter a documentação técnica 15 anos após o último fabrico (os Dispositivos Médicos mantêm-se no paciente) - rastreabilidade de dispositivos médicos e dispositivos médicos para diagnóstico in vitro ao longo do circuito comercial;;;;;;;;
+
+;800.10.307;Monitorização de competência técnica ou científica na realização de ensaios;"Procedimento de controlo sistemático para monitorização da qualidade analítica dos ensaios realizados.
+Inicia com o registo dos dados dos ensaios referentes ao controlo de qualidade interno e externo e termina com os relatórios de análise dos resultados com vista à validação dos métodos adotados e à demonstração da competência técnica ou científica.
+Inclui, no âmbito do controlo de qualidade interno, a estimativa de incertezas, a análise de amostras de controlo e de amostras cegas, a construção e acompanhamento de cartas de controlo, os ensaios de adição/recuperação, o controlo de meios e cultura e o controlo ambiental e, no âmbito do controlo de qualidade externo, a participação em ensaios interlaboratoriais e a análise de materiais de referência.
+";Monitorização da fiabilidade dos relatórios de ensaio#;;A realização de análises laboratoriais deve ser considerada em 810.10.601 - Realização de ensaios laboratoriais#;"DL 194/2012# 
+Portaria 35/2013#
+Despacho 11057/2015#
+ISO/IEC 17025/2017#
+";PE;N;UL#;;;"450.10.445#
+800.10.601#
+500.10.301#
+";"Acreditação de entidade para prestação de serviços de avaliação de conformidade#
+Realização de ensaios laboratoriais#
+Realização de fiscalização#
+";"Síntese (sintetizado)#
+Cruzada#
+Suplemento para#
+";Média;S;5;;"#Critério legal:
+[Despacho 399/2009] - Prazo estabelecido em “2.8.1 - Os laboratórios devem conservar, por qualquer processo, pelo menos durante cinco anos, sem prejuízo de outros prazos que venham a ser estabelecidos (...)""
+#Critério de utilidade administrativa:
+Rastreabilidade, consulta e análise o PN 500.10.301 - Realização de fiscalização
+";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação recuperável no PN de 450.10.445 - Acreditação de entidade para prestação de serviços de avaliação de conformidade.
+";;;;;;;;;
+
+;800.10.600;Realização de ensaios clínicos;"Exames realizados no ser humano, destinados a descobrir ou a verificar os efeitos clínicos, farmacológicos ou outros efeitos farmacodinâmicos de medicamentos experimentais, ou a identificar os seus efeitos indesejáveis ou ainda a analisar a absorção, a distribuição, o metabolismo e a eliminação de um ou mais medicamentos experimentais, a fim de apurar a respetiva segurança ou eficácia.
+Inicia com a preparação do estudo para realizar o ensaio clínico e termina com a finalização do estudo.
+Incluí todos os atos necessários à conclusão do estudo.
+";;;"A Autorização de ensaios clínicos e respetivas alterações ao pedido devem ser consideradas em 450.10.073 – Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento#
+A monitorização da segurança da realização de ensaios clínicos deve ser classificado em 800.10.305 – Monitorização da segurança de ensaios clínicos#
+
+";"Lei 21/2014#
+Regulamento Delegado UE 536/2014#";PE;N;;INFARMED# ;Comunicar# ;"450.10.073#
+450.10.444#
+450.10.445#
+500.10.301#
+700.20.100#
+800.10.305#";"Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento#
+Reconhecimento de requisitos e competência técnica a entidades#
+Acreditação de entidade para prestação de serviços de avaliação de conformidade#
+Realização de fiscalização#
+Rastreio#
+Monitorização de segurança de ensaios clínicos#";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Suplemento para#
+Cruzada#
+Sucessão (antecessor)#";Média;S;25;;"#Criterio legal:
+[Regulamento UE 536/2014], art.º 58º O arquivo do processo permanente do ensaio clínico, ""salvo se outra legislação da União exigir o arquivamento durante um período mais longo, o promotor e o investigador devem arquivar o conteúdo do processo permanente do ensaio clínico durante, pelo menos, 25 anos após a conclusão do ensaio clínico. No entanto, os processos clínicos dos sujeitos do ensaio devem ser arquivados em conformidade com o direito nacional.""
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização.";Data de conclusão do procedimento;C;"#Critério de densidade informacional:
+Informação qualitativa e quantitativa não recuperável noutro PN.";;;;;;;;;
+
+;800.10.601;Realização de ensaios laboratoriais;"Exames que avaliam, diagnosticam ou confirmam a qualidade e/ou a composição de determinados constituintes, instrumentos ou amostras em matrizes diferentes.
+Inicia por solicitação externa ou da entidade responsável pela análise e termina com a divulgação do boletim analítico.
+Inclui a recolha da amostra, amostra-controle, identificação, acondicionamento, conservação, transporte, registo, procedimento ensaístico e relatório de ensaio.";"Realização de análises laboratoriais#
+Comprovação da qualidade dos ensaios laboratoriais#
+Comprovação da qualidade de medicamentos#
+Comprovação da qualidade de produtos de saúde e cosméticos#
+Metrologia científica#";;"Os testes realizados no âmbito de perícias devem ser considerados em 800.10.603 – Realização de perícias#
+";"Portaria 63/2015#
+DL 135/2009#
+DL 306/2007#
+DL 236/98#
+Decreto Regulamentar 5/97#
+ISO/IEC 17025/2017#";PC;S;"UL#
+INFARMED#";"AP#
+INFARMED#";"Iniciar#
+Iniciar#";"150.40.500#
+300.10.002#
+300.30.008#
+300.40.502#
+300.40.503#
+300.40.506#
+300.40.507#
+450.10.229#
+450.10.232#
+450.10.445#
+450.10.640#
+500.10.301#
+450.10.640#
+500.10.301#
+700.20.100#
+800.10.300#
+800.10.301#
+800.10.302#
+800.10.303#
+800.10.610#";"Recolha e tratamento de dados estatísticos de apoio à gestão#
+Contratação de fornecimento de serviços públicos essenciais#
+Registo de documentos e informação#
+Conservação e proteção de recursos naturais, espécies e paisagens#
+Conservação e valorização de edifícios, infraestruturas e equipamentos públicos#
+Implementação de ações para cumprimento de parâmetros ambientais#
+Implementação de planos de contingência#
+Procedimentos de avaliação de impactos ambientais#
+Licenciamento de pesquisa e captação de água#
+Acreditação de entidade para prestação de serviços de avaliação de conformidade#
+Autorização de introdução de produtos e substâncias no mercado#
+Realização de fiscalização#
+Autorização de introdução de produtos e substâncias no mercado#
+Realização de fiscalização#
+Rastreio#
+Controlo ambiental de infraestruturas e equipamentos#
+Monitorização de índices da qualidade ambiental#
+Monitorização de recursos ambientais e naturais#
+Monitorização do abastecimento e distribuição de água e do saneamento de águas residuais#
+Materialização, manutenção e disseminação de unidades de medida#";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Cruzada#
+Suplemento para#
+Cruzada#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#";Elevada;S;5;;"#Critério legal:
+[Despacho 399/2009] - Prazo estabelecido em “2.8.1 - Os laboratórios devem conservar, por qualquer processo, pelo menos durante cinco anos, sem prejuízo de outros prazos que venham a ser estabelecidos (...)"".
+#Critério de utilidade administrativa:
+Rastreabilidade, consulta e análise o PN 500.10.301 - Realização de fiscalização.
+";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação recuperável no PN de 700.20, bem como em:
+PN 450.10.640 - Autorização de introdução de produtos e substâncias no mercado; 
+PN 500.10.301 - Realização de fiscalização";;;;;;;;;
+
+;800.10.602;Realização de estudos científicos e técnicos de apoio a políticas públicas;"Procedimento científico e técnico de análise e cálculo com o objetivo de promover uma avaliação do impacto e de gerar medidas ou recomendações técnicas sobre um determinado universo. 
+Inicia com um pedido e termina com a emissão de um relatório.
+Inclui a recolha de dados, aferição e análise de características da população ou de amostras, criação de indicadores quantitativos e qualitativos, produção de relatórios técnicos, avaliação deimpacto, apuramento de resultados ou recomendações e/ou medições.";"Análise de causalidade (verificar se a causa de um determinado acontecimento público se deveu a uma determinada política em concreto)# 
+Criação e desenvolvimeno de indicadores (quantitativos e qualitativos) de apoio às políticas públicas# 
+Estudos de cenarização# 
+Estudos de consultadoria#
+Estudos de impacto#
+Estudos de mercado (mercado de trabalho, saúde, educação, meio empresarial)# 
+Estudos de viabilidade#
+São exemplos de aplicação os estudos sobre emprego, formação profissional, certificação das entidades formadoras, relações e condições de trabalho, e relações profissionais, despedimentos coletivos, prevenção de conflitos, conciliação, mediação, greves e serviços mínimos, regulamentação coletiva#";"Estudos sobre emprego#
+Estudos sobre formação profissional#
+Estudos sobre a certificação de entidades formadoras#
+Estudos sobre relações e condições de trabalho, e relações profissionais#
+Estudos sobre despedimentos coletivos#
+Estudos sobre prevenção de conflitos#
+Estudos sobre conciliação, mediação, greves e serviços mínimos#
+Estudos sobre regulamentação coletiva#";A aquisição de serviços no âmbito de estudos técnicos e científicos deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e prestação de serviços#;;PC;N;"AP#
+Grupo IP#
+INFARMED#
+";INFARMED#;Iniciar#;"150.10.001#
+150.10.100#
+150.20.101#
+150.40.500#
+300.40.004#
+300.40.500#
+300.40.502#
+300.50.601#
+450.10.229#
+500.10.001#
+500.10.301#
+550.30.200#
+550.30.400#
+550.30.600#
+800.10.301#
+800.10.302#
+";"Definição de políticas globais#
+Definição de políticas setoriais#
+Planeamento estratégico de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Reprodução de espécies de fauna e flora#
+Conservação e proteção de bens culturais#
+Conservação e proteção de recursos naturais, espécies e paisagens#
+Exploração de recursos naturais#
+Procedimentos de avaliação de impactos ambientais#
+Realização de auditorias#
+Realização de fiscalização#
+Defesa do território das nações aliadas#
+Vigilância dos espaços sob soberania e jurisdição nacional, da circulação e segurança das linhas de comunicação#
+Participação em operações de resposta a crises#
+Monitorização de índices da qualidade ambiental#
+Monitorização de recursos ambientais e naturais#
+";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Cruzada#
+Cruzada#
+";Elevada;N;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditoria (no que diz respeito à atuação da Administração) e do PN  500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento;C;"#Critério de densidade informacional:
+Informação qualitativa e quantitativa não recuperável noutro PN.";;;;;;;;;
+
+;"800.10.603
+";Realização de perícias ;"Atividade realizada por profissional especialista dotado de especiais conhecimentos técnicos ou científicos com vista à descrição, interpretação e obtenção de conclusões com eventual valor probatório.
+Inicia com um pedido e termina com a produção do relatório final.
+Inclui a pesquisa, a recolha, o tratamento, o acondicionamento, a selagem, a receção e o registo de amostras, vestígios ou dados, a aplicação de teste psicológico a pessoa e a avaliação do mesmo, se aplicável, a observação de caraterísticas ou lesões psíquicas e físicas, a cadáveres ou  a restos cadavéricos e exames complementares ao diagnóstico, se aplicável, e fundamentação de trabalho pericial.
+
+";"Processos de recolha e processamento de informação geodésica e georreferenciada para caracterização topográfica e topo-hidrográfica, administrativa, geológica, biológica, ou outra#
+Execução de autópsias#
+Execução de perícias a obras de arte#
+Execução de necrópsias#";;A aquisição de serviços periciais deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis e prestação de serviços#;"Lei 4/2015#
+Lei 41/2013#
+Portaria 19/2013#
+Portaria 175/2011#
+Lei 7/2009#
+Lei 37/2008#
+Lei 5/2008#
+Lei 18/2007#
+Lei 45/2004#
+Lei 36/2003#
+DL 54/2013#
+DL 42/2009#
+DL 352/2007#
+DL 352/99#
+Lei 166/99#
+Lei 147/99#
+DL 48/95#
+DL 114/94#
+DL 15/93#
+DL 78/87#
+DL 47344/66#
+ISO/IEC 17025/2017#
+NP EN ISO/IEC 17020/2013#
+ILAC G19:08/2014#";PC;S;ECP#;"AP#
+INFARMED#";"Iniciar#
+Apreciar#";"400.10.410#
+450.30.504#
+500.10.001#
+600.10.004#
+600.10.006#
+600.10.007#
+600.10.500#
+600.10.501#
+600.10.502#
+600.10.503#
+600.30.001#
+600.30.002#
+600.30.050#
+600.30.051#
+600.30.052#
+600.30.101#
+710.20.300#
+800.10.609#
+800.10.610#
+";"Registo de armas e munições#
+Certificação de óbito#
+Realização de auditorias#
+Averiguação de identidade de cadáveres#
+Averiguação e localização de pessoas desaparecidas#
+Processamento de informação criminal#
+Processamento de inquérito-crime#
+Processamento de inquérito tutelar educativo#
+Procedimento preliminar a processo sumário#
+Processamento da instrução#
+Comum com intervenção de tribunal coletivo ou de júri#
+Comum com intervenção de tribunal singular#
+Abreviado#
+Sumários#
+Sumaríssimos#
+Internamento compulsivo#
+Exumação de cadáveres e ossadas#
+Realização de técnicas de conservação artificial#
+Materialização, manutenção e disseminação de unidades de medida#";"Cruzada#
+Cruzada#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#";Elevada;N;15;Nos crimes contra a liberdade e autodeterminação sexual de menores, bem como no crime de  mutilação genital feminina sendo a vítima menor, o procedimento criminal não se extingue, por efeito da prescrição, antes de o ofendido perfazer 23 anos” - artigo 118 do Código penal;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo prescricional do procedimento criminal determinante para o enquadramento da prescrição do crime.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de conclusão do procedimento;"CP
+";"#Critério de densidade informacional:
+Enumeração e tipificação dos casos recuperável através das estatísticas.
+Esta síntese não permite recuperar o particular e individual, mas apenas o geral.
+A aplicação de um critério de amostragem aleatória sobre este PN permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo de todas as características da população-alvo.
+Toma ainda como base o facto da imprevisibilidade dos estudos nesta área e a impossibilidade atual de conservar toda a produção.
+A constituição de uma amostra significativa do universo de onde é retirada, mediante a aplicação de métodos estatísticos com uma margem de erro controlada, será suficiente para representar o universo.
+A grelha para seleção da amostragem encontra-se no final desta página.
+Extra amostra poderão ser conservadas os fat files ou os processos referentes a casos com maior impacto social.";;;;;;;;;
+
+;800.10.604;Realização de traduções;"Transposição de conteúdos de uma língua para outra. Interpretação do significado de um texto em determinada língua (fonte original) para produção de um novo texto, fiel ao original, noutra língua.
+Inicia com um pedido ou por inicativa de uma entidade e termina com a entrega do trabalho.
+Inclui os estudos de contextualização histórica, técnica e estilística do autor e do texto, a redação na língua de destino e a elaboração de notas de tradução.";"Realização de retroversões#
+Realização de revisões de traduções#
+Realização de traduções literárias#
+Realização de traduções oficiais#
+Realização de traduções técnicas e científicas#
+";;"A aquisição de serviços de tradução deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis e prestação de serviços#
+A tradução que resulte em obra nova deve ser considerada em 400.10.610 – Registo de obras científicas, literárias e artísticas ou 400.10.611 – Registo de publicações no sistema de Depósito Legal#
+";"Lei 49/2015#
+DL 237/2001#
+DL 15/99#
+DL 207/95#
+Lei 62/98#
+Lei 114/91#
+DL 63/85#
+Decreto 73/78#";PC;S;AP#;AP#;Iniciar#;"300.40.501#
+300.50.400#
+350.30.001#
+450.20.503#
+450.30.503#
+500.10.001#
+500.10.301#
+750.20.600#
+800.20.001#
+900.10.001#
+900.20.201#
+";"Conservação e proteção de informação#
+Processamento de pedidos de consulta e reprodução de documentos e informação#
+Cobrança de receitas e pagamento de despesas#
+Inventariação de património cultural#
+Confirmação, conferência ou emissão de cópias não certificadas#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de atividades de ensino ou formação#
+Realização de estudos de investigação básica#
+Conceção e realização de atividades ou acontecimentos artísticos#
+Edição e publicação de conteúdos#
+";"Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+";Média ;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN  500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação recuperável no processo que lhe deu origem, no caso de resultar num serviço de apoio, ou na publicação, em caso de edição.";"Código de Redação Interinstitucional da EU#
+Guia do tradutor da EU da Direção-Geral da Tradução da Comissão Europeia junho de 2015#";;;;;;;;
+
+;800.10.605;Realização de transcrições;"Representação ou reprodução gráfica de conteúdos preexistentes (sons, textos, informação genética, etc.) em novo contexto, com vista a torná-los acessíveis e utilizáveis.
+Inicia com  um pedido e termina com a entrega do trabalho.
+Inclui a interpretação dos dados e a sua reprodução.";"Arranjo musical de uma obra, para um instrumento para o qual não foi originalmente escrita#
+Transcrição de documentos, indepentemente do suporte e antiguidade#
+Transcrição fonética#";;"A emissão de comprovativos de factos ou atos deve ser considerada em ""Reconhecimentos e permissões/ Emissão de comprovativos de factos ou atos"" (450.30)#
+A transcrição que resulte em obra nova deve ser considerada em 400.10.610 – Registo de obras científicas, literárias e artísticas#
+As transcrições para fins judiciais ou oficiais devem ser consideradas nos  respetivos PN#";"Despacho 12966/2009#
+DL 78/87#
+DL 403/86#
+DL 63/85#";PC;S;AP#;AP#;Iniciar#;"300.40.501#
+300.50.400#
+350.30.001#
+450.20.503#
+450.30.503#
+500.10.001#
+500.10.301#
+750.20.600#
+800.20.001#
+900.10.001#
+900.20.201#
+";"Conservação e proteção de informação#
+Processamento de pedidos de consulta e reprodução de documentos e informação#
+Cobrança de receitas e pagamento de despesas#
+Inventariação de património cultural#
+Confirmação, conferência ou emissão de cópias não certificadas#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de atividades de ensino ou formação#
+Realização de estudos de investigação básica#
+Conceção e realização de atividades ou acontecimentos artísticos#
+Edição e publicação de conteúdos#
+";"Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+";Média;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN  500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização) e do PN 450.30.503 - Confirmação, conferência ou emissão de cópias não certificadas.";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação recuperável no processo que lhe deu origem, no caso de resultar num serviço de apoio, ou na publicação, em caso de edição.";;;;;;;;;
+
+;800.10.606;Avaliação da rutura de stocks de medicamentos ;"Acompanhamento de rutura de stocks de medicamentos, ainda que meramente transitórias, de fabrico e ou fornecimento de um medicamento, bem como qualquer perturbação ao normal abastecimento do mercado, nos casos, termos, forma e prazo fixados pela Autoridade Competente.
+Inicia com a notificação da rutura, em plataforma, pelo titular da autorização e termina com a proposta de minimização do impacto.
+Inclui validação da identificação do titular, pedidos de informação pelos profissionais de saúde e utentes sobre rotura de stocks, avaliação da situação e a consulta de peritos ou a agências congéneres.
+As medidas de minimização do impacto podem consistir numa alteração regulamentar (alteração do fabricante, libertação de lote) ou pela autorização de utilização excecional.
+";"Processo de acompanhamento da rotura de stocks com impacto para o utente, nomeadamente#
+Averiguação do mercado#
+Análise das alternativas no mercado#
+Parecer clínico#
+Medidas de minimização do impacto, AUE, alteração regulamentar (libertação de lote; alteração de fabricante)#";;"Os pedidos de informação que não se relacionam com nenhum processo concreto devem ser classificados em 900.20.604 – Processamento de pedidos de informação e de esclarecimento#
+A entrega da password para acesso à base de dados para registo 300.50.802 – Registo e identificação de utilizadores de serviços e de sistemas de informação#
+A avaliação de alternativas terapêuticas e relatórios dos peritos deve ser classificada em 800.10.602 – Realização de estudos científicos e técnicos de apoio a políticas públicas#
+";"DL 176/2006#
+DL 48-A/2010#";PE;S;INFARMED#;"DGS#
+SPMS#";"Assessorar#
+Assessorar#
+";"450.10.062#
+450.10.070#
+450.10.216#
+450.10.640#
+450.10.644#
+450.10.808#
+500.10.001#
+500.10.300#
+500.10.301#
+550.10.307#
+800.10.304#
+";"Licenciamento ou autorização de atividades de comércio e armazenagem#
+Licenciamento ou autorização de atividades industriais#
+Licenciamento de farmácias#
+Autorização de introdução de produtos e substâncias no mercado#
+Autorização para transação de produtos#
+Autorização excecional#
+Realização de auditorias#
+Realização de inspeção#
+Realização de fiscalização#
+Implementação de medidas de segurança de medicamentos, produtos de saúde e alimentares#
+Monitorização de segurança de medicamentos após autorização de introdução no mercado (AIM)#
+";"Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+";Média;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+[DL 176/2006], art.º 181º, nº 2 , alínea i) ""O incumprimento das obrigações que antecedem constitui outras tantas contraordenações previstas e puníveis com coima...( ).""
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração), do PN  500.10.300 - Realização de inspeção, do PN 500.10.301 - Realização de fiscalização, do PN 550.10.307 - Implementação de medidas de segurança de medicamentos, produtos de saúde e alimentares e do PN 800.10.304 - Monitorização de segurança de medicamentos após autorização de introdução no mercado (AIM).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação recuperável nos: 
+PN 450.10.018 - Licenciamento de indústrias;
+PN 450.10.054 - Autorização de comercialização de medicamentos; 
+PN 800.10.304 - Monitorização de segurança de medicamentos após autorização de introdução no mercado (AIM).";;;;;;;;;
+
+;800.10.607;Realização de ações de observação em saúde e vigilância epidemiológica;"Ações que visam contribuir para o conhecimento e monitorização da saúde e doenças, os fatores que as influenciam, assim como a avaliação do seu impacto.
+Inicia com a identificação de necessidade para realizar a ação ou estudo e termina com a elaboração do relatório ou estudo final.
+Inclui diagnóstico de necessidade de investigação, os estudos, a monitorização e a avaliação.
+
+";"Produção de coleções de estirpes#
+Estudos de vigilância epidemiológica#
+Recolha e análise de dados de observação para apoio à decisão relativos a doenças e seus determinantes#
+Desenvolvimento e gestão de redes de vigilância e de instrumentos de observação em saúde#
+Ações de vigilância de vetores# 
+Vigilância epidemiológica animal#
+Vigilância fitossanitária#
+";;A divulgação de alertas ou avisos deve ser classificada em 550.20.001 – Emissão de avisos e declaração de alertas#;"Despacho 5855/2014#
+DL 286/99#
+Lei 81/2009#";PE;S;"INSA#
+AS#
+DGAV#";"ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+ACES#
+INMLCF#";"Iniciar#
+Iniciar#
+Iniciar#
+Iniciar#
+Iniciar#
+Comunicar#
+Comunicar#";"500.10.001#
+700.20.001#
+700.20.100#
+800.10.608#
+800.20.002#";"Realização de auditorias#
+Imunização#
+Rastreio#
+Produção de repositórios de amostras biológicas e seus derivados#
+Realização de estudos científicos e técnicos de apoio a políticas públicas#";"Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#";Elevada;N;10;;"#Critério legal:
+[Portaria 248/2013], art.º 5º, nº 2 ""Relativamente aos dados pessoais constantes dos formulários a notificar às autoridades de saúde de âmbito regional e à Direção-Geral da Saúde, podem ser conservados até 10 anos desde que estejam em causa situações de morbilidade.""
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de conclusão do procedimento;E;"#Critério legal:
+[Portaria 248/2013], art.º 5º, nº 2 ""Relativamente aos dados pessoais constantes dos formulários a notificar às autoridades de saúde de âmbito regional e à Direção-Geral da Saúde, podem ser conservados até 10 anos desde que estejam em causa situações de morbilidade.""";;;;;;;;;
+
+;800.10.608;Produção de repositórios de amostras biológicas e seus derivados;"Constituição de bancos de produtos biológicos, recursos genéticos ou qualquer repositório de amostras biológicas ou seus derivados, com ou sem tempo delimitado de armazenamento e que inclua amostras que sejam identificadas, identificáveis, anonimizadas ou anónimas.
+Inicia com a colheita prospetiva ou material previamente colhido e termina com a sua inclusão no banco de produtos.
+Incluí a investigação desenvolvida.
+";"Inventariação de estirpes#
+Banco de amostras biológicas#
+Banco de DNA#
+Bases de dados genéticos#
+Biobancos#";;;"Lei 12/2005#
+Lei 5/2008#";PE;N;"INSA#
+DGAV#";;;"500.10.001#
+500.10.301#
+800.10.302#
+800.10.607#
+800.20.001#
+800.20.002#
+";"Realização de auditorias#
+Realização de fiscalização#
+Monitorização de recursos ambientais e naturais#
+Realização de ações de observação em saúde e vigilância epidemiológica#
+Realização de estudos de investigação básica#
+Execução de projetos de investigação aplicada#
+";"Suplemento para#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+";Elevada;S;10;;"#Critério legal:
+[Portaria 248/2013], art.º 5º, nº 2 ""Relativamente aos dados pessoais constantes dos formulários a notificar às autoridades de saúde de âmbito regional e à Direção-Geral da Saúde, podem ser conservados até 10 anos desde que estejam em causa situações de morbilidade.""
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN  500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de extinção da entidade sobre que recai o procedimento;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;
+
+;800.10.609;Realização de técnicas de conservação artificial;"Utilização de técnicas específicas de conservação de células, órgãos ou cadáveres de seres humanos, animais ou vegetais para fins de ensino, investigação ou tratamento.
+Inicia com a solicitação ou a determinação do ato de preservação e termina com o atestado de criopreservação, embalsamamento ou com a preparação da peça anatómica para fins científicos, pedagógicos ou museológicos.
+";"Embalsamamento para transladação#
+Formolização (formol) de órgão para estudo#
+Criopreservação#
+Criopreservação ou crioconservação de células estaminais do cordão umbilical# 
+Impregnação de órgãos ou tecidos biológicos com produtos conservantes, no âmbito científico, museulógico ou pedagógico# 
+Preservação de células# 
+Taxidermia#
+Tanatopraxia reconstrução, conservação e preparação de cadáveres#
+Tanatoconservação#
+Tanatologia forense#
+
+
+
+";;;"Portaria 19/2013#
+DL 49/2005#
+DL 211/2009#
+Portaria 162-A/2015#";PE;S;"INMLCF#
+IES#
+Museus#";"Cns#
+OSJ#";"Iniciar#
+Decidir#";"400.10.609#
+500.10.001#
+500.10.300#
+500.10.301#
+710.20.003#
+710.20.300#
+710.20.601#
+800.10.603#
+800.20.002#
+800.20.500#";"Registo de patentes e modelos de utilidade#
+Realização de auditorias#
+Realização de inspeção#
+Realização de fiscalização#
+Identificação de restos mortais abandonados em cemitérios#
+Exumação de cadáveres e ossadas#
+Trasladação de cadáveres e ossadas#
+Realização de perícias#
+Execução de projetos de investigação aplicada#
+Desenvolvimento experimental e aplicacional#";"Cruzada#
+Suplemento para#
+Suplemento para#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#";Média ;S;10;;"#Critério legal:
+[Portaria 248/2013], art.º 5º, nº 2 ""Relativamente aos dados pessoais constantes dos formulários a notificar às autoridades de saúde de âmbito regional e à Direção-Geral da Saúde, podem ser conservados até 10 anos desde que estejam em causa situações de morbilidade.""
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN  500.10.300 - Realização de inspeção e 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;
+
+;800.10.610;Materialização, manutenção e disseminação de unidades de medida;"Definição das grandezas físicas fundamentais (ou de base), das unidades derivadas e das unidades suplementares, de modo a assegurar a comparabilidade, a rastreabilidade e a manutenção dos padrões de medida. 
+Inicia com a identificação da necessidade, ou na sequência de planeamento e termina com a divulgação das unidades padrão. 
+Inclui identificação das constantes físicas fundamentais, realização, manutenção e desenvolvimento de padrões de unidades de medida, identificação da incerteza de medição, rastreabilidade de padrões, cálculo da grandeza e identificação de padrão. 
+
+";"Sistema Internacional de Unidades# 
+Grandezas fundamentais do Sistema Internacional de Unidades (comprimento, massa, tempo, corrente elétrica, temperatura termodinâmica, quantidade de matéria, intensidade luminosa)# 
+Grandezas derivadas do Sistema Internacional de Unidades (área, volume, velocidade, aceleração, força, pressão, energia, potencia)# 
+Metrologia fundamental (Científica ou primária)#
+Identificação de padrão primário, padrão secundário, padrão de referencia, padrão de transferência e padrão de trabalho# ";;"A aprovação dos instrumentos de medição deve ser considerada em 450.10.648 – Reconhecimento das  características e origem de animais, bens, produtos e serviços# 
+A aferição de instrumentos de medida deve ser considerada em 500.10.303 – Controlo metrológico de instrumentos de medição# ";"DL 192/2006#
+DL 383/93#
+DL 291/90#";PE;N;"IPQ#
+";;;"400.10.610#
+450.10.648#
+500.10.001#
+500.10.301#
+500.10.303#
+800.10.601#
+800.10.603#
+800.20.001#
+800.20.002#";"Registo de obras científicas, literárias e artísticas#
+Reconhecimento das  características e origem de animais, bens, produtos e serviços#
+Realização de auditorias#
+Realização de fiscalização#
+Controlo metrológico de instrumentos de medição#
+Realização de ensaios laboratoriais#
+Realização de perícias#
+Realização de estudos de investigação básica#
+Realização de estudos de investigação aplicada#";"Cruzada#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+Complementar#
+Complementar#";Elevada;S;5;;"#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN  500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento;C;"#Critério de complementaridade informacional:
+É complementar dos: 
+PN 800.20.001 - Realização de estudos de investigação básica; 
+PN 800.20.002 - Realização de estudos de investigação aplicada. 
+#Critério de densidade informacional: 
+Informação não recuperável noutros PN. ";;;;;;;;;
+
+;800.20;Execução de projetos de investigação e desenvolvimento;Compreende os processos de conceção e de realização de projetos de investigação científica fundamental e aplicada e de desenvolvimento técnico e tecnológico, no que se inclui a conceção e o desenvolvimento de sistemas de informação. Inclui a pesquisa e o desenvolvimento experimental, a demonstração tecnológica e a transferência de conhecimento para inovação do setor produtivo, desenvolvidos no quadro das instituições académicas, dos centros de investigação, dos observatórios, dos laboratórios ou mesmo no quadro da Administração.;"Projetos de investigação científica ou de investigação e desenvolvimento de produtos e processos com base experimental#
+Desenvolvimento de protótipos e outras formas de mostrar uma ideia, o desempenho de um método, ou as características de um produto#
+Desenvolvimento de produtos, processos, serviços, tecnologias ou ideias que estão prontamente disponíveis para os mercados, governos e sociedade,  incluindo o desenvolvimento de sistemas de informação para a Administração Pública.#";;"As candidaturas a programas de apoio financeiro à investigação devem ser consideradas em ""Execução de programas e de ações de incentivo/ Atribuição e controlo de financiamentos e de ajudas diretas"" (850.10)#
+A publicação de trabalhos de investigação científica deve ser considerada em ""Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade"" (900.10)#
+A reengenharia de processos de trabalho da Administração deve ser considerada em “Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria de serviços” (150.20)#";;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;800.20.001;Realização de estudos de investigação básica;"Ação de pesquisa vocacionada para responder a hipóteses de investigação a fim de produzir conhecimento original puro ou orientado a uma estratégia, identificada na sequência do conhecimento puro.
+Criação de um processo de pesquisa orientado para a obtenção de conhecimentos fundamentais para um produto ou objetivo prático específico. 
+Inicia com a apresentação de uma candidatura ou de um projeto de investigação e termina com a divulgação do resultado.
+Inclui apresentação de relatórios de progresso e final.";"A investigação básica, destina-se à progressão do conhecimento, não visa a obtenção de vantagens económicas ou sociais (produção de novas leis científicas e novos modelos)#
+Estudos de fenómenos biológicos#
+Estudos de fenómenos naturais#
+Estudos de fenómenos sociais# 
+Produção de novas leis científicas# 
+Produção de novos modelos# 
+Progressão de conhecimentos#";;;"DL 115/2013#
+Lei 8/2010#
+Lei 7/2010#
+DL 207/2009#
+DL 205/2009#
+Lei 85/2009#
+DL 74/2006#
+Lei 157/99#
+DL 124/99#
+Lei 6/87#
+Lei 46/86#
+DL 185/81#
+DL 448/79#";PE;S;"IES#
+UI#
+UL#
+INMLCF#";"IES#
+UI#
+UL#
+INMLCF#";"Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#";"150.10.500#
+150.10.600#
+350.30.001#
+400.10.609#
+400.10.610#
+400.10.614#
+450.10.230#
+450.30.002#
+500.10.001#
+500.10.301#
+750.10.002#
+750.10.601#
+750.20.001#
+750.20.300#
+750.30.001#
+800.10.302#
+800.10.608#
+850.10.002#
+850.10.003#
+850.10.004#
+850.10.005#
+850.10.500#
+850.10.600#
+850.10.601#
+900.10.501#
+900.20.201#
+800.10.610#";"Elaboração de instrumentos de cooperação interinstitucional#
+Avaliação de políticas e instrumentos de operacionalização#
+Cobrança de receitas e pagamento de despesas#
+Registo de patentes e modelos de utilidade#
+Registo de obras científicas, literárias e artísticas#
+Registo nacional de teses de doutoramento e dissertações de mestrado em curso#
+Autorização de trabalhos arqueológicos#
+Certificação de habilitações ou qualificações#
+Realização de auditorias#
+Realização de fiscalização#
+Processamento de matrículas ou inscrições no ensino ou em formação#
+Processamento de pedidos de admissão a provas de avaliação#
+Conceção, revisão e extinção de currículos e planos de estudos#
+Produção e seleção de recursos didático-pedagógicos#
+Conceção e revisão dos métodos de avaliação de aprendizagens#
+Monitorização de recursos ambientais e naturais#
+Produção de repositórios de amostras biológicas e seus derivados#
+Formalização de candidaturas e acompanhamento de apoios regulares#
+Formalização de candidaturas e acompanhamento de apoios pontuais#
+Controlo da atribuição dos incentivos financeiros#
+Formalização de candidaturas a ajudas diretas#
+Atribuição de prémios#
+Atribuição de patrocínios#
+Captação e aplicação de apoios mecenáticos#
+Organização e participação em iniciativas de partilha e debate crítico#
+Edição e publicação de conteúdos#
+Materialização, manutenção e disseminação de unidades de medida#";"Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (sucessor)#
+Cruzada#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Complementar#";Média;N;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001- Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN  500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento;C;"#Critério de complementaridade informacional:
+É complementar do PN 800.10.001 - Materialização, manutenção e disseminação de unidades de medida.
+#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;
+
+;800.20.002;Execução de projetos de investigação aplicada;"Otimização de um produto ou de um objetivo prático específico, anteriormente estudado, assente nos pressupostos teóricos da investigação básica. 
+Inicia com a seleção de um objeto de investigação e termina com a divulgação do resultado.
+Inclui apresentação de relatórios de progresso e final.";"A investigação aplicada visa obter vantagens económicas ou sociais, tendendo a otimizar algo concreto#
+Estudo de fenómenos biológicos#
+Estudo de fenómenos naturais#
+Estudo de fenómenos sociais#";;"O registo de patentes e modelos de utilidade devem ser considerados em 400.10.609 – Registo de patentes e modelos de utilidade#
+A investigação criminal deve ser considerada em ""Administração da justiça"" (600)#";"DL 202/2012#
+DL 207/2009#
+DL 125/99#";PC;S;"IES#
+UI#
+UL#";"IES#
+UI#
+UL#
+AP#
+";"Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#";"150.10.500#
+150.10.600#
+350.30.001#
+400.10.609#
+400.10.610#
+400.10.614#
+450.30.002#
+500.10.001#
+500.10.301#
+750.10.002#
+750.10.601#
+750.20.001#
+750.20.300#
+750.30.001#
+800.10.302#
+800.10.607#
+800.10.608#
+800.10.609#
+850.10.002#
+850.10.003#
+850.10.004#
+850.10.005#
+850.10.500#
+850.10.500#
+850.10.600#
+850.10.601#
+900.10.501#
+800.10.610#
+";"Elaboração de instrumentos de cooperação interinstitucional#
+Avaliação de políticas e instrumentos de operacionalização#
+Cobrança de receitas e pagamento de despesas#
+Registo de patentes e modelos de utilidade#
+Registo de obras científicas, literárias e artísticas#
+Registo nacional de teses de doutoramento e dissertações de mestrado em curso#
+Certificação de habilitações ou qualificações#
+Realização de auditorias#
+Realização de fiscalização#
+Processamento de matrículas ou inscrições no ensino ou em formação#
+Processamento de pedidos de admissão a provas de avaliação#
+Conceção, revisão e extinção de currículos e planos de estudos#
+Produção e seleção de recursos didático-pedagógicos#
+Conceção e revisão dos métodos de avaliação de aprendizagens#
+Monitorização de recursos ambientais e naturais#
+Realização de ações de Observação em saúde e Vigilância Epidemiológica#
+Produção de repositórios de amostras biológicas e seus derivados#
+Realização de técnicas de conservação artificial#
+Formalização de candidaturas e acompanhamento de apoios regulares#
+Formalização de candidaturas e acompanhamento de apoios pontuais#
+Controlo da atribuição dos incentivos financeiros#
+Formalização de candidaturas a ajudas diretas#
+Atribuição de prémios#
+Atribuição de prémios#
+Captação e aplicação de apoios mecenáticos#
+Organização e participação em iniciativas de partilha e debate crítico#
+Edição e publicação de conteúdos#
+Materialização, manutenção e disseminação de unidades de medida#";"Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Complementar#";Média;N;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento;C;"#Critério de complementaridade informacional:
+É complementar do PN 800.10.001 - Materialização, manutenção e disseminação de unidades de medida.
+#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;
+
+;800.20.500;Desenvolvimento experimental e aplicacional;"Replicação do conhecimento obtido na investigação realizada e na experiência prática (prova de conceito), visando melhorar substancialmente ou desenvolver produtos, modelos, programas, métodos, procedimentos e serviços, novos ou existentes.
+Inicia com a apresentação de um projeto de desenvolvimento e termina com a conclusão do desenvolvimento.
+Inclui a definição de uma metodologia, requisitos, parâmetros ou processos e a sua validação, prototipagem.
+";"O desenvolvimento experimental visa obter vantagens económicas ou sociais#
+Desenvolvimento de aplicações# 
+Desenvolvimento de instrumentação nuclear# 
+Desenvolvimento de novos materiais#
+Desenvolvimento de novos padrões de medida e de controlo# 
+Desenvolvimento de novos produtos#
+Desenvolvimento de novos serviços#
+Desenvolvimento de sistemas de informação#";;O registo de patentes e modelos de utilidade devem ser considerados em 400.10.609 – Registo de patentes e modelos de utilidade#;"DL 202/2012#
+DL 207/2009#
+DL 125/99#";PC;S;"IES#
+UI#
+UL#";"IES#
+UI#
+UL#
+AP#
+";"Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#";"150.10.500#
+150.10.600#
+150.20.102#
+300.40.508#
+300.40.510#
+350.30.001#
+400.10.609#
+400.10.610#
+400.10.614#
+450.30.002#
+500.10.001#
+500.10.301#
+750.10.002#
+750.10.601#
+750.20.001#
+750.20.300#
+750.30.001#
+800.10.302#
+800.10.609#
+850.10.002#
+850.10.003#
+850.10.005#
+850.10.500#
+850.10.600#
+850.10.601#
+900.10.501#
+";"Elaboração de instrumentos de cooperação interinstitucional#
+Avaliação de políticas e instrumentos de operacionalização#
+Planeamento de sistemas#
+Implementação de redes e sistemas tecnológicos#
+Monitorização de redes e sistemas tecnológicos#
+Cobrança de receitas e pagamento de despesas#
+Registo de patentes e modelos de utilidade#
+Registo de obras científicas, literárias e artísticas#
+Registo nacional de teses de doutoramento e dissertações de mestrado em curso#
+Certificação de habilitações ou qualificações#
+Realização de auditorias#
+Realização de fiscalização#
+Processamento de matrículas ou inscrições no ensino ou em formação#
+Processamento de pedidos de admissão a provas de avaliação#
+Conceção, revisão e extinção de currículos e planos de estudos#
+Produção e seleção de recursos didático-pedagógicos#
+Conceção e revisão dos métodos de avaliação de aprendizagens#
+Monitorização de recursos ambientais e naturais#
+Realização de técnicas de conservação artificial#
+Formalização de candidaturas e acompanhamento de apoios regulares#
+Formalização de candidaturas e acompanhamento de apoios pontuais#
+Formalização de candidaturas a ajudas diretas#
+Atribuição de prémios#
+Atribuição de patrocínios#
+Captação e aplicação de apoios mecenáticos#
+Organização e participação em iniciativas de partilha e debate crítico#
+";"Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Sucessão (sucessor)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Cruzada#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+";Média;N;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e dos PN  500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;;;;;;

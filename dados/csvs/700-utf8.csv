@@ -1,0 +1,1792 @@
+Estado;Código;Título;Descrição;Notas de aplicação;Exemplos NA;Notas de exclusão;Diplomas jurídico-administrativos REF;Tipo de processo;Processo transversal (S/N);Dono do processo;Participante no processo;Tipo de intervenção do participante;Código do processo relacionado;Título do processo relacionado;Tipo de relação entre processos;Dimensão qualitativa do processo;Uniformização do processo;Prazo de conservação administrativa;Nota ao PCA;Justificação PCA;Forma de contagem do PCA;Destino final;Justificação DF;Notas;;
+
+;700;PRESTAÇÃO DE CUIDADOS DE SAÚDE;Relativo à prestação de cuidados preventivos, curativos ou continuados, assegurada em unidades do Serviço Nacional de Saúde, em contexto laboral (saúde ocupacional), em clinicas, nas escolas, em prisões ou em qualquer outro contexto onde sejam praticados atos clínicos para humanos ou animais.;Atos clínicos realizados no quadro da promoção da saúde  (rastreio, vacinação, consulta do viajante, etc.)#;;"A constituição de redes de referenciação dos serviços e unidades de prestação de serviços de saúde (primária e secundária) deve ser considerada em ""Planeamento e gestão estratégica/ Planeamento, avaliação e melhoria de serviços"" (150.20);#
+As ações de promoção da saúde e/ou prevenção de doenças que se revistam da forma de campanhas de divulgação e informação, devem ser consideradas em ""Dinamização e comunicação institucional/ Execução de atividades de dinamização da sociedade"" (900.10);#
+Os estudos científicos e técnico-científicos no domínio da saúde devem ser considerados em ""Prestação de serviços técnicos e científicos, investigação e desenvolvimento"" (800);#
+Os serviços de assistência religiosa e/ou de assistência social ou psicossocial orientados à (re)integração social do utente dos serviços de saúde devem ser considerados em ""Prestação de serviços de proteção e inclusão social/ Serviços e equipamentos sociais"" (650.20).#";;;;;;;;;;;;;;;;;;;;
+
+;700.10;Gestão de utentes;Compreende as atividades de gestão do atendimento, admissão e encaminhamento de utentes dos serviços de saúde, no que se inclui os serviços de emergência médica.;"Referenciação dos doentes#
+Organização do transporte de doentes#
+Referenciação de colheitas e transplantes#
+Gestão de inscritos para consultas, para cirurgia e para outros atos clínicos#";;"O registo nacional de ""utente de saúde"" deve ser considerado em ""Prestação de serviços de identificação e registo/ Registo de dados de identificação e caracterização de entidades ou atos"" (400.10).#";;;;;;;;;;;;;;;;;;;;
+
+;700.10.001;Referenciação de utentes para consultas;"Inscrição e monitorização das inscrições de utentes que aguardam a realização de consulta numa unidade de saúde.
+Inicia com a inscrição na consulta e termina com a confirmação da realização da consulta ou cancelamento do registo.
+Inclui identificação do utente, avaliação clinica da necessidade da consulta, verificação de disponibilidade e marcação de consulta, notificação ao utente do agendamento da consulta.";"Encaminhamento de utentes para referenciação em consultas de especialidade#
+Marcação, alteração e cancelamento de atos clínicos médicos e de enfermagem no âmbito da Medicina do Trabalho#
+Marcação de atos clínicos médicos e de enfermagem nas unidades de saúde dos Serviços Sociais#
+Referenciação de utentes para consultas em unidades de saúde públicas ou privadas#
+Referenciação para realizar MCDT (meios complementares de Diagnóstico e Terapêutica)#";;;"Lei 26/2016#
+Portaria 95/2013#
+Lei 12/2005#
+Lei 67/98#";PE;S;"UPCS#
+AL#
+Grupo IP#";"ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+ACSS#
+AL#
+ACES#
+SMT#
+HH#
+";"Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#
+Comunicar#
+Comunicar#
+Comunicar#
+Comunicar#
+Comunicar#";"150.10.600#
+150.20.101#
+150.20.300#
+150.20.501#
+150.40.500#
+300.10.008#
+400.10.040#
+500.10.301#
+700.10.006#
+700.20.200#
+700.20.402#
+700.20.404#
+800.10.300#
+";"Avaliação de políticas e instrumentos de operacionalização#
+Planeamento estratégico de atividades#
+Avaliação de atividades#
+Análise e melhoria de serviços#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Estabelecimento de convenções com operadores privados#
+Registo nacional de utentes#
+Realização de fiscalização#
+Registo clinico de utentes#
+Prestação de cuidados de saúde personalizados#
+Realização de consultas de especialidade#
+Realização de cuidados de saúde de ambulatório médico#
+Controlo ambiental de infraestruturas e equipamentos#";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Suplemento para#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável nos PN:
+700.10.006 (Registo clinico de utentes)
+700.20.200 (Prestação de cuidados de saúde personalizados);
+700.20.402 (Realização de consultas de especialidade).
+";"""O sistema informático de suporte ao CTH ( Consulta a tempo e horas ) visa agilizar o sistema de referenciação para as 1ºas consultas mas tem ainda subjacente a avaliação especializada dos pedidos inscritos, a identificação da prioridade de atendimento e a marcação de primeiras consultas com base nessa prioridade, permitindo a monitorização de todos os pedidos de consulta com identificação clara dos intervenientes e respetivo desempenho em termos de tempo de resposta e dos atos associados"".
+";;
+
+;700.10.002;Referenciação de utentes para a rede de cuidados continuados integrados;"Informação decorrente de um conjunto de intervenções sequenciais integradas de saúde e apoio social em sequência de uma avaliação conjunta que visa promover a autonomia melhorando a funcionalidade do utente em situação de dependência, através da sua reabilitação, readaptação e reinserção familiar e social.
+Inicia com a avaliação da necessidade de cuidados continuados e preparação da alta hospitalar em articulação com outros serviços e termina com a confirmação do ingresso ou a anulação do registo.
+Inclui as atividades necessárias à execução do processo de referenciação de acordo com os interesses dos utentes e os recursos disponíveis na comunidade, nomeadamente, a nota de alta, os pareceres das equipas de gestão de altas, o envio dos processos de ingresso e de admissão para as unidades prestadoras. Inclui ainda, o consentimento informado e o termo de aceitação de internamento.
+
+";;;Os internamentos hospitalares devem ser considerados em 700.20.400 – Internamento de doentes agudos e crónicos#;"DL 101/2006#
+Portaria 174/2014#
+Diretiva Técnica UMCCI 1/2008#
+Diretiva Técnica UMCCI 5/2008#
+Diretiva Técnica UMCCI 2/2012#
+Diretiva Técnica UMCCI 5/2012#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Portaria 189-A/2015#";PE;S;UPCS#;"ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+ACES#";"Comunicar#
+Comunicar#
+Comunicar#
+Comunicar#
+Comunicar#
+Decidir#
+";"150.10.600#
+150.20.101#
+150.20.300#
+150.20.501#
+150.40.001#
+150.40.500#
+400.10.040#
+500.10.301#
+700.10.006#
+700.20.200#
+700.20.300#
+700.20.400#
+700.20.402#
+700.20.404#
+700.20.407#
+700.20.500#
+700.20.600#
+
+
+";"Avaliação de políticas e instrumentos de operacionalização#
+Planeamento estratégico de atividades#
+Avaliação de atividades#
+Análise e melhoria de serviços#
+Realização de operações estatísticas oficiais#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo nacional de utentes#
+Realização de fiscalização#
+Registo clinico de utentes#
+Prestação de cuidados de saúde personalizados#
+Internamento de doentes agudos e crónicos#
+Realização de cirurgias de ambulatório#
+Realização de consultas de especialidade#
+Realização de cuidados de saúde de ambulatório médico#
+Prestação de cuidados de convalescença#
+Prestação de cuidados de reabilitação#
+Prestação de cuidados paliativos#
+";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Suplemento para#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável nos PN:
+ PN 700.10.006 (Registo clinico de utentes)
+700.20.407 (Prestação de cuidados de convalescença);
+700.20.500 (Prestação de cuidados de reabilitação);
+700.20.600 (Prestação de cuidados paliativos).
+
+
+
+
+";"Portaria 174/2014, art. 10º nº 2 — O processo individual de cuidados continuados do utente deve ser permanentemente atualizado,|durante o internamento | sendo que, no que reporta a registo de observações, prescrições, administração de terapêutica e prestação de serviços e cuidados, deve ser anotada a data e a hora em que foram realizados, bem como a identificação clara do seu autor.
+nº 4 - As unidades e equipas prestadoras asseguram o arquivo do processo individual do utente, em conformidade com a legislação vigente.";;
+
+;700.10.003;Referenciação de utentes para cirurgias;"Informação decorrente de um conjunto de procedimentos de encaminhamento de utentes para realização de cirurgias.
+Inicia com a referenciação do médico de familia que encaminha o utente para consulta de especialidade ou na sequência de atendimemnto de urgencia na unidade hospitalar e termina com a confirmação da realização da cirurgia ou cancelamento do registo. 
+Incluí inscrição dos utentes através da plataforma para a gestão de inscritos para cirurgia e referenciação para outras unidades do setor público ou setor privado ou social através da emissão de um cheque cirúrgico.
+
+";;;;"Portaria 45/2008#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#";PE;S;UPCS#;"ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+ACSS#
+HH#";"Comunicar#
+Comunicar#
+Comunicar#
+Comunicar#
+Comunicar#
+Decidir#
+Comunicar#";"150.10.600#
+150.20.101#
+150.20.300#
+150.20.501#
+150.40.500#
+400.10.040#
+500.10.301#
+700.10.006#
+700.20.200#
+700.20.300#
+700.20.400#
+700.20.401#
+700.20.402#
+
+";"Avaliação de políticas e instrumentos de operacionalização#
+Planeamento estratégico de atividades#
+Avaliação de atividades#
+Análise e melhoria de serviços#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo nacional de utentes#
+Realização de fiscalização#
+Registo clínico de utentes#
+Prestação de cuidados de saúde personalizados#
+Prestação de cuidados de emergência médica#
+Internamento de doentes agudos e crónicos#
+Realização de cirurgias de ambulatório#
+Realização de consultas de especialidade#
+";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Suplemento para#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+
+";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável nos PN:
+700.10.006  - Registo clinico de utentes;
+700.20.200 - Prestação de cuidados de saúde personalizados;
+700.20.400 -  Internamento de doentes agudos e crónicos;
+700.20.401 - Realização de cirurgias de ambulatório;
+700.20.402 - Realização de consultas de especialidade.";;;
+
+;700.10.004;Registo de utilizadores de unidades de saúde;"Inscrição de utilizadores de unidades de saúde privadas ou de caráter social.
+Inicia com a manifestação do interesse ou necessidade de utilização de uma unidade de saúde e termina com o fim do interesse ou necessidade.
+Inclui identificação de utilizador, verificação do sistema de apoio à doença utilizado e registo de dados.";Atualização de dados para registo#;;O registo nacional de utente de saúde deve ser considerado em “Prestação de serviços de identificação e registo / Registo de dados de identificação e caracterização de entidades ou atos” (400.10)#;Lei 102/2009#;PE;S;"UPCS#
+INSA#
+SMT#
+HH#
+";"ACES#
+AL#";"Assessorar#
+Iniciar#";"150.20.300#
+400.10.040#
+450.30.500#
+500.10.301#
+700.10.001#
+700.10.006#
+700.10.002#
+700.10.003#
+
+";"Avaliação de atividades#
+Registo nacional de utentes#
+Certificação de doença, aptidão ou incapacidade#
+Realização de fiscalização#
+Referenciação de utentes para consultas#
+Registo clínico de utentes#
+Referenciação para a rede de cuidados continuados integrados#
+Referenciação de utentes para cirurgias#
+
+";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Suplemento para#
+Cruzada#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+
+";Elevada;N;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301- Realização de fiscalização.";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável no PN 700.10.006 - Registo Clinico de utentes.";"Legal - O processo clínico/ficha clínica (PC/FC) é constituído pelos dados individuais e administrativos do trabalhador, anamnese profissional, o exame objectivo sistemático e a vigilância biológica quando adequada. Deve incluir também o rastreio dos efeitos precoces e reversíveis, bem como a análise comparada dos dados clínicos e pessoais com as exigências de trabalho, carga de trabalho e avaliação dos factores de risco em que o trabalhador está exposto. Este PC/FC está sujeito ao segredo profissional e de acordo com a alínea c), ponto 2, artigo 88º, Lei 102/2009 de 10 de Setembro, deverá, aquando da cessação do contrato de actividade de uma dada empresa ou do médico do trabalho, ser transmitido ao médico do trabalho da nova empresa. Este princípio da transmissão da informação clínica por cessação da actividade é do interesse do trabalhador e salvaguarda os seus direitos à informação, conforme o referem os artigos 101º e 103º do Código Deontológico da Ordem dos Médicos. Esta prática deve constar do manual de procedimentos no capítulo da gestão da informação.
+
+Nota: Os PC/FC dos trabalhadores sujeitos ao risco de doença profissional devem ser guardados pelo um período de 40 anos e com a cessação da actividade do trabalhador devem ser remetidos para o serviço com competência para o reconhecimento das doenças profissionais na área da segurança social (n.º 5 do artigo 109º, Lei 102/2009 de 10 de Setembro).
+";;
+
+;700.10.005;Referenciação de utilizadores expostos a agentes biológicos perigosos;"A identificação dos trabalhadores expostos a agentes biológicos perigosos, com a indicação da natureza e, se possível, do agente e do grau de exposição.
+Inicia com a inscrição do trabalhador e termina com o registo exposição a agentes biológicos.
+Inclui os resultados da vigilância da saúde de cada trabalhador com referência ao respetivo posto de trabalho ou função e o registo de acidentes ou incidentes.
+";"Registos efetuados por entidades empregadoras que tenham trabalhadores que possam estar expostos a agentes suscetíveis de implicar riscos para o património genético#
+Referenciação de trabalhadores que lidam com materiais insalubres e com agentes biológicos nocivos# ";;O registo nacional de utente de saúde deve ser considerado em “Prestação de serviços de identificação e registo / Registo de dados de identificação e caracterização de entidades ou atos” (400.10)#;"Diretiva CE 54/2000#
+DL 84/97#
+Lei 102/2009#";PC;S;ACT#;"AP#
+UPCS#";"Iniciar#
+Assessorar#";"400.10.040#
+250.20.001#
+700.10.006#";"Registo nacional de utentes#
+Registo biográfico de trabalhadores#
+Registo clínico de utentes#";"Cruzada#
+Síntese (sintetizado)#
+Síntese (sintetizado)#";Reduzida;N;40;;"#Critério legal:
+[Diretiva CE 54/2000], art.º 11º,  nº 2 , e) e [DL 84/97], art.º19º, nº 4, ""O prazo de conservação dos registos é de 40 anos nos casos de exposições de que possam resultar infecções causadas por agentes biológicos susceptíveis de produzir infecções persistentes ou latentes, ou que, de acordo com os conhecimentos actuais, só sejam diagnosticáveis muitos anos depois com o aparecimento da doença, ou que tenham periodos de incubação muito longos, ou que provoquem doenças com crises de recrudescências, apesar do tratamento, ou com graves sequelas a longo prazo.""";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável em:
+PN 250.20.001- Registo biográfico de trabalhadores;
+- PN 700.10.006 - Registo clinico de utentes. 
+";;;
+
+;700.10.006 ;Registo clínico de utentes;"Inscrição de dados relativos à prestação de cuidados de saúde a utentes, relevantes para o conhecimento do seu quadro clinico. 
+Inicia com o registo da inscrição do utente e termina com a informação relativa ao seu óbito.
+Inclui integração de informação clinica, resumo médico com os dados clínicos mais importantes relativos aos medicamentos prescritos, às diferentes intervenções clinicas e cirúrgicas, bem como aos meios complementares de diagnóstico e terapêutica.
+";"Registo da prestação de cuidados de saúde por parte de entidades públicas e privadas# 
+
+";"EpSOS european patient smart onpen service# 
+
+";"O registo de utentes no serviço nacional de saúde deve ser considerado em 400.10.040 – Registo nacional de utentes# 
+O registo de utentes em unidades de saúde deve ser considerado em 700.10.004 – Registo de utilizadores de unidades de saúde#";DL 433/82#;PE;S;"UPCS#
+HH#
+AL#";SPMS# ;Comunicar# ;"500.10.001#
+500.10.301#
+450.10.073#
+150.20.303#
+800.10.001#
+800.10.002#
+150.20.300#
+150.20.501#";"Realização de auditorias#
+Realização de inspeção#
+Licenciamento ou autorização de atividades de investigação científica e de desenvolvimento#
+Monitorização de atividades#
+Realização de estudos de investigação básica#
+Execução de projetos de investigação aplicada#
+Avaliação de atividades#
+Análise e melhoria de serviços#";"Suplemento para#
+Suplemento para#
+Cruzada#
+Suplemento para#
+Cruzada#
+Cruzada#
+Síntese (sintetizado)#
+Síntese (sintetizado)#";Elevada;S;10;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.001 (Realização de auditorias).";Data de extinção da entidade sobre que recai o procedimento;C;"#Critério de densidade informacional:
+A informação sintetiza outros PN da classe de 700";"Relação ""Síntese (sintetiza)"" com todos os PN de 700 (informação retirada das colunas dos processos relacionados).";;
+
+;700.10.500;Registo de utilizadores em unidades de saúde animal ;"Inscrição de animais em hospitais e clinicas veterinárias. 
+Inicia com a manifestação do interesse ou necessidade de utilização de uma unidade de saúde veterinária e termina com o fim do interesse ou necessidade.
+Inclui identificação do animal e registo de dados.";Atualização dos dados de registo# ;;"O registo de animais deve ser considerado em 400.10.400 – Registo animal e material vegetal# 
+";;PE;N;"AL#
+GNR#
+PSP#";;;"150.20.300#
+300.30.008#
+700.10.501#";"Avaliação de atividades#
+Registo de documentos e informação#
+Referenciação de animais para consultas#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#";Média;S;5;;;Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável em:
+PN 150.20.300 - Avaliação de atividades;
+PN 300.30.008 - Registo de documentos e informação.";;;
+
+;700.10.501;"Referenciação de animais para consultas
+";"Inscrição de animais para consultas e e outros cuidados de saúde. 
+Inicia com a inscrição e temina com a notificação do agendamento do cuidado de saúde pretendido. 
+Inclui identificação do animal, avaliação clinica da necessidade da consulta, verificação de disponibilidade e marcação de consulta.
+
+";;;"A prestação de cuidados veterinários deve ser considerada em 700.20.800 – Prestação de cuidados curativos veterinários# 
+A vacinação de animais deve ser considerada em 700.20.700 – Vacinação de animais#";DL 433/82#;PE;N;"AL#
+GNR#
+PSP#";;;"150.20.300#
+300.30.008#
+700.10.500#
+700.20.700#
+700.20.800#";"Avaliação de atividades#
+Registo de documentos e informação#
+Registo de utilizadores em unidades de saúde animal#
+Vacinação de animais#
+Prestação de cuidados curativos animais#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Sucessão (sucessor)#
+Sucessão (sucessor)#";Média;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável em:
+PN 150.20.300 - Avaliação de atividades;
+PN 300.30.008 - Registo de documentos e informação.";;;
+
+;700.20;Serviços clínicos;"Compreende as atividades relacionadas com o diagnóstico, o tratamento, a reabilitação e o acompanhamento clínico do doente, no quadro da prestação de cuidados de saúde primários, secundários ou terciários.
+Compreende, igualmente, os atos clínicos de caráter preventivo (consultas, rastreio, vacinação), bem como as dádivas de sangue e as colheitas de órgãos, tecidos e células.";"Inclui os atos clínicos realizados em contexto de emergência médica pré-hospitalar ou de urgência hospitalar, em regime de internamento ou de ambulatório#
+Eventuais atos clínicos praticados fora das instituições de saúde (locais de trabalho, escolas, prisões, entre outros)#
+Aplica-se não apenas aos atos médicos e de enfermagem, mas também aos realizados por outros profissionais de saúde quando intervenham no diagnóstico, tratamento e reabilitação de doentes#";;"A intervenção médica em processos de avaliação e certificação de saúde ou incapacidade (por exemplo, juntas médicas para declaração de incapacidade, certificados médicos para pilotos e controladores de tráfego aéreo, entre outros) deve ser considerada em ""Reconhecimentos e permissões/ Emissão de comprovativos de factos ou atos"" (450.30).#";;;;;;;;;;;;;;;;;;;;
+
+;700.20.001;Imunização;"Prestação de cuidados de prevenção de saúde primária através de ações pelas quais se confere imunidade recorrendo a meios artificiais para prevenir doenças.
+Inicia com o pedido ou com a verificação da necessidade de vacina e termina com a administração da mesma.
+Inclui consulta do Plano Nacional de Vacinação, verificação das vacinas em falta ou necessárias e registo da imunização administrada.";"Administração de vacinas contempladas no Plano Nacional de Vacinação#
+Administração de vacinas a imunodeprimidos#
+Administração de vacinas a profissionais de risco#
+Administração de vacinas a viajantes para áreas endémicas ou outras#";;A elaboração do Plano Nacional de Vacinação deve ser considerada em 150.10.100 – Definição de políticas setoriais#;"Despacho 11961/2014#
+Despacho 17067/2011#
+Circular Normativa DGS 04/2003#
+Circular Normativa DGS 08/2005#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 103/2015#";PE;S;"HH#
+UPCS#
+SMT#";"ACES#
+ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+DGS#";"Comunicar#
+Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#";"150.10.600#
+150.20.300#
+150.40.500#
+300.30.008#
+400.10.040#
+500.10.301#
+700.10.006#
+700.20.200#
+700.20.300#
+700.20.403#
+800.10.607#
+";"Avaliação de políticas e instrumentos de operacionalização#
+Avaliação de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo de documentos e informação#
+Registo nacional de utentes#
+Realização de fiscalização#
+Registo clinico de utentes#
+Prestação de cuidados de saúde personalizados#
+Prestação de cuidados de emergência médica#
+Atendimentos urgentes#
+Realização de ações de observação em saúde e vigilância epidemiológica#
+
+
+
+
+
+
+";"Síntese(sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Suplemento para#
+Síntese(sintetizado)#
+Síntese(sintetizado)#
+Síntese(sintetizado)#
+Síntese(sintetizado)#
+Cruzada#
+";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).";Data de extinção da entidade sobre que recai o procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável em: 
+PN 150.10.600 - Avaliação de políticas e instrumentos de operacionalização;
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão; 
+PN 300.30.008 - Registo de documentos e informação (onde devem ser considerados os registos operacionais centralizados como o e-vacinas); 
+PN 700.10.006 - Registo clínico de utentes.
+";;;
+
+;700.20.100;Rastreio;"Prestação de cuidados de prevenção de saúde secundária praticados através de um conjunto de ações ou atividades de base comunitária e populacional programado em articulação com diversas autoridades de saúde e destinadas a detetar ou identificar precocemente doenças específicas junto de determinados grupos de população alvo.
+Inicia com a informação da realização do rastreio e termina com a avaliação do mesmo.
+Inclui realização de testes de saúde, análise dos resultados e eventual encaminhamento para consulta.";"Todo o tipo de rastreios#
+Programas de saúde de base comunitária e populacional#";;"Os estudos epidemiológicos ou programas de controlo de qualidade/ganhos em saúde e os os Registos Oncológicos Regionais (ROR) devem ser considerados em 800.10.607 – Realização de ações de Observação em saúde e Vigilância Epidemiologica#
+
+";"Recomendação CE 878/2003#
+Regulamento CE 889/2008#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#";PE;S;"UPCS#
+HH#";"ACES#
+ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#";"Apreciar#
+Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#";"150.10.600#
+150.20.101#
+150.20.501#
+150.20.300#
+150.40.500#
+500.10.301#
+700.20.200#
+800.10.300#
+800.10.600#
+800.10.601#
+800.10.607#";"Avaliação de políticas e instrumentos de operacionalização#
+Planeamento estratégico de atividades#
+Análise e melhoria de serviços#
+Avaliação de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Realização de fiscalização#
+Prestação de cuidados de saúde personalizados#
+Controlo ambiental de infraestruturas e equipamentos#
+Realização de ensaios clínicos#
+Realização de ensaios laboratoriais#
+Realização de ações de Observação em saúde e Vigilância Epidemiológica#
+";"Síntese(sintetizado)#
+Sucessão (sucessor)#
+Síntese(sintetizado)#
+Síntese(sintetizado)#
+Síntese(sintetizado)#
+Suplemento para#
+Síntese(sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável nos PN 150.20.101 (Planeamento estratégico de atividades; 150.20.300 (Avaliação de atividades); 150.20.501 (Análise e melhoria de serviços); 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão); 800.10.600 (Realização de ensaios clínicos); 800.10.602 (Realização de ensaios laboratoriais).
+
+";;;
+
+;700.20.101;"Realização de ações de  saúde em campanha
+";"Cuidados de prevenção secundária de saúde através da realização de atos clínicos envolvendo os cidadãos no sentido de os consciencializar e responsabilizar pelas suas próprias escolhas em matéria de saúde e bem-estar.
+Inicia com o diagnóstico de necessidades de formação/informação em matéria de saúde e termina com a realização da ação de promoção.
+Inclui desenvolvimento de atos clínicos e orientação dos utentes em relação a matérias de saúde e bem-estar.
+";"Projetos ou ações de promoção da saúde não integrados em Programas Nacionais#
+Ações de sensibilização e educação para a saúde tais como nutrição de grávidas e idosos ou Dia da alimentação Férias em saúde#
+Ações de sensibilização para a parentalidade#
+Ações de intervenção comunitária (tais como# centro de recuperação de jovens)#
+Todas as campanhas de promoção da saúde que envolvam atos clínicos (exames médicos, vigilância de níveis, entre outros)#
+
+";;"As ações integradas nos Programas nacionais do Plano nacional de Saúde devem ser consideradas em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+ Os Rastreios devem ser considerados em 700.20.100 – Rastreios#
+As campanhas baseadas em instrumentos de comunicação devem ser consideradas em 900.10.502 – Organização e participação em iniciativas de prevenção e sensibilização#
+Os instrumentos promocionais das campanhas devem ser considerados em 900.20.002 – Criação de produtos e artigos promocionais#";"DL 157/99#
+DL 28/2007#";PE;S;UPCS#;"ACES#
+ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#";"Apreciar#
+Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#";"150.10.200#
+150.10.300#
+150.10.400#
+150.10.600#
+150.20.101#
+150.20.300#
+150.20.501#
+150.40.500#
+400.10.040#
+500.10.301#
+700.10.006#";"Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito regional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito municipal e intermunicipal#
+Avaliação de políticas e instrumentos de operacionalização#
+Planeamento estratégico de atividades#
+Avaliação de atividades#
+Análise e melhoria de serviços#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo nacional de utentes#
+Realização de fiscalização#
+Registo clinico de utentes#
+
+";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Síntese(sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Síntese(sintetizado)#
+Síntese(sintetizado)#
+Cruzada#
+Suplemento para#
+Síntese(sintetizado)#";Elevada;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+A informação está sintetizada e é recuperável nos PN 150.20.101 (Planeamento estratégico de atividades; 150.20.300 (Avaliação de atividades); 150.20.501 (Análise e melhoria de serviços); 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão) e 700.10.006 (Registo clinico de utentes) ";;;
+
+;700.20.102;Prevenção de crises pandémicas e situações de emergência sanitária ou de saúde pública;"Cuidados de prevenção secundária de saúde através da realização de atos de assistência médica no âmbito das competências profissionais do médico de saúde pública.
+Inicia com a intervenção das autoridades de saúde, sempre que instadas e/ou alertadas para situações potencialmente criticas de saúde pública e termina com relatório onde se elabora o diagnóstico e propõe medidas.
+Inclui ativação de meios de prevenção e relato de resultados. ";"Atividades das autoridades de saúde e coordenação do funcionamento global em rede dessas autoridades#
+Intervenção em situações de grave risco para a saúde pública#
+Limitação da realização de viagens, em especial para zonas com identificação de casos de doença, suspeitos ou confirmados, após a avaliação do risco potencial associado à sua realização#
+Encerramento de escolas, locais de trabalho, centros de dia ou outras instituições, após avaliação do risco potencial associado à sua manutenção em atividade#
+Adoção de ações de proteção aos agentes funerários e outros intervenientes nas atividades de remoção, transporte e inumação de cadáveres, em que a morte foi provocada pela crise pandémica, designadamente nas situações de excesso#
+";;;Lei 81/2009#;PE;S;"AS#
+DGS#
+ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+UPCS#
+HH#";"HH#
+INEM#
+PSP#
+ANPC#";"Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#";"150.10.200#
+150.10.300#
+150.10.400#
+150.10.600#
+150.20.101#
+150.20.300#
+500.10.301#
+550.20.006#
+700.20.300#
+700.20.403#
+";"Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito regional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito municipal e intermunicipal#
+Avaliação de políticas e instrumentos de operacionalização#
+Planeamento estratégico de atividades#
+Avaliação de atividades#
+Realização de fiscalização#
+Atendimento telefónico de emergência#
+Prestação de cuidados de emergência médica#
+Atendimentos urgentes#
+
+";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Suplemento para#
+Sucessão(Antecessor)#
+Cruzada#
+Cruzada#
+";Reduzida;S;5;;"#Critério legal:
+[DL 433/82], art.º 27º - Prazo prescricional do procedimento contraordenacional.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta deste PN para apuramento de responsabilidade em sede do PN 500.10.301 (Realização de fiscalização).";Data de conclusão do procedimento;C;"#Critério de densidade informacional:
+As relações de síntese  estabelecidas com outros PN, como as estatisticas e a avaliação da atividade da entidade, apenas permitem recuperar a enumeração dos casos (a sua dimensão geral), não habilitando a uma síntese qualitativa que represente a complexidade do PN.
+Pelo que, se torna necessário a conservação da atuação particular.
+ 
+";;;
+
+;700.20.200;Prestação de cuidados de saúde personalizados;"Prestação continuada de assistência médica e de cuidados de saúde por médico de medicina geral e familiar.
+Inicia com a realização de consulta e termina com a avaliação de resultados.
+Inclui elaboração de diagnóstico, aplicação de fármacos, registo dos atos médicos praticados e acompanhamento do utente.";"Acompanhamento clínico em ambiente prisional#
+Acompanhamento dos utentes da instituição nas entidades com serviços clínicos#
+Acompanhamento de toxicodependentes#
+Apoio domiciliário de saúde#
+Intervenção personalizada com envolvente familiar#
+Planeamento familiar#
+Vigilância da saúde infantil#";;A certificação de incapacidade permanente, de doença profissional ou de acidente de trabalho deve ser considerada em 450.30.500 – Certificação de doença, aptidão ou incapacidade#;"Lei 48/90#
+Lei 27/2002#
+Lei 48/90#
+DL 157/99#
+DL 28/2008#
+Lei 12/2005#
+Lei 26/2016#
+Lei 101/99#
+Lei 21/2014#";PE;S;"UPCS#
+AL#";"HH#
+ACES#";"Comunicar#
+Comunicar#";"150.10.600#
+150.20.101#
+150.20.501#
+150.20.300#
+150.40.500#
+400.10.040#
+400.10.036#
+400.10.037#
+400.10.038#
+400.10.039#
+450.30.504#
+500.10.001#
+700.10.001#
+700.10.002#
+700.10.003#
+700.10.006#
+700.20.001#
+700.20.100#
+700.20.404#
+700.20.406#
+700.20.407#
+700.20.500#
+700.20.600#
+
+
+
+
+";"Avaliação de políticas e instrumentos de operacionalização#
+Planeamento estratégico de atividades#
+Análise e melhoria de serviços#
+Avaliação de atividades#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo nacional de utentes#
+Registo nacional de dadores de medula óssea#
+Registo nacional de dador de sangue#
+Registo nacional de não dador de órgãos#
+Registo nacional do testamento vital#
+Certificação de óbito#
+Realização de auditorias#
+Referenciação de utentes para consultas#
+Referenciação para a rede de cuidados continuados integrados#
+Referenciação de utentes para cirurgias#
+Registo clinico de utentes#
+Imunização#
+Rastreio#
+Realização de cuidados de saúde de ambulatório médico#
+Apoio ao diagnóstico e terapêutica#
+Prestação de cuidados de convalescença#
+Prestação de cuidados de reabilitação#
+Prestação de cuidados paliativos#
+
+";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Complementar#
+Suplemento para#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Síntese (sintetizado)#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+
+
+
+";Elevada;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.300;Prestação de cuidados de emergência médica;"Prestação de assistência médica a vítimas de acidente ou de doença súbita.
+Inicia com o pedido de assistência e termina com a estabilização do utente pela equipa de emergência médica ou com o encaminhamento do sinistrado para unidade de saúde adequada.
+Inclui registo sonoro do pedido e respetivo atendimento, eventual reencaminhamento da chamada, encaminhamento de meios de assistência médica e aplicação de cuidados médicos e de enfermagem adequados à situação.";"Apoio a traumáticos em situação de crise#
+Atos praticados por pessoal médico e de enfermagem em atendimento telefónico#
+Informação e encaminhamento do Centro de Informação Antivenenos (CIAV)#";;O transporte de doentes e sinistrados que não envolva assistência médica deve ser considerado em 550.20.500 – Ação de proteção e socorro#;"Despacho 14041/2012#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 21/2014#";PE;S;INEM#;HH#;Comunicar#;"400.10.036#
+400.10.037#
+400.10.038#
+400.10.039#
+400.10.040#
+450.30.504#
+500.10.001#
+500.10.301#
+550.20.500#
+700.10.002#
+700.10.003#
+700.20.001#
+700.20.102#
+700.10.006#
+700.20.400#
+700.20.402#
+700.20.403#
+700.20.406#
+700.20.407#
+700.20.500#
+700.20.600#
+
+
+
+
+";"Registo nacional de dadores de medula óssea#
+Registo nacional de dador de sangue#
+Registo nacional de não dador de órgãos#
+Registo nacional do testamento vital#
+Registo nacional de utentes#
+Certificação de óbito#
+Realização de auditorias#
+Realização de fiscalização#
+Ação de proteção e socorro#
+Referenciação para a rede de cuidados continuados integrados#
+Referenciação de utentes para cirurgias#
+Imunização#
+Prevenção de crises pandémicas e situações de emergência sanitária ou de saúde pública#
+Registo clinico de utentes#
+Internamento de doentes agudos e crónicos#
+Realização de consultas de especialidade#
+Atendimentos urgentes#
+Apoio ao diagnóstico e terapêutica#
+Prestação de cuidados de convalescença#
+Prestação de cuidados de reabilitação#
+Prestação de cuidados paliativos#
+";"Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Síntese (sintetiza)#
+Cruzada#
+Cruzada#
+Cruzada#
+
+";Elevada;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede do PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração) e do PN 500.10.301 - Realização de fiscalização.
+";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clínico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.400;Internamento de doentes agudos e crónicos;"Acolhimento em unidade hospitalar para tratamento de episódio agudo ou acompanhamento de doença crónica.
+ Inicia com o internamento numa unidade de especialidade Hospitalar e termina com a estabilização dos sintomas revelados, emitindo-se uma nota de alta hospitalar.
+ Inclui o diagnóstico, prescrição e monitorização da evolução da doença (consultas subsequentes). Inclui ainda, actos das várias especialidades clinicas e administração de fármacos hospitalares para doenças específicas, bem como o registo dos actos praticados no sistema de informação.
+";"Internamento forense (doentes inimputáveis)#
+Internamento compulsivo#";;;"Circular Normativa DGS 6/2008#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 12/2009#
+Lei 1/2015#
+Lei 36/2013#
+Lei 2/2015#
+Lei 21/2014#
+DL 267/2007#
+DL 185/2015#";PE;S;"HH#
+";UPCS#;Comunicar#;"400.10.036#
+400.10.037#
+400.10.038#
+400.10.036#
+400.10.037#
+400.10.038#
+500.10.001#
+700.10.002#
+700.10.003#
+700.10.006#
+700.20.200#
+700.20.300#
+700.20.401#
+700.20.402#
+700.20.403#
+700.20.404#
+700.20.405#
+700.20.406#
+700.20.407#
+700.20.500#
+700.20.600#
+";"Registo nacional de dadores de medula óssea#
+Registo nacional de dador de sangue#
+Registo nacional de não dador de órgãos#
+Registo nacional do testamento vital#
+Registo nacional de utentes#
+Certificação de óbito#
+Realização de auditorias#
+Referenciação para a rede de cuidados continuados integrados#
+Referenciação de utentes para cirurgias#
+Registo clínico de utentes#
+Prestação de cuidados de saúde personalizados#
+Prestação de cuidados de emergência médica#
+Realização de cirurgias de ambulatório#
+Realização de consultas de especialidade#
+Atendimentos urgentes#
+Realização de cuidados de saúde de ambulatório médico#
+Prestação de assistência médica no estrangeiro#
+Apoio ao diagnóstico e terapêutica#
+Prestação de cuidados de convalescença#
+Prestação de cuidados de reabilitação#
+Prestação de cuidados paliativos#
+";"Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Complementar#
+Suplemento para#
+Síntese (sintetiza)#
+Cruzada#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Síntese (sintetiza)#
+Cruzada#
+Cruzada#
+Cruzada#
+";Elevada;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.401;Realização de cirurgias de ambulatório;"Acolhimento em unidade hospitalar para realização de cirurgia ambulatória.
+Inicia com a consulta pré-operatória e termina com a emissão da alta hospitalar.
+Incluí todos os actos praticados no âmbito da atividade no hospital e o registo dos actos praticados no sistema de informação.
+";"Cirurgias em que a admissão, intervenção cirúrgica e alta hospitalar para o domicílio ou para unidade não abrangida pelos serviços de saúde, não requerem que o doente pernoite no hospital#
+Cedência de medicação a utentes em ambulatório#";;Os procedimentos relacionados com a gestão do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC) devem ser considerados em 700.10.003 – Referenciação de utentes para cirurgia#;"Circular Normativa DGS 6/2009#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 21/2014#";PE;S;"HH#
+";UPCS#;Comunicar#;"400.10.040#
+450.30.504#
+500.10.001#
+700.10.003#
+700.10.006#
+700.20.200#
+700.20.400#
+700.20.300#
+700.20.402#
+700.20.403#
+700.20.404#
+700.20.405#
+700.20.407#
+700.20.500#
+700.20.600#";"Registo nacional de utentes#
+Certificação de óbito#
+Realização de auditorias#
+Referenciação de utentes para cirurgias#
+Registo clínico de utentes#
+Prestação de cuidados de saúde personalizados#
+Internamento de doentes agudos e crónicos#
+Prestação de cuidados de emergência médica#
+Realização de consultas de especialidade#
+Atendimentos urgentes#
+Realização de cuidados de saúde de ambulatório médico#
+Prestação de assistência médica no estrangeiro#
+Prestação de cuidados de convalescença#
+Prestação de cuidados de reabilitação#
+Prestação de cuidados paliativos#";"Cruzada#
+Cruzada#
+Suplemento para#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+
+";Elevada;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal. 
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.402;Realização de consultas de especialidade ;"Cuidados de saúde que envolvem diagnóstico, prescrição e monitorização da evolução da doença realizada por especialidade médica.
+Inicia-se com a referenciação do médico dos cuidados de saúde primários (no médico de família ou no médico assistente, fora do Serviço Nacional de Saúde -SNS) ou por solicitação de médico de uma outra especialidade hospitalar para uma unidade de referência e termina com a estabilização dos sintomas revelados mediante a frequência de consultas de especialidade.
+Inclui o registo dos atos praticados no sistema de informação.
+";"Consultas subsequentes, teleconsultas e consultas domiciliárias#
+Consultas de medicina do trabalho#
+Consultas externas# 
+
+";;;"Circular Normativa DGS 6/2009#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 21/2014#";PE;S;"HH#
+SMT#";UPCS#;Iniciar#;"400.10.040#
+450.30.504#
+500.10.001#
+700.10.001#
+700.10.002#
+700.10.006#
+700.10.003#
+700.10.004#
+700.20.300#
+700.20.401#
+700.20.403#
+700.20.404#
+700.20.405#
+700.20.407#
+700.20.500#
+700.20.600#
+";"Registo nacional de utentes#
+Certificação de óbito#
+Realização de auditorias#
+Referenciação de utentes para consultas#
+Referenciação para a rede de cuidados continuados integrados#
+Registo clínico de utentes#
+Referenciação de utentes para cirurgias#
+Registo de utilizadores de unidades de saúde#
+Prestação de cuidados de emergência médica#
+Realização de cirurgias de ambulatório#
+Atendimentos urgentes#
+Realização de cuidados de saúde de ambulatório médico#
+Prestação de assistência médica no estrangeiro#
+Prestação de cuidados de convalescença#
+Prestação de cuidados de reabilitação#
+Prestação de cuidados paliativos#
+";"Cruzada#
+Cruzada#
+Suplemento para#
+Síntese (sintetiza)#
+Cruzada#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+";Elevada;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.403;Atendimentos urgentes;"Atendimento de episódios agudos de doença ou emergências.
+Inicia com o registo do doente no serviço de urgência e termina com a emissão de nota de alta ou transferência para internamento.  
+Inclui o registo dos actos praticados no sistema de informação.
+";;;;"Circular Normativa DGS 6/2009#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 21/2014#";PE;S;"HH#
+";UPCS#;Comunicar#;"400.10.040#
+400.10.036#
+400.10.037#
+400.10.038#
+400.10.039#
+450.30.504#
+500.10.001#
+700.10.006#
+700.20.001#
+700.20.102#
+700.20.300#
+700.20.400#
+700.20.401#
+700.20.402#
+700.20.404#
+700.20.406#
+700.20.407#
+700.20.500#
+700.20.600#
+";"Registo nacional de utentes#
+Registo nacional de dadores de medula óssea#
+Registo nacional de dador de sangue#
+Registo nacional de não dador de órgãos#
+Registo nacional do testamento vital#
+Certificação de óbito#
+Realização de auditorias#
+Registo clínico de utentes#
+Imunização#
+Prevenção de crises pandémicas e situações de emergência sanitária ou de saúde pública#
+Prestação de cuidados de emergência médica#
+Internamento de doentes agudos e crónicos#
+Realização de cirurgias de ambulatório#
+Realização de consultas de especialidade#
+Realização de cuidados de saúde de ambulatório médico#
+Apoio ao diagnóstico e terapêutica#
+Prestação de cuidados de convalescença#
+Prestação de cuidados de reabilitação#
+Prestação de cuidados paliativos#";"Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Suplemento para#
+Síntese (sintetizado)#
+Síntese (sintetiza)#
+Síntese (sintetiza)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Síntese (sintetiza)#
+Cruzada#
+Cruzada#
+Cruzada#";Elevada;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.404;Realização de cuidados de saúde de ambulatório médico;"Intervenção terapêutica em ambiente hospitalar.
+Inicia com o encaminhamento do utente para as sessões e termina com a alta, ou seja, com o fim do episódio de tratamento em hospital de dia, tendo sido realizadas todas as sessões de hospital de dia prescritas.
+";"Sessões de radioterapia#
+Sessões de psiquiatria#
+Sessões de Hematologia/ Imunohemoterapia# 
+Cedência de medicação a utentes em ambulatório#
+
+";;As cirurgias em ambulatório devem ser consideradas em 700.20.401 – Realização de cirurgias de ambulatório;"Circular Normativa DGS 6/2009#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 21/2014#";"PE
+
+";S;"HH#
+";UPCS#;Comunicar#;"400.10.040#
+500.10.001#
+700.10.001#
+700.10.002#
+700.10.006#
+700.20.200#
+700.20.300#
+700.20.400#
+700.20.401#
+700.20.402#
+700.20.403#
+700.20.407#
+700.20.500#
+700.20.600#";"Registo nacional de utentes#
+Realização de auditorias#
+Referenciação de utentes para consultas#
+Referenciação para a rede de cuidados continuados integrados#
+Registo clínico de utentes#
+Prestação de cuidados de saúde personalizados#
+Prestação de cuidados de emergência médica#
+Internamento de doentes agudos e crónicos#
+Realização de cirurgias de ambulatório#
+Realização de consultas de especialidade#
+Atendimentos urgentes#
+Prestação de cuidados de convalescença#
+Prestação de cuidados de reabilitação#
+Prestação de cuidados paliativos#";"Cruzada#
+Suplemento para#
+Síntese (sintetiza)#
+Cruzada#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#";Elevada;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.405;Prestação de assistência médica no estrangeiro;"Cuidados de saúde hospitalares especializados prestados no estrangeiro que, por falta de meios técnicos ou humanos, não possam ser prestados em Portugal.
+Inicia com a assunção de que o país não dispõe de condições para tratar o doente e que o mesmo pode ser referenciado para outro país e termina com o regresso do utente ao país.
+Inclui os procedimentos específicos definidos na lei, nomeadamente, o relatório clínico, o parecer da Comissão de Assessoria Técnica e a decisão final da autoridade de saúde competente.  
+";;;;DL 177/92#;PE;S;"HH#
+";"ACSS#
+ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#";"Apreciar#
+Comunicar#
+Comunicar#
+Comunicar#
+Comunicar#
+Comunicar#";"400.10.040#
+500.10.001#
+700.10.006#
+700.20.400#
+700.20.401#
+700.20.402#
+";"Registo nacional de utentes#
+Realização de auditorias#
+Registo clínico de utentes#
+Internamento de doentes agudos e crónicos#
+Realização de cirurgias de ambulatório#
+Realização de consultas de especialidade#
+";"Cruzada#
+Suplemento para#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+
+
+";Elevada;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.406;Apoio ao diagnóstico e terapêutica;"Atividades que concorrem para o apoio à realização do diagnóstico, tratamento e acompanhamento de doenças no âmbito de Programas Verticais.
+Inicia com a inclusão do utente no programa e termina com a cessação da prestação de cuidados que lhe deu origem.
+Inclui todos os atos necessários ao tratamento.";"Execução de programas verticais Hospitalares#
+Execução de atividades incluidas no Contrato-Programa#";"Programas hospitalares de Hemodiálise#
+Programas hospitalares de Saúde Sexual e Reprodutiva#,
+Programas hospitalares de Próteses#
+Programas hospitalares de VIH#
+Programas hospitalares de Esclerose Multipla#";;"Circular Normativa DGS 6/2009#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 21/2014#";PE;S;"HH#
+";"ACSS#
+ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#";"Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#";"400.10.040#
+150.10.600#
+150.20.300#
+500.10.001#
+700.10.006#
+700.20.200#
+700.20.300#
+700.20.400#
+700.20.403#
+
+
+";"Registo nacional de utentes#
+Avaliação de políticas e instrumentos de operacionalização#
+Avaliação de atividades#
+Realização de auditorias#
+Registo clinico de utentes#
+Prestação de cuidados de saúde personalizados#
+Prestação de cuidados de emergência médica#
+Internamento de doentes agudos e crónicos#
+Realização de consultas externas#
+";"Cruzada#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Síntese (sintetizado)#
+Cruzada#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#";Reduzida;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável nos PN 150.10.600 (Avaliação de políticas e instrumentos de operacionalização) e PN 700.10.006 (Registo clínico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.407;Prestação de cuidados de convalescença;"Internamento para utentes com necessidade de cuidados clinicos de reabilitação, em unidades específica e por um período de tempo inferior a trinta (30) dias articulado com Hospital.
+Inicia com o tratamento e supervisão clínica, continuada e intensiva na sequência de internamento hospitalar e termina preferencialmente com a recuperação global do utente e nota de alta.
+Inclui o diagnóstico e todos os atos necessários ao tratamento.
+
+";;;Os cuidados de reabilitação deve ser considerados em 700.20.500 – Prestação de cuidados de reabilitação#;"DL 101/2006#
+DL 136/2015#
+Portaria 174/2014#
+Portaria 289-A/2015#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 21/2014#
+Portaria 189-A/2015#";PE;S;UPCS#;"ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+ACES#
+ACSS#";"Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#
+Apreciar#
+Decidir#";"650.20.306#
+400.10.040#
+450.30.504#
+500.10.001#
+700.10.002#
+700.10.006#
+700.20.200#
+700.20.300#
+700.20.400#
+700.20.401#
+700.20.402#
+700.20.403#
+700.20.404#";"Prestação de cuidados alimentares e de higiene a institucionalizados#
+Registo nacional de utentes#
+Certificação de óbito#
+Realização de auditorias#
+Referenciação para a rede de cuidados continuados integrados#
+Registo clínico de utentes#
+Prestação de cuidados de saúde personalizados#
+Prestação de cuidados de emergência médica#
+Internamento de doentes agudos e crónicos#
+Realização de cirurgias de ambulatório#
+Realização de consultas externas#
+Atendimentos urgentes#
+Realização de cuidados de saúde de ambulatório médico#
+";"Cruzada#
+Cruzada#
+Cruzada#
+Suplemento para#
+Síntese (sintetiza)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+";"Elevada
+
+";S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.500;Prestação de cuidados de reabilitação;"Cuidados de saúde prestados a doentes em unidades de internamento de caracter temporário para prestar apoio social e cuidados de saúde de manutenção a pessoas que previnam ou retardem o agravamento da situação de dependência, favorecendo o conforto e a qualidade.
+Inicia com o internamento e termina com a alta e a recuperação global do utente.
+Inclui, o diagnóstico e definição das diferentes patologias, a identificação de deficiências e incapacidades existentes, a definição do prognóstico e avaliação do potencial de reabilitação, o planeamento e prescrição do tratamento.
+";;;Os cuidados de convalescença devem ser considerados em 700.20.407 – Prestação de cuidados de convalescença;"DL 101/2006#
+DL 136/2015#
+Portaria 174/2014#
+Portaria 289-A/2015#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 21/2014#
+Portaria 189-A/2015#";PE;S;UPCS#;"ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+ACES#
+ACSS#";"Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#
+Apreciar#
+Decidir#";"400.10.040#
+450.30.504#
+500.10.001#
+700.10.002#
+700.10.006#
+700.20.200#
+700.20.300#
+700.20.400#
+700.20.401#
+700.20.402#
+700.20.403#
+700.20.404#";"Registo nacional de utentes#
+Certificação de óbito#
+Realização de auditorias#
+Referenciação para a rede de cuidados continuados integrados#
+Registo clínico de utentes#
+Prestação de cuidados de saúde personalizados#
+Prestação de cuidados de emergência médica#
+Internamento de doentes agudos e crónicos#
+Realização de cirurgias de ambulatório#
+Realização de consultas de especialidade#
+Atendimentos urgentes#
+Realização de cuidados de saúde de ambulatório médico#
+";"Cruzada#
+Cruzada#
+Suplemento para#
+Síntese (sintetiza)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#";Elevada;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.600;Prestação de cuidados paliativos;"Prestação de cuidados de saúde especializados dirigidos a pessoas com doenças incuráveis em fase avançada e/ou terminal, com intenção de melhorar a qualidade de vida dos doentes e suas famílias através do alívio do sofrimento decorrente dos sintomas físicos, mas também de problemas psicológicos, sociais e espirituais.
+Inicia com a referenciação à unidade e termina quando a equipa finaliza o acompanhamento.
+Inclui o diagnóstico e todos os atos necessários ao tratamento.
+";"Situações de internamento nas unidades hospitalares específicas#
+Situações de internamento nas unidades da rede de cuidados continuados integrados e abrange, sempre que for entendido necessário, o apoio domiciliário e o apoio à família#";;;"DL 101/2006#
+Portaria 174/2014#
+Lei 12/2005#
+Lei 26/2016#
+Lei 67/98#
+Lei 101/99#
+Lei 21/2014#
+Portaria 189-A/2015#";PE;S;UPCS#;"ARS-N#
+ARS-C#
+ARS-LVT#
+ARS-Aln#
+ARS-Alg#
+ACES#
+ACSS#";"Decidir#
+Decidir#
+Decidir#
+Decidir#
+Decidir#
+Apreciar#
+Decidir#";"400.10.040#
+450.30.504#
+500.10.001#
+700.10.002#
+700.10.006#
+700.20.200#
+700.20.300#
+700.20.400#
+700.20.401#
+700.20.402#
+700.20.403#
+700.20.404#";"Registo nacional de utentes#
+Certificação de óbito#
+Realização de auditorias#
+Referenciação para a rede de cuidados continuados integrados#
+Registo clinico de utentes#
+Prestação de cuidados de saúde personalizados#
+Prestação de cuidados de emergência médica#
+Internamento de doentes agudos e crónicos#
+Realização de cirurgias de ambulatório#
+Realização de consultas de especialidade#
+Atendimentos urgentes#
+Realização de cuidados de saúde de ambulatório médico#";"Cruzada#
+Cruzada#
+Suplemento para#
+Síntese (sintetiza)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#";Média;S;"15
+
+
+
+
+
+
+";;"#Critério legal:
+[DL 48/95], CP, art.º 118º - Prazo máximo prescricional do procedimento criminal.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de extinção da entidade sobre que recai o procedimento;CP;"#Critério de densidade informacional:
+A informação encontra-se sintetizada e é recuperável no PN 700.10.006 (Registo clinico de utentes).
+A enumeração e tipificação dos casos é recuperável através das estatísticas: PN 150.40.001 (Realização de operações estatísticas oficias) e PN 150.40.500 (Recolha e tratamento de dados estatísticos de apoio à gestão).
+Estas sínteses permitem recuperar as características gerais. A aplicação de um critério de amostragem permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo. 
+Para a conservação parcial toma-se como base as necessidades decorrentes do tratamento de doenças hereditárias e a imprevisibilidade dos estudos nesta área, conjugando-se dois métodos:
+- Amostragem aleatória, em que se toma como base a necessidade de dispor de documentação que apoie a investigação clínica e epidemiológica na procura de novas evidências em favor da prática clínica ou terapêutica e a impossibilidade de conservar toda a produção. A grelha para seleção da amostragem encontra-se no final desta página.
+- Amostragem seletiva de modo a que a informação preservada permita a investigação, nomeadamente estudos de prevalência, estudos de casos-controlo, estudos de coorte e história clínica de patologias genéticas, hereditárias e/ou outras patologias que o “ estado da arte” venha a relevar.
+";;;
+
+;700.20.700;Vacinação de animais;"Cuidados de prevenção primária de saúde praticados em espécies animais ao longo da sua vida com o objetivo de imunização.
+Inicia com o pedido ou com a verificação da necessidade de vacina e termina com a administração da mesma.
+Inclui verificação das vacinas em falta ou necessárias e registo da vacina administrada.";"Vacinação de animais em Centros de Recuperação de Animais Selvagens não abertos ao público#
+Vacinação de animais domésticos ou de companhia#
+Vacinação de animais de exploração pecuária#
+Vacinação de animais selvagens em cativeiro#";;;"Portaria 264/2013#
+DL 314/2003#
+Regulamento CE 998/2003#";PE;S;"AL#
+GNR#
+PSP#";EDA#;Iniciar#;"150.20.300#
+300.30.008#
+400.10.400#
+400.10.402#
+500.10.301#
+";"Avaliação de atividades#
+Registo de documentos e informação#
+Registo animal e material vegetal#
+Registo genealógico de animais#
+Realização de fiscalização#
+";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#";Reduzida;S;5;;"#Critério legal:
+[Portaria 264/2013], Normas técnicas de execução regulamentar do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses, art.º 2º, nº 1 (validade do boletim de sanidade (boletim de saúde animal)).
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização (no que diz respeito ao processamento do registo da vacinação no boletim).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação sintetizada recuperável em:
+- PN 150.20.300 - Avaliação de atividades (atuação da entidade), 
+- PN 300.30.008 - Registo de documentos e informação (casos tratados), 
+- PN 400.10.402 - Registo genealógico de animais.";;;
+
+;700.20.701;Sequestro sanitário de animais;"Aplicação compulsiva de medidas de caráter sanitário a animais suspeitos de serem portadores de zoonoses.
+Inicia com o pedido de sequestro e termina com a morte natural do animal ou com o envio para adoção, restituição ou eutanásia.
+Inclui notificação às entidades competentes e ao proprietário, recolha do animal ou, em alternativa, sequestro sanitário domiciliário, quarentena sob vigilância veterinária, elaboração de informação sobre o estado de saúde do animal, comprovativo do pagamento de taxas, quando devido, e articulação com o laboratório competente para isolamento do agente patogénico, em caso de morte do animal.";"Recolha de animais vadios com suspeita de raiva ou com doença terminal#
+Recolha de animais com dono com suspeita de raiva ou com doença terminal#";;"O abate ou occisão de animais devem ser considerados em 700.20.901 – Occisão ou eutanásia de animais#
+A incineração ou outra forma adequada de destruição de cadáveres de animais devem ser consideradas em 710.10.002 – Recolha de resíduos#
+";"Resolução da Assembleia da República 93/2015#
+Portaria 264/2013#
+DL 314/2003#";PE;S;"AL#
+GNR#
+PSP#";EDA#;Iniciar#;"150.20.300#
+300.30.008#
+400.10.400#
+400.10.402#
+500.10.001#
+500.10.301#
+700.20.901#
+710.10.300#";"Avaliação de atividades#
+Registo de documentos e informação#
+Registo animal e material vegetal#
+Registo genealógico de animais#
+Realização de auditorias#
+Realização de fiscalização#
+Occisão ou eutanásia de animais#
+Recolha e adoção de animais#
+
+
+
+";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Suplemento para#
+Sucessão (sucessor)#
+Cruzada#";Reduzida;S;5;;"#Critério legal:
+[Portaria 264/2013], Normas técnicas de execução regulamentar do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses, art.º 2º, nº 1 (validade do boletim de sanidade (boletim de saúde animal)).
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização (no que diz respeito ao processamento do registo de sequestro no boletim).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação sintetizada recuperável em:
+- PN 150.20.300 - Avaliação de atividades (atuação da entidade), 
+- PN 300.30.008 - Registo de documentos e informação (casos tratados), 
+- PN 400.10.402 - Registo genealógico de animais.";;;
+
+;700.20.800;Prestação de cuidados curativos veterinários;"Cuidados de saúde animal praticados por veterinário.
+Inicia com a identificação da necessidade de intervenção e termina com a eliminação ou atenuação do problema.
+Inclui elaboração de diagnóstico, aplicação de fármacos, intervenção cirúrgica, registo de ato médico veterinário praticado e acompanhamento do animal.";"Prestação de cuidados curativos a todas as espécies animais#
+";;A implantação de micro-chips para identificação do animal deve ser considerada em 400.10.400 - Registo animal e material vegetal.;Portaria 1005/92#;PE;S;"AL#
+GNR#
+PSP#";EDA#;Iniciar#;"150.20.300#
+300.30.008#
+400.10.400#
+400.10.402#
+500.10.301#
+700.20.901#";"Avaliação de atividades#
+Registo de documentos e informação#
+Registo animal e material vegetal#
+Registo genealógico de animais#
+Realização de fiscalização#
+Occisão ou eutanásia de animais#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Sucessão (sucessor)#
+ ";Reduzida;S;5;;"#Critério legal:
+[Portaria 264/2013], Normas técnicas de execução regulamentar do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses, art.º 2º, nº 1 (validade do boletim de sanidade (boletim de saúde animal)).
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização (no que diz respeito ao processamento do registo da prestação de cuidados curativos no boletim).";Data de conclusão do procedimento;CP;"#Critério de densidade informacional:
+Enumeração e tipificação dos casos recuperável através das estatísticas.
+Esta síntese não permite recuperar o particular e individual, mas apenas o geral.
+A aplicação de um critério de amostragem aleatória sobre este PN permitirá conhecer em detalhe alguns casos e obter um subconjunto representativo das características da população-alvo.
+Toma ainda como base o facto da imprevisibilidade dos estudos nesta área e a impossibilidade atual de conservar toda a produção.
+A constituição de uma amostra significativa do universo de onde é retirada, mediante a aplicação de métodos estatísticos com uma margem de erro controlada, será suficiente para representar o universo.
+A grelha para seleção da amostragem encontra-se no final desta página.";;;
+
+Em harmonização;700.20.900;Prestação de cuidados de reabilitação animal;;;;;;PE;N;;;;;;;;;;;;;;;;;
+
+;700.20.901;Occisão ou eutanásia de animais;"Abreviamento da vida de um animal enfermo incurável em sofrimento, de maneira controlada e assistida, por um especialista.
+Inicia com a solicitação ou decisão de eutanásia e termina com a morte do animal.
+Inclui diagnóstico, recolha domiciliária de animais com doença terminal.";"Eutanásia a animais  alojados em canis e gatis#
+Eutanásia a animais externos enfermos, incuráveis e em sofrimento, que solicitem a intervenção de veterinário#";;;"Portaria 264/2013#
+Lei 27/2016#";PE;S;"AL#
+GNR#
+PSP#";EDA#;Iniciar#;"150.20.300#
+300.30.008#
+400.10.400#
+400.10.402#
+500.10.301#
+700.20.701#
+700.20.800#";"Avaliação de atividades#
+Registo de documentos e informação#
+Registo animal e material vegetal#
+Registo genealógico de animais#
+Realização de fiscalização#
+Sequestro sanitário de animais#
+Prestação de cuidados curativos veterinários#";"Síntese (sintetizado)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Suplemento para#
+Sucessão (antecessor)#
+Sucessão (antecessor)#";Reduzida;S;5;;"#Critério legal:
+[Portaria 264/2013], Normas técnicas de execução regulamentar do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses, art.º 2, nº 1 (validade do boletim de sanidade (boletim de saúde animal)).
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de  consulta para apuramento da responsabilidade em sede de PN 500.10.301 - Realização de fiscalização (no que diz respeito ao processamento do registo da eutanásia no boletim).";Data de conclusão do procedimento;E;"#Critério de densidade informacional:
+Informação sintetizada recuperável no PN 150.20.300 - Avaliação de atividades (atuação da entidade), no PN 300.30.008 - Registo de documentos e informação (casos tratados), no PN 400.10.400 - Registo animal e material vegetal   e no PN 400.10.402 -  Registo genealógico de animais. ";"A informação relativa ao registo animal é conservada no âmbito da Função 400; sendo o boletim sanitário do animal propriedade dos eu dono, a informação acumulada relativa ao animal é escassa.";;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;

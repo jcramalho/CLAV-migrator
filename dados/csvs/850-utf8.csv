@@ -1,0 +1,835 @@
+Estado;Código;Título;Descrição;Notas de aplicação;Exemplos NA;Notas de exclusão;Diplomas jurídico-administrativos REF;Tipo de processo;Processo transversal (S/N);Dono do processo;Participante no processo;Tipo de intervenção do participante;Código do processo relacionado;Título do processo relacionado;Tipo de relação entre processos;Dimensão qualitativa do processo;Uniformização do processo;Prazo de conservação administrativa;Nota ao PCA;Justificação PCA;Forma de contagem do PCA;Destino final;Justificação DF;Notas;;;
+
+;850;EXECUÇÃO DE PROGRAMAS E DE AÇÕES DE INCENTIVO;"Relativo à execução de programas regulares ou ações eventuais de incentivo estratégico a pessoas, organismos ou projetos, no quadro das políticas de promoção e fomento de atividades económicas, culturais e sociais.
+Inclui a atribuição de incentivos diretos e indiretos, bem como o acompanhamento ou controlo de projetos apoiados.
+Relativo, ainda, à captação de apoios de entidades privadas e serviços públicos.";"Usualmente os incentivos revestem a forma de apoios financeiros, mas tal não é imperativo#
+Aplicável às entidades que efetuam a gestão de fundos ou programas de incentivo, bem como às entidades beneficiárias e/ou destinatárias daqueles programas e, ainda, às entidades que participam apenas na apreciação das candidaturas a apoios#";;"A concessão de apoios de caráter social (prestações sociais, rendimento social de inserção, bolsa de estudo, etc.) dever ser considerada em ""Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos"" (650.10);
+A contratualização da concessão de indemnizações compensatórias a entidades que prestam serviços de interesse geral deve ser considerada em ""Administração de direitos, bens e serviços"" (300).";;;;;;;;;;;;;;;;;;;;;
+
+;850.10;Atribuição e controlo de financiamentos e de ajudas diretas;"Compreende as atividades relacionadas com a gestão e acesso aos programas que disponibilizam apoio financeiro ou outras ajudas diretas às entidades beneficiárias, destinatárias ou elegíveis em cada medida de apoio, bem como as atividades de acompanhamento e controlo de projetos apoiados.
+Compreende, igualmente, as ações que revestem a forma de apoios diretos eventuais não submetidos a concurso, bem como de atribuição de prémios com ou sem expressão financeira, sujeitos ou não a concurso, instituídos por entidades nacionais, regionais ou locais, públicas ou privadas.
+Compreende, ainda, as atividades de captação de mecenas e gestão de apoios mecenáticos, bem como o processamento de pedidos de patrocínio.";"As entidades que administram fundos comunitários ou gerem programas de apoio deverão utilizar esta classe para os processos de gestão de cada concurso, incluindo a constituição de júris e respetivos trabalhos, bem como para todos os procedimentos de relacionamento com as entidades beneficiárias/destinatárias, no que se inclui a receção de candidaturas, a celebração de acordos/contratos de apoio, o acompanhamento e a avaliação dos projetos apoiados#
+As entidades posicionadas para receber os apoios deverão utilizar esta classe para a gestão da respetiva candidatura, ou seja, para a documentação necessária ao relacionamento com as entidades que concedem financiamentos ou ajudas diretas (apresentação de candidatura, relatórios da execução material e financeira, avaliação, encerramento de contas), podendo imputar a restante documentação técnica/administrativa à função sobre a qual o projeto incide (melhoramento de infraestruturas, desenvolvimento de sistemas de informação, organização de eventos, investigação científica, etc.)#
+Quando haja lugar à apresentação de candidaturas a programas de incentivo geridos por entidades da União Europeia, as mesmas devem ser aqui consideradas#";;;;;;;;;;;;;;;;;;;;;;;
+
+;850.10.001;Atribuição de subsídios à exploração de serviços públicos;"Pagamento compensatório dos custos ou perdas resultantes da exploração e prestação de serviços de interesse público que não são economicamente rentáveis.
+Inicia com o pedido de pagamento do subsídio ou por iniciativa da entidade pagadora e termina com a decisão de deferimento ou indeferimento do respetivo pedido.
+Inclui demonstração dos valores das transferências efetuadas ou a efetuar.
+";Pedidos de pagamento de subsídios de exploração e indemnizações compensatórias#;;"O valor e a periodicidade dos pagamentos devem ser considerados em 150.20.202 – Preparação do orçamento#
+Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas#";"Lei 69/2015#
+Lei 50/2012#
+DL 167/2008#
+
+
+";PE;S;"DGTF#
+AL#
+";"Gov#
+
+
+
+
+";"Decidir#
+
+";"150.10.700#
+150.10.701#
+150.20.202#
+150.20.404#
+350.10.500#
+350.10.600#
+350.10.700#
+350.30.001#
+350.30.004#
+500.10.001#
+500.10.301#
+500.10.002#
+";"Reunião de órgãos deliberativos#
+Reunião de órgãos executivos#
+Preparação do orçamento#
+Prestação de contas#
+Apuramento da transferência de verbas entre entidades#
+Lançamento de receitas e de despesas#
+Libertação de créditos#
+Cobrança de receitas e pagamento de despesas#
+Movimentação de contas bancárias#
+Realização de auditorias#
+Realização de fiscalização#
+Fiscalização prévia do Tribunal de Contas#";"Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Cruzada#";Elevada;N;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.
+";;;;
+
+;850.10.002;Formalização de candidaturas e acompanhamento de apoios regulares;"Atribuição de estímulos no âmbito de programas e medidas e acompanhamento da execução dos projetos ou ações financiadas.
+Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio.
+Inclui instrução da candidatura, decisão, comunicação da atribuição do apoio, contratualização, acompanhamento e controlo da execução do projeto ou operação, apresentação de comprovativos de despesa, reajustamentos ao programa e elaboração de relatórios intercalares e relatório final, análise e avaliação dos relatórios, aprovação do encerramento do processo de apoio.
+Inclui ainda a eventual suspensão ou rescisão do contrato de apoio.
+
+
+";"Candidaturas recebidas por entidades que concedem  apoios#
+Candidaturas apresentadas por entidades que beneficiam de apoios#
+Eventual suspensão ou rescisão do contrato de apoio#
+Candidaturas a medidas agroambientais#
+Medidas de investimento#";;"A definição dos programas operacionais e outros programas de apoio deve ser considerada em 150.10.200 – Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+A monitorização e avaliação dos programas operacionais e outros programas de apoio devem ser consideradas em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização#
+A contratação de serviços ou aquisição de bens deve ser considerada em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas#
+Os empréstimos no âmbito de programas de apoio financeiro para regularização do pagamento de dívidas devem ser considerados em 350.40.401 – Contração e amortização de empréstimos#
+A atribuição de prestações sociais e auxílios económicos dever ser considerada em “Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos” (650.10)#
+A concretização do projeto deverá ser considerada na função respetiva#";"Despacho SEAL 5119-B/2015#
+DL 6/2015#
+DL 159/2014#
+DL 137/2014#
+Resolução do Conselho de Ministros 73-B/2014#
+Resolução do Conselho de Ministros 39/2013#
+Regulamento UE, EURATOM 1311/2013#
+Regulamento UE 1305/2013#
+Regulamento UE 1304/2013#
+Regulamento UE 1303/2013#
+Regulamento UE 1301/2013#
+Regulamento UE 1300/2013#
+Regulamento UE 1299/2013#";PC;S;"EGAP#
+IEFP#";"AP#
+Grupo IP#
+INFARMED#";"Iniciar#
+Iniciar#
+Iniciar#";"150.10.100#
+150.10.200#
+150.10.300#
+150.10.500#
+150.10.600#
+150.20.202#
+150.20.404#
+200.10.800#
+200.30.302#
+350.10.600#
+400.10.052#
+400.10.053#
+400.30.001#
+450.10.076#
+450.20.505#
+500.10.001#
+500.10.301#
+800.20.001#
+800.20.002#
+800.20.500#
+900.10.001#
+";"Definição de políticas setoriais#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito regional#
+Elaboração de instrumentos de cooperação interinstitucional#
+Avaliação de políticas e instrumentos de operacionalização#
+Preparação do orçamento#
+Prestação de contas#
+Celebração de acordos e outros atos internacionais#
+Execução de projetos de cooperação para o desenvolvimento#
+Lançamento de receitas e de despesas#
+Registo de empresas em autoridade setorial#
+Registo de organizações da sociedade civil em autoridade setorial#
+Celebração de contratos, escrituras, títulos equivalentes e testamentos#
+Licenciamento ou autorização de atividades de apoio ao emprego e inserção no mercado de trabalho#
+Classificação de bens sítios e áreas#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de estudos de investigação básica#
+Execução de projetos de investigação aplicada#
+Desenvolvimento experimental e aplicacional#
+Conceção e realização de atividades ou acontecimentos artísticos#";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Cruzada#
+Suplemento para#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+";Elevada;N;;;;;;;;;;
+
+;850.10.002.01;Formalização de candidaturas e acompanhamento de apoios regulares: candidatura, decisão e execução;"Fases de candidatura, decisão e avaliação final de apoios regulares.  
+Inicia com a submissão de candidatura e termina com a análise e avaliação do relatório final/relatório de atividades/produto final.
+Inclui instrução de candidatura, análise da elegibilidade da candidatura, avaliação da candidatura, comunicação da decisão final, contratualização com a entidade/sujeito proponente, elaboração de relatório final/relatório de atividades/produto final e avaliação final do apoio atribuído.
+";;;;;;;;;;;;;;;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede deO
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); do
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização); e do PN 450.10.076 - Licenciamento ou autorização de atividades de apoio ao emprego e inserção no mercado de trabalho.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Não recuperável noutro processo com nível de detalhe para documentar a atividade.
+Síntese do PN 850.10.002.02 - Formalização de candidaturas e acompanhamento de apoios regulares: controlo de informação financeira.";;;;
+
+;850.10.002.02;Formalização de candidaturas e acompanhamento de apoios regulares: controlo de informação financeira;"Fase de execução e acompanhamento financeiro de apoios regulares.
+Inclui solicitação de pagamento, com os respetivos documentos comprovativos,  análise e verificação, proposta para pagamento, bem como acompanhamento da execução financeira de apoios regulares.
+
+";;;;;;;;;;;;;;;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede deO
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); do
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização); e do PN 450.10.076 - Licenciamento ou autorização de atividades de apoio ao emprego e inserção no mercado de trabalho.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Sintetizado no PN 850.10.002.01- Formalização de candidaturas e acompanhamento de apoios regulares: candidatura, decisão e execução.";;;;
+
+;850.10.003;Formalização de candidaturas e acompanhamento de apoios pontuais;"Atribuição e acompanhamento de estímulos ou compensações a projetos ou situações não enquadráveis num plano de continuidade.
+Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio.
+Inclui preparação e apresentação do pedido formal de apoio ou da candidatura, decisão, eventual contratualização, comunicação da atribuição do apoio e eventual apresentação de comprovativos de despesa.";"Apoios em situações de catástrofes naturais#
+Apoios que saiam do âmbito dos programas de apoio estabelecidos#
+
+";;"A contratação de serviços ou aquisição de bens devem ser considerados em 300.10.005 – Transação e transmissão de bens móveis não culturais e contratação de serviços#
+Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas#
+Os empréstimos no âmbito de programas de apoio financeiro para regularização do pagamento de dívidas devem ser considerados em 350.40.401 – Contração e amortização de empréstimos#
+A atribuição de prestações sociais e auxílios económicos deve ser considerada em “Prestação de serviços de proteção e inclusão social/Atribuição de prestações sociais e auxílios económicos” (650.10)#
+A concretização do projeto deve ser considerada na função respetiva#";"DL 55/2013#
+Aviso 11367/2010#";PC;S;"EGAP#
+AL#";"AP#
+INFARMED#";"Iniciar#
+Iniciar#
+";"150.10.100#
+150.10.200#
+150.10.300#
+150.10.500#
+150.10.600#
+150.20.202#
+150.20.404#
+200.10.800#
+200.30.302#
+350.10.600#
+400.10.052#
+400.10.053#
+400.30.001#
+400.10.076#
+450.20.505#
+500.10.001#
+500.10.301#
+800.20.001#
+800.20.002#
+800.20.500#
+900.10.001#
+";"Definição de políticas setoriais#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito nacional#
+Elaboração de instrumentos de ordenamento territorial e da promoção do desenvolvimento de âmbito regional#
+Elaboração de instrumentos de cooperação interinstitucional#
+Avaliação de políticas e instrumentos de operacionalização#
+Preparação do orçamento#
+Prestação de contas#
+Celebração de acordos e outros atos internacionais#
+Execução de projetos de cooperação para o desenvolvimento#
+Lançamento de receitas e de despesas#
+Registo de empresas cinematográficas e audiovisuais#
+Registo de organizações da sociedade civil em autoridade setorial#
+Celebração de contratos, escrituras, títulos equivalentes e testamentos#
+Licenciamento ou atorização de atividades de apoio ao emprego e inserção no mercado de trabalho#
+Classificação de bens sítios e áreas#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de estudos de investigação básica#
+Execução de projetos de investigação aplicada#
+Desenvolvimento experimental e aplicacional#
+Conceção e realização de atividades ou acontecimentos artísticos#
+";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Cruzada#
+Suplemento para#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Sucessão (antecessor)#
+";Elevada;N;;;;;;;;;;
+
+;850.10.003.01;Formalização de candidaturas e acompanhamento de apoios pontuais: candidatura, decisão e execução;"Fases de candidatura, decisão e de execução e acompanhamento material de apoios pontuais.
+Inicia com a submissão de candidatura e termina com a análise e avaliação do relatório final/relatório de atividades/produto final.
+Inclui instrução de candidatura, análise da elegibilidade da candidatura, avaliação científica individual e final da candidatura, comunicação ao beneficiário da decisão final, contratualização com a entidade/sujeito proponente, acompanhamento e controlo da componente material do apoio, processos de atribuição de bolsas no âmbito do projeto (se aplicável), elaboração de relatório final/relatório de atividades/produto final e avaliação científica final do apoio atribuído.
+";;;;;;;;;;;;;;;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede deO
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); do
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização); e do PN 450.10.076 - Licenciamento ou autorização de atividades de apoio ao emprego e inserção no mercado de trabalho.";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Não recuperável noutro processo com nível de detalhe para documentar a atividade.
+Síntese do PN 850.10.003.02 - Formalização de candidaturas e acompanhamento de apoios pontuais: informação financeira.";;;;
+
+;850.10.003.02;Formalização de candidaturas e acompanhamento de apoios pontuais: controlo de informação financeira ;"Fase de execução e acompanhamento financeiro de apoios pontuais.
+Inclui solicitação de pagamento, com os respetivos documentos comprovativos,  análise e verificação, proposta para pagamento, bem como acompanhamento da execução financeira de apoios pontuais.
+
+";;;;;;;;;;;;;;;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede deO
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); do
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização); e do PN 450.10.076 - Licenciamento ou autorização de atividades de apoio ao emprego e inserção no mercado de trabalho.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Sintetizado no PN 850.10.003.01- Formalização de candidaturas e acompanhamento de apoios pontuais: execução.";;;;
+
+;"850.10.005
+
+";Formalização de candidaturas a ajudas diretas;"Atribuição de ajudas diretas como forma de garantir a estabilidade nos rendimentos, no âmbito de programas financiados.
+Inicia com a submissão da candidatura e termina com a elaboração do relatório final de execução da operação ou projeto apoiado, elaborado aquando do fim do programa de apoio.
+Inclui a instrução da candidatura, decisão, comunicação da atribuição do apoio, contratualização e controlo.";"Ajudas diretas ao setor primário#
+";;;Lei 98/97#;PE;S;IFAP#;"DRAP-N#
+DRAP-C#
+DRAP-LVT#
+DRAP-Aln#
+DRAP-Alg#";"Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#
+Assessorar#";"150.10.100#
+150.10.500#
+150.10.600#
+150.20.202#
+150.20.300#
+150.20.404#
+150.40.500#
+200.10.800#
+200.30.302#
+300.30.008#
+350.10.600#
+400.30.001#
+450.10.076#
+450.10.444#
+500.10.001#
+500.10.301#
+800.20.001#
+800.20.002#
+800.20.500#";"Definição de políticas setoriais#
+Elaboração de instrumentos de cooperação interinstitucional#
+Avaliação de políticas e instrumentos de operacionalização#
+Preparação do orçamento#
+Avaliação de atividades#
+Prestação de contas#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Celebração de acordos e outros atos internacionais#
+Execução de projetos de cooperação para o desenvolvimento#
+Registo de documentos e informação#
+Lançamento de receitas e de despesas#
+Celebração de contratos, escrituras, títulos equivalentes e testamentos#
+Licenciamento ou autorização de atividades de apoio ao emprego e inserção no mercado de trabalho#
+Reconhecimento de requisitos e competência técnica a entidades#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de estudos de investigação básica#
+Execução de projetos de investigação aplicada#
+Desenvolvimento experimental e aplicacional#";"Sucessão (antecessor)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Cruzada#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#";Elevada;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede deO
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração); do
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização); do PN 450.10.076 - Licenciamento ou autorização de atividades de apoio ao emprego e inserção no mercado de trabalho; e do PN 400.30.001 - Celebração de contratos, escrituras, títulos equivalentes e testamentos";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação síntese recuperável complementarmente em PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos); PN 300.30.008 - Registo de documentos e informação (identificação e caracterização).";;;;
+
+;850.10.500;Atribuição de prémios;"Reconhecimento do valor de ações, trabalhos, projetos e resultados.
+Inicia com a abertura do período de apresentação de candidaturas ou com a apresentação de propostas, ou com a identificação das ações, trabalhos, projetos de investigação e resultados passíveis de reconhecimento e termina com a decisão de atribuição do prémio.
+Inclui avaliação e seleção de trabalhos, ações, projetos e desempenhos passíveis de serem premiados.";;;"Os prémios de desempenho profissional devem ser considerados em 250.20.803 – Atribuição de prémios de desempenho, louvores ou medalhas#
+Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas#
+A cerimónia de atribuição do prémio deve ser considerada em 900.10.500 – Organização e participação em homenagens e cerimónias comemorativas#
+Os prémios atribuídos por atos de natureza cívica devem ser considerados em 950.30.001 – Reconhecimento por mérito e serviços prestados#";Lei 98/97#;PC;S;"AP#
+Grupo IP#
+INFARMED#";"AP#
+Grupo IP#";"Iniciar#
+Iniciar#";"150.10.100#
+150.10.500#
+150.10.600#
+150.20.202#
+150.20.404#
+350.10.600#
+350.30.001#
+500.10.001#
+500.10.301#
+800.20.001#
+800.20.002#
+800.20.500#
+900.10.500#";"Definição de políticas setoriais#
+Elaboração de instrumentos de cooperação interinstitucional#
+Avaliação de políticas e instrumentos de operacionalização#
+Preparação do orçamento#
+Prestação de contas#
+Lançamento de receitas e de despesas#
+Cobrança de receitas e pagamento de despesas#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de estudos de investigação básica#
+Execução de projetos de investigação aplicada#
+Desenvolvimento experimental e aplicacional#
+Organização e participação em homenagens e cerimónias comemorativas#";"Sucessão (sucessor)#
+Sucessão (antecessor)#
+Sucessão (sucessor)#
+Sucessão (antecessor)#
+Síntese (sintetizado)#
+Cruzada#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+Cruzada#
+";Reduzida;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.";;;;
+
+;"850.10.600
+";"Atribuição de patrocínios
+
+
+
+";"Disponibilização de qualquer tipo de recurso (financeiro ou material) para apoio ou suporte direto à realização de uma atividade ou entidade patrocinada, com o propósito de associar o nome da entidade patrocinadora, bem como outras  contrapartidas de caracter comercial.
+Inicia com o pedido e termina com a decisão quanto à atribuição de patrocínio.
+Inclui análise do pedido e negociação entre patrocinador e beneficiário, contrato de patrocínio, quando aplicável.
+";"Patrocínio a atividades artísticas#
+Patrocínio a atividades culturais#
+Patrocínio a atividades desportivas#
+Patrocínio a atividades sociais#
+Patrocínio institucional#
+Patrocínio promocional#
+";;"A disponibilização efetiva dos bens materiais deve ser considerada em 300.50.203 – Aluguer ou cedência de utilização de bens móveis não culturais#
+O pagamento do valor patrocinado deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas#";Lei 98/97#;PC;S;"AP#
+Grupo IP#
+INFARMED#";AP#;"Assessorar#
+";"150.10.500#
+150.20.202#
+150.20.300#
+150.20.404#
+150.40.500#
+300.30.008#
+350.10.600#
+350.30.001#
+500.10.001#
+500.10.301#
+800.20.001#
+800.20.002#
+800.20.500#
+900.10.500#";"Elaboração de instrumentos de cooperação interinstitucional#
+Preparação do orçamento#
+Avaliação de atividades#
+Prestação de contas#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo de documentos e informação#
+Lançamento de receitas e de despesas#
+Cobrança de receitas e pagamento de despesas#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de estudos de investigação básica#
+Execução de projetos de investigação aplicada#
+Desenvolvimento experimental e aplicacional#
+Organização e participação em homenagens e cerimónias comemorativas#";"Sucessão (sucessor)#
+Sucessão (sucessor)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Sucessão (antecessor)#
+Cruzada#
+Cruzada#
+Cruzada#";Reduzida;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação síntese recuperável complementarmente em 
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);
+PN 300.30.008 - Registo de documentos e informação (identificação e caracterização).";;;;
+
+;850.10.601;"Captação e aplicação de apoios mecenáticos
+";"Desenvolvimento de atividades de recolha e gestão de donativos em dinheiro ou em espécie, concedidos sem haver lugar a contrapartidas que configurem obrigações de caracter pecuniário ou comercial, às entidades públicas ou privadas, para a realização de iniciativas de diversa natureza. 
+Inicia com pedido e termina com a concessão do apoio.
+Inclui análise do pedido, negociação entre o mecenas e o beneficiário.
+
+";"Apoio mecenático na área ambiental#
+Apoio mecenático na área científica ou tecnológica#
+Apoio mecenático na área cultural#
+Apoio mecenático na área desportiva#
+Apoio mecenático na área educacional#
+Apoio mecenático na área social#";;"O registo do bem doado deve ser considerado em “Administração de direitos, bens e serviços/Identificação e caracterização de bens” (300.30)#
+O fluxo financeiro relativo ao apoio de mecenato deve ser considerado em 350.30.001 – Cobrança de receitas e pagamento de despesas#";"Circular AT 12/2002#
+Circular AT 2/2004#
+DL 215/89#
+DL 108/2008#
+DL 250/2009#
+Lei 83/2013#
+Lei 72/2014#
+Lei 82-B/2014#
+DL 7/2015#";PC;N;AP#;;;"150.20.300#
+150.20.404#
+150.40.500#
+300.30.002#
+300.30.003#
+300.30.008#
+350.30.001#
+500.10.001#
+500.10.301#
+800.20.001#
+800.20.002#
+800.20.500#
+";"Avaliação de atividades#
+Prestação de contas#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Inventariação de bens móveis culturais#
+Inventariação de bens móveis duradouros#
+Registo de documentos e informação#
+Cobrança de receitas e pagamento de despesas#
+Realização de auditorias#
+Realização de fiscalização#
+Realização de estudos de investigação básica#
+Execução de projetos de investigação aplicada#
+Desenvolvimento experimental e aplicacional#
+";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Cruzada#
+Cruzada#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#
+Cruzada#
+Cruzada#
+Cruzada#
+";Reduzida;N;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação síntese recuperável complementarmente em 
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos); 
+PN 300.30.008 - Registo de documentos e informação (identificação e caracterização).";;;;
+
+;850.30;Atribuição e controlo de bonificações e benefícios;Compreende as atividades de atribuição e controlo das bonificações e benefícios ao investimento concedidas pelo Estado.;"Bonificação de juros no crédito à habitação#
+Bonificação ao gasóleo utilizado na atividade agrícola#
+Benefícios fiscais ao investimento#";;;;;;;;;;;;;;;;;;;;;;;
+
+;"850.30.001
+";Atribuição de bonificações;"Concessão de bonificações a entidades nacionais e estrangeiras, através de linhas de crédito bonificadas e criadas por diploma próprio, nos setores do arrendamento urbano, eventos nacionais, intempéries, calamidades, crédito de ajuda, entre outros.
+Inicia com um pedido e termina com a decisão de atribuição da bonificação.
+Inclui a análise dos elementos e a elaboração de pareceres.
+";"Crédito à habitação bonificado#
+Linhas de crédito destinadas à agricultura#
+Linhas de crédito destinadas à pecuária#
+Linhas de crédito destinadas às pescas#";;"A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional#
+Os pagamentos aos beneficiários devem ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas#
+
+";"Lei 35/2007#
+Lei 48/2006#
+Lei 98/97#";PE;N;"DGTF#
+IFAP#
+";DRAP#;;"150.20.300#
+150.20.404#
+150.40.500#
+300.30.008#
+500.10.001#
+500.10.301#";"Avaliação de atividades#
+Prestação de contas#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo de documentos e informação#
+Realização de auditorias#
+Realização de fiscalização#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Suplemento para#";Reduzida;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação síntese recuperável complementarmente em
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);
+PN 300.30.008 - Registo de documentos e informação (identificação e caracterização).";;;;
+
+;"850.30.002
+
+";Processamento de benefícios e incentivos contratuais ao investimento;"Aplicação do regime de benefícios ao investimento produtivo a entidades contratualizadas.
+Inicia com a negociação contratual entre as partes e termina com a aplicação do contrato.
+Inclui todos os procedimentos para a análise e cálculo dos benefícios e incentivos.
+";"Todos os tipos de benefícios ou incentivos fiscais ou aduaneiros, objeto de contratualização com o Estado Português para projetos de investimento#
+Medidas fiscais que obedeçam às caraterísticas enunciadas no nº 1 do artº 2º do Estatuto dos Benefícios Fiscais#";"Isenções#
+Reduções de taxas#
+Crédito de imposto#
+Eliminação de dupla tributação#";O processamento de benefícios e incentivos fiscais e aduaneiros não contratuais deve ser considerado em 350.10.504 – Processamento de benefícios e incentivos fiscais e aduaneiros não contratuais#;"DL 162/2014#
+DL 215/89#
+";PE;N;AT#;;;"150.20.300#
+150.20.404#
+150.40.500#
+300.30.008#
+350.10.100#
+350.10.101#
+350.10.200#
+350.10.201#
+350.10.202#
+350.10.203#
+350.10.204#
+350.10.205#
+350.10.206#
+350.10.300#
+350.10.301#
+500.10.001#";"Avaliação de atividades#
+Prestação de contas#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo de documentos e informação#
+Liquidação de Imposto Sobre o Rendimento de Pessoas Singulares (IRS)#
+Liquidação de Imposto Sobre o Rendimento de Pessoas Coletivas (IRC)#
+Liquidação de Imposto Municipal Sobre Imóveis (IMI)#
+Liquidação de Imposto Municipal Sobre Transmissões Onerosas de Imóveis (IMT)#
+Liquidação de Contribuição Especial#
+Liquidação de Imposto Único de Circulação (IUC)#
+Liquidação de Imposto Sobre Veículos (ISV)#
+Liquidação de Imposto de Selo (IS)#
+Liquidação de Imposto de Selo Sobre Transmissões Gratuitas de Bens#
+Liquidação de Imposto Sobre o Valor Acrescentado (IVA)#
+Liquidação dos Impostos Especiais Sobre o Consumo#
+Realização de auditorias#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Sucessão (sucessor)#
+Suplemento para#";Média;S;10;;"#Critério legal:
+[DL 433/99], CPPT, art.º 27º, nº 2 – Prazo estabelecido para a manutenção dos arquivos.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação síntese recuperável complementarmente em 
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);
+PN 300.30.008 - Registo de documentos e informação (identificação e caracterização).";;;;
+
+;850.30.003;"Gestão de suspensões e de contingentes pautais
+";"Aplicação de mecanismo comunitário que permite a importação de matérias-primas ou produtos semi-acabados com a aplicação de um direito aduaneiro reduzido ou nulo, durante um determinado período e relativo a uma quantidade ilimitada (suspensão pautal) ou a uma quantidade limitada (contingente pautal), permitindo às empresas abastecerem-se a preços mais baixos, estimulando a atividade económica na União Europeia, e possibilitando a existência de empresas mais competitivas e o fomento à criação de emprego.
+Inicia com pedido de candidatura a suspensões e contingentes pautais na importação de mercadorias, formulado por operador económico e termina com a comunicação do resultado da proposta ou do pedido de candidatura, ou ainda com a emissão de certificado, quando aplicável.
+Inclui a análise dos pedidos de suspensões e de contingentes pautais, produção de prova, prestação de garantia, quando aplicável, comunicação às Alfândegas sobre o estado dos contingentes pautais, comunicação com os Estados Membros.
+
+
+";;;;Regulamento CE 1301/2006#;PE;N;AT#;;;"150.20.300#
+150.20.404#
+150.40.500#
+300.30.008#
+350.10.400#
+450.10.062#";"Avaliação de atividades#
+Prestação de contas#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo de documentos e informação#
+Liquidação dos direitos e demais imposições aduaneiras#
+Licenciamento ou autorização de atividades de comércio e armazenagem#
+";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Sucessão (antecessor)#
+Sucessão (antecessor)#";Média;S;10;;"#Critério legal:
+[DL 433/99], CPPT, art.º 27º, nº 2 – Prazo estabelecido para a manutenção dos arquivos.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação síntese recuperável complementarmente em 
+PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);
+PN 300.30.008 - Registo de documentos e informação (identificação e caracterização).";;;;
+
+;850.30.004;Processamento de isenção de direitos em regime específico de abastecimento nas regiões ultraperiféricas;"Aplicação de isenção de direitos de importação a produtos agrícolas essenciais importados de países terceiros para regiões ultraperiféricas da União Europeia.     
+Inicia com a solicitação do operador e termina com a decisão.                                                                       Inclui a validação face a alterações/transferências efetuadas às estimativas durante a campanha.";;;"O acompanhamento e avaliação do Programa, nomeadamente o reporte trimestral e o relatório geral do impacto das ações, devem ser considerados em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização#
+A concessão de ajudas ao abastecimento das regiões ultraperiféricas deve ser considerada em 850.10.002 - Formalização de candidaturas e acompanhamento de apoios regulares#
+
+";"Regulamento Delegado UE 179/2014#
+Regulamento de Execução UE 180/2014#
+Regulamento UE 228/2013#
+Portaria 1010/2002#
+Decisão CEE 315/91#";PE;N;AT#;;;"150.20.300#
+150.20.404#
+150.40.500#
+300.30.008#";"Avaliação de atividades#
+Prestação de contas#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Registo de documentos e informação#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#";Média;S;10;;"#Critério legal:
+[DL 433/99], CPPT, art.º 27º, nº 2 – Prazo estabelecido para a manutenção dos arquivos.";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação síntese recuperável complementarmente em PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos);
+PN 300.30.008 - Registo de documentos e informação (identificação e caracterização).";;;;
+
+;850.30.500;Controlo de bonificações;"Registo e controlo dos pagamentos das bonificações de juros e incentivos.
+Inicia com a receção de comprovativos de despesa e termina com a decisão sobre a conformidade da despesa.
+Inclui a análise dos mapas de valores a pagar por classificação económica, das reclamações conferidas e não conferidas, dos mapas de execução orçamental anual e da lista de valores pagos por atividade.
+
+
+";;;"A fiscalização dos incentivos deve ser considerada em 500.10.300 – Realização de fiscalização#
+A avaliação dos programas deve ser considerada em 150.10.600 – Avaliação de políticas e instrumentos de operacionalização#
+";Lei 98/97#;PE;N;DGTF#;;;"150.20.300#
+150.20.404#
+150.40.500#
+500.10.001#
+500.10.301#";"Avaliação de atividades#
+Prestação de contas#
+Recolha e tratamento de dados estatísticos de apoio à gestão#
+Realização de auditorias#
+Realização de fiscalização#";"Síntese (sintetizado)#
+Síntese (sintetizado)#
+Síntese (sintetizado)#
+Suplemento para#
+Suplemento para#";Reduzida;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento.;E;"#Critério de densidade informacional:
+Informação síntese recuperável complementarmente em PN 150.20.300 - Avaliação de atividades (atuação da entidade);
+PN 150.20.404 - Prestação de contas (síntese da informação orçamental e patrimonial);
+PN 150.40.500 - Recolha e tratamento de dados estatísticos de apoio à gestão (quantificação/tipificação dos casos).";;;;
+
+;850.40;Atribuição e controlo de garantias financeiras prestadas pelo Estado;Compreende os processos da iniciativa do Estado na concessão de garantias com caráter de exceção e de acordo com o plafond estabelecido na Lei do Orçamento de Estado, em operações financeiras celebradas por entidades nacionais e com países terceiros.;"Garantias que assegurem a realização de operações de crédito ou de outras operações financeiras, nacionais ou internacionais, de que sejam beneficiárias entidades públicas, empresas nacionais ou outras empresas que legalmente gozem de igualdade de tratamento#
+Garantias que assegurem a viabilidade financeira de empresas em situação financeira difícil#
+Garantias que assegurem o cumprimento das obrigações assumidas em contratos de financiamento, incluindo a renovação das respetivas operações por parte das instituições de crédito sedeadas em Portugal#";;;;;;;;;;;;;;;;;;;;;;;
+
+;850.40.001;Concessão, gestão e execução de garantias pessoais;"Concessão, gestão e execução de garantias pessoais a entidades externas e internas, sob a forma de fiança ou aval, no âmbito de empreendimentos ou projetos de interesse para a economia nacional.
+Inicia com o pedido dos beneficiários da garantia do Estado ou de um membro do Governo para análise da entidade responsável pelas garantias e subsequente pedido de parecer ao à entidade responsável pela dívida pública e à tutela setorial e termina com a execução da garantia.
+Inclui pedidos de autorização/manutenção de garantia, minutas dos contratos de empréstimo ou da operação financeira, planos de utilização do financiamento e esquemas de reembolso, propostas de concessão de garantia, pareceres com despachos ministeriais, despacho do membro do Governo competente a autorizar a emissão da garantia, contratos com garantia do Estado e respetivos aditamentos, assim como mapas dos planos de amortização de capital, definição de juros e comissões de garantia, programas, declarações de garantia, entre outros.";;;"A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional#
+Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas#
+
+";"Portaria 1219_A/2008#
+Lei 60_A/2008#
+
+";PE;S;DGTF#;"IGCP#
+BdP#
+MF#";"Apreciar#
+Assessorar#
+Decidir#";"150.10.500#
+350.30.001#
+500.10.001#
+500.10.301#";"Elaboração de instrumentos de cooperação interinstitucional#
+Cobrança de receitas e pagamento de despesas#
+Realização de auditorias#
+Realização de fiscalização#";"Sucessão (sucessor)#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#";Reduzida;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.
+";;;;
+
+;850.40.500;Concessão e gestão de garantias a operações de seguro de risco;"Concessão e gestão de garantias a operações de seguro do risco de crédito, de produção e de investimento com a garantia do Estado, nomeadamente no contexto da exportação de bens ou serviços de origem portuguesa ou de investimento português no estrangeiro.
+Inicia com o pedido da seguradora ao Estado para emissão da garantia, sob a forma de seguro, e termina com a eventual autorização do membro do Governo a efetivar a emissão da garantia.
+Inclui garantias de operações individuais de crédito ou de investimento, de apólices globais, de seguro-caução, de linhas de crédito a estabelecer com países da cooperação portuguesa, pedidos de posição de princípio sobre cobertura da exportação de bens e serviços de origem portuguesa, despachos de autorização de garantia, incluindo os da tutela, prorrogações de prazos de utilização das operações seguras, cobranças de prémios, pedidos de indemnização e respetivos pagamentos.
+
+
+
+
+";"Garantias sobre o seguro de colheita e de fabrico#
+Garantias de operações individuais de crédito ou de investimento#
+Garantias de operações de apólices globais#
+Garantias de operações individuais#
+Garantias de seguro-caução#
+Garantias de linhas de crédito a estabelecer com países da cooperação portuguesa#
+Pedidos de posição de princípio sobre cobertura da exportação de bens e serviços de origem portuguesa#
+Garantias às exportações#
+Garantias ao financiamento#
+Reportes semestrais sobre garantias a operações de seguro do risco#";;"A celebração de protocolos deve ser considerada em 150.10.500 – Elaboração de instrumentos de cooperação interinstitucional#
+Os pagamentos aos beneficiários deverão ser considerados em 350.30.001 – Cobrança de receitas e pagamento de despesas#
+
+";"Lei 98/97#
+Lei 48/2006#
+Lei 35/2007#
+Resolução do Conselho de Ministros 34/2008#
+Resolução do Conselho de Ministros 191-A/2008#
+Resolução do Conselho de Ministros 29/2009#
+DL 103/2009#";PE;N;DGTF#;;;"150.10.500#
+350.30.001#
+500.10.001#
+500.10.301#";"Elaboração de instrumentos de cooperação interinstitucional#
+Cobrança de receitas e pagamento de despesas#
+Realização de auditorias#
+Realização de fiscalização#";"Sucessão (sucessor)#
+Sucessão (antecessor)#
+Suplemento para#
+Suplemento para#";Reduzida;S;10;;"#Critério legal:
+[Lei 98/97], art.º 70º, nº 1 - Prazo prescricional da responsabilidade financeira reintegratória.
+#Critério de utilidade administrativa:
+Prazo decorrente da necessidade de consulta para apuramento da responsabilidade em sede de
+PN 500.10.001 - Realização de auditorias (no que diz respeito à atuação da Administração);
+PN 500.10.301 - Realização de fiscalização (no que diz respeito à sua fiscalização).";Data de conclusão do procedimento.;C;"#Critério de densidade informacional:
+Informação não recuperável noutro PN.
+";;;;

@@ -1,0 +1,550 @@
+Estado;Estado;ID SIOE;Sigla;Designação;Tipologia de Entidade;Internacional;;;;;;;;;;;;;
+
+Ativo;;149110000;ACSS;Administração Central do Sistema de Saúde, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;146000000;ARS-LVT;Administração Regional de Saúde de Lisboa e Vale do Tejo;AP#;;;;;;;;;;;;;;
+
+Ativo;;147000000;ARS-Aln;Administração Regional de Saúde do Alentejo;AP#;;;;;;;;;;;;;;
+
+Ativo;;148000000;ARS-Alg;Administração Regional de Saúde do Algarve;AP#;;;;;;;;;;;;;;
+
+Ativo;;145000000;ARS-C;Administração Regional de Saúde do Centro;AP#;;;;;;;;;;;;;;
+
+Ativo;;144000000;ARS-N;Administração Regional de Saúde do Norte;AP#;;;;;;;;;;;;;;
+
+Ativo;;;A3ES;Agência de Avaliação e Acreditação do Ensino Superior;Fnd#;;;;;;;;;;;;;;
+
+Ativo;;53300000;IGCP;Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, EPE;SPE#;;;;;;;;;;;;;;
+
+Ativo;;;ECHA;Agência Europeia dos Produtos Químicos;;Sim;;;;;;;;;;;;;
+
+Ativo;;;AISAN;Agência ISAN Portugal;;;;;;;;;;;;;;;
+
+Inativo;Inativo;;ANCP;Agência Nacional de Compras Públicas ;AP#;;;;;;;;;;;;;;
+
+Ativo;;90540000;ANQEP;Agência Nacional para a Qualificação e o Ensino Profissional, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;70080000;IAPMEI;Agência para a Competitividade e Inovação, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;70090000;AICEP;Agência para o Investimento e Comércio Externo de Portugal ;AP#;;;;;;;;;;;;;;
+
+Ativo;;83420000;APA;Agência Portuguesa do Ambiente, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;875792925;AMT;Autoridade da Mobilidade e dos Transportes;"ER#
+ASF#";;;;;;;;;;;;;;
+
+Ativo;;;ANA;ANA - Aeroportos de Portugal;;;;;;;;;;;;;;;
+
+Ativo;;875780306;AR;Assembleia da República;;;;;;;;;;;;;;;
+
+Ativo;;770000054;ALRAM;Assembleia Legislativa da Região Autónoma da Madeira;;;;;;;;;;;;;;;
+
+Ativo;;875780307;ALRAA;Assembleia Legislativa da Região Autónoma dos Açores;;;;;;;;;;;;;;;
+
+Ativo;;;DNS.PT;Associação DNS.PT;;;;;;;;;;;;;;;
+
+Ativo;;770000136;ANMP;Associação Nacional de Municípios Portugueses;;;;;;;;;;;;;;;
+
+Ativo;;;ANTRAL;Associação Nacional dos Transportes Rodoviários em Automóveis Ligeiros;;;;;;;;;;;;;;;
+
+Ativo;;;APAV;Associação Portuguesa de Apoio à Vítima;;;;;;;;;;;;;;;
+
+Ativo;;;APEL;Associação Portuguesa de Editores e Livreiros;;;;;;;;;;;;;;;
+
+Ativo;;875780390;AAN;Autoridade Aeronáutica Nacional;FA#ASF#;;;;;;;;;;;;;;
+
+Ativo;;74500000;ASAE;Autoridade de Segurança Alimentar e Económica;AP#ASF#;;;;;;;;;;;;;;
+
+Ativo;;875780389;AMN;Autoridade Marítima Nacional;ASF#;;;;;;;;;;;;;;
+
+Ativo;;111300000;ANAC;Autoridade Nacional da Aviação Civil;"ER#
+ASF#";;;;;;;;;;;;;;
+
+Ativo;;70070000;ANACOM;Autoridade Nacional de Comunicações;"ER#
+ASF#";;;;;;;;;;;;;;
+
+Ativo;;21300000;ANPC;Autoridade Nacional de Proteção Civil;AP#ASF#;;;;;;;;;;;;;;
+
+Ativo;;;ANS;Autoridade Nacional de Segurança ;AP#ASF#;;;;;;;;;;;;;;
+
+Ativo;;20100000;ANSR;Autoridade Nacional de Segurança Rodoviária;AP#ASF#;;;;;;;;;;;;;;
+
+Ativo;;92380000;ACT;Autoridade para as Condições de Trabalho;AP#ASF#;;;;;;;;;;;;;;
+
+Ativo;;875780312;AT;Autoridade Tributária e Aduaneira;AP#ASF#;;;;;;;;;;;;;;
+
+Ativo;;875790906;BNA;Balcão Nacional de Arrendamento;;;;;;;;;;;;;;;
+
+Ativo;;875780001;BNI;Balcão Nacional de Injunções;;;;;;;;;;;;;;;
+
+Ativo;;50200000;BdP;Banco de Portugal;"ER#
+ASF#";;;;;;;;;;;;;;
+
+Ativo;;60160000;BNP;Biblioteca Nacional de Portugal;AP#;;;;;;;;;;;;;;
+
+Ativo;;51800000;CGA;Caixa Geral de Aposentações, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;;CS;Câmara dos Solicitadores;APb#;;;;;;;;;;;;;;
+
+Ativo;;875780322;Camões;Camões - Instituto da Cooperação e da Língua, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;90120000;CPL;Casa Pia de Lisboa, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;875793281;JurisAPP;Centro de Competências Jurídicas do Estado;AP#ACE#;;;;;;;;;;;;;;
+
+Ativo;;152800000;CEJ;Centro de Estudos Judiciários;AP#;;;;;;;;;;;;;;
+
+Ativo;;13130000;CEGER;Centro de Gestão da Rede Informática do Governo;AP#;;;;;;;;;;;;;;
+
+Ativo;;875793274;CNCS;Centro Nacional de Cibersegurança;AP#;;;;;;;;;;;;;;
+
+Ativo;;90312000;CNPRP;Centro Nacional de Proteção contra os Riscos Profissionais;AP#;;;;;;;;;;;;;;
+
+Ativo;;60330000;CP-MC;Cinemateca Portuguesa-Museu do Cinema, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;875790611;CMil ;Colégio Militar;;;;;;;;;;;;;;;
+
+Ativo;;875790327;CP;Comboios de Portugal;SPE#;;;;;;;;;;;;;;
+
+Ativo;;875780258;CADA;Comissão de Acesso aos Documentos Administrativos;"EAI#
+ASF#";;;;;;;;;;;;;;
+
+Ativo;;83140000;CCDR-LVT;Comissão de Coordenação do Desenvolvimento Regional de Lisboa e Vale do Tejo;AP#;;;;;;;;;;;;;;
+
+Ativo;;83360000;CCDR-Aln;Comissão de Coordenação do Desenvolvimento Regional do Alentejo;AP#;;;;;;;;;;;;;;
+
+Ativo;;83370000;CCDR-Alg;Comissão de Coordenação do Desenvolvimento Regional do Algarve;AP#;;;;;;;;;;;;;;
+
+Ativo;;83410000;CCDR-C;Comissão de Coordenação do Desenvolvimento Regional do Centro;AP#;;;;;;;;;;;;;;
+
+Ativo;;83400000;CCDR-N;Comissão de Coordenação do Desenvolvimento Regional do Norte;AP#;;;;;;;;;;;;;;
+
+Ativo;;875792011;CEIC;Comissão de Ética para a Investigação Clínica;;;;;;;;;;;;;;;
+
+Ativo;;300200000;CPES;Comissão de Programas Especiais de Segurança;;;;;;;;;;;;;;;
+
+Ativo;;153000000;CPVC;Comissão de Proteção às Vítimas de Crimes;;;;;;;;;;;;;;;
+
+Ativo;;875780391;CRESAP;Comissão de Recrutamento e Seleção para a Administração Pública;;;;;;;;;;;;;;;
+
+Ativo;;;CNOC;Comissão Nacional de Objeção de Consciência;;;;;;;;;;;;;;;
+
+Ativo;;;CNPC;Comissão Nacional de Proteção Civil;;;;;;;;;;;;;;;
+
+Ativo;;875793019;CNPDPCJ;Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens;AP#;;;;;;;;;;;;;;
+
+Ativo;;800002002;CNPD;Comissão Nacional de Proteção de Dados;EAI#;;;;;;;;;;;;;;
+
+Inativo;Inativo;;CEE;Comunidade Económica Europeia;;Sim;;;;;;;;;;;;;
+
+Inativo;Inativo;;CE;Comunidade Europeia;;Sim;;;;;;;;;;;;;
+
+Ativo;;;CCPFC;Conselho Científico-Pedagógico da Formação Contínua;;;;;;;;;;;;;;;
+
+Ativo;;;CM;Conselho de Ministros;Gov#;;;;;;;;;;;;;;
+
+Ativo;;800003367;CES;Conselho Económico e Social;;;;;;;;;;;;;;;
+
+Ativo;;89280000;CNE;Conselho Nacional de Educação;;;;;;;;;;;;;;;
+
+Ativo;;875780304;CNECV;Conselho Nacional de Ética para as Ciências da Vida;EAI#;;;;;;;;;;;;;;
+
+Ativo;;875793282;CNPMA;Conselho Nacional de Procriação Medicamente Assistida;EAI#;;;;;;;;;;;;;;
+
+Ativo;;875780378;CNPSSS;Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social;;;;;;;;;;;;;;;
+
+Ativo;;800004000;CSM;Conselho Superior de Magistratura;OSJ#;;;;;;;;;;;;;;
+
+Ativo;;770000439;CSTAF;Conselho Superior dos Tribunais Administrativos e Fiscais;OSJ#;;;;;;;;;;;;;;
+
+Ativo;;;DRS-LVT;Delegado Regional de Saúde de Lisboa e Vale do Tejo;AP#;;;;;;;;;;;;;;
+
+Ativo;;;DRS-Aln;Delegado Regional de Saúde do Alentejo;AP#;;;;;;;;;;;;;;
+
+Ativo;;;DRS-Alg;Delegado Regional de Saúde do Algarve;AP#;;;;;;;;;;;;;;
+
+Ativo;;;DRS-C;Delegado Regional de Saúde do Centro;AP#;;;;;;;;;;;;;;
+
+Ativo;;;DRS-N;Delegado Regional de Saúde do Norte;AP#;;;;;;;;;;;;;;
+
+Ativo;;32260000;DRAP-LVT;Direção Regional de Agricultura e Pescas de Lisboa e Vale do Tejo;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;32240000;DRAP-Aln;Direção Regional de Agricultura e Pescas do Alentejo;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;32250000;DRAP-Alg;Direção Regional de Agricultura e Pescas do Algarve;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;32400000;DRAP-C;Direção Regional de Agricultura e Pescas do Centro;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;32270000;DRAP-N;Direção Regional de Agricultura e Pescas do Norte;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;151500000;DGAJ;Direção-Geral da Administração da Justiça;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;54300000;DGAEP;Direção-Geral da Administração e do Emprego Público;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875791082;DGAM;Direção-Geral da Autoridade Marítima;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875780318;DGE;Direção-Geral da Educação;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;300220000;DGPJ;Direção-Geral da Política de Justiça;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875780331;INA;Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas;AP#;;;;;;;;;;;;;;
+
+Ativo;;141300000;DGS;Direção-Geral de Saúde;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;90220000;DGSS;Direção-Geral da Segurança Social;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;71210000;DGAE;Direção-Geral das Atividades Económicas;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;83080000;DGAL;Direção-Geral das Autarquias Locais;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;32160000;DGADR;Direção-Geral de Agricultura e Desenvolvimento Rural;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875780353;DGAV;Direção-Geral de Alimentação e Veterinária;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;71200000;DGEG;Direção-Geral de Energia e Geologia;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875780319;DGEEC;Direção-Geral de Estatísticas da Educação e Ciência;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;85040000;DGPDN;Direção-Geral de Política de Defesa Nacional;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;86040000;DGPE;Direção-Geral de Política Externa;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875793041;ADSE;Instituto de Proteção e Assistência na Doença, I.P.;;;;;;;;;;;;;;;
+
+Ativo;;875792095;DGRDN;Direção-Geral de Recursos da Defesa Nacional;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875780332;DGRM;Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875780381;DGRSP;Direção-Geral de Reinserção e Serviços Prisionais;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;12010000;DGC;Direção-Geral do Consumidor;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;90230000;DGERT;Direção-Geral do Emprego e das Relações de Trabalho;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;101990000;DGES;Direção-Geral do Ensino Superior;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875780384;DGLAB;Direção-Geral do Livro, dos Arquivos e das Bibliotecas;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;51100000;DGO;Direção-Geral do Orçamento;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875780385;DGPC;Direção-Geral do Património Cultural;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875780352;DGT;Direção-Geral do Território;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;53410000;DGTF;Direção-Geral do Tesouro e Finanças;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;86060000;DGACCP;Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;86050000;DGAEu;Direção-Geral dos Assuntos Europeus;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;875790445;DGEstE;Direção-Geral dos Estabelecimentos Escolares;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;;DGMARE;Directorate General for Maritime Affairs and Fisheries;;Sim;;;;;;;;;;;;;
+
+Ativo;;875780490;ECFP;Entidade das Contas e Financiamentos Políticos;"OSJ#
+ASF#";;;;;;;;;;;;;;
+
+Ativo;;875780379;ESPAP;Entidade de Serviços Partilhados da Administração Pública;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;;ENMC;Entidade Nacional para o Mercado de Combustíveis, EPE;SPE#;;;;;;;;;;;;;;
+
+Ativo;;142900000;ERS;Entidade Reguladora da Saúde;"AP#
+ER#";;;;;;;;;;;;;;
+
+Ativo;;83270000;ERSAR;Entidade Reguladora dos Serviços de Águas e Resíduos;"AP#
+ER#";;;;;;;;;;;;;;
+
+Ativo;;800002003;ERC;Entidade Reguladora para a Comunicação Social;"AP#
+ER#";;;;;;;;;;;;;;
+
+Ativo;;875790342;PSML, SA;Parques Sintra - Monte da Lua, SA;;;;;;;;;;;;;;;
+
+;;;EPAE;Escola Portuguesa de Arte Equestre;AP#;;;;;;;;;;;;;;
+
+Ativo;;85080000;EMGFA;Estado-Maior General das Forças Armadas;AP#;;;;;;;;;;;;;;
+
+Ativo;;102091200;FFUL;Faculdade de Farmácia da Universidade de Lisboa;"AP#
+IES#";;;;;;;;;;;;;;
+
+Ativo;;85100000;FAP;Força Aérea Portuguesa;FA#;;;;;;;;;;;;;;
+
+;;;EURATOM;Comunidade Europeia da Energia Atómica;;Sim;;;;;;;;;;;;;
+
+Ativo;;74400000;GEE;Gabinete de Estratégia e Estudos;AP#;;;;;;;;;;;;;;
+
+Ativo;;875790002;GAMA;Gabinete  de Investigação de Acidentes Marítimos e da Autoridade para a  Meteorologia Aeronáutica;"AP#
+ACE#
+ASF#";;;;;;;;;;;;;;
+
+Ativo;;;FPT;Federação Portuguesa de Táxis;;;;;;;;;;;;;;;
+
+Ativo;;60240000;GEPAC;Gabinete de Estratégia, Planeamento e Avaliação Culturais;AP#;;;;;;;;;;;;;;
+
+Ativo;;875793151;GPIAAF;Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e Acidentes Ferroviários;AP#;;;;;;;;;;;;;;
+
+Ativo;;800007772;GNS;Gabinete Nacional de Segurança;"AP#
+ACE#";;;;;;;;;;;;;;
+
+;;;GovReg-M;Governo Regional da Madeira;;;;;;;;;;;;;;;
+
+Ativo;;795000090;GovReg-A;Governo Regional dos Açores;;;;;;;;;;;;;;;
+
+Ativo;;20050000;GNR;Guarda Nacional Repúblicana;"AP#
+FSS#
+";;;;;;;;;;;;;;
+
+Ativo;;770000377;Grupo IP;Grupo Infraestruturas de Portugal;SPE#;;;;;;;;;;;;;;
+
+Ativo;;875792993;SEAL;Secretário de Estado das Autarquias Locais;Gov#;;;;;;;;;;;;;;
+
+Ativo;;875790441;INCM;Imprensa Nacional-Casa da Moeda, SA;SPE#;;;;;;;;;;;;;;
+
+Ativo;;86120000;IGDC;Inspeção-Geral Diplomática e Consular;;;;;;;;;;;;;;;
+
+Inativo;Inativo;;IDC;Inspeção Diplomática e Consular;AP#;;;;;;;;;;;;;;
+
+Ativo;;20020000;IGAI;Inspeção-Geral da Administração Interna;AP#;;;;;;;;;;;;;;
+
+Ativo;;90250000;IGMTSSS;Inspeção-Geral do Ministério do Trabalho, Solidariedade e Segurança Social;AP#;;;;;;;;;;;;;;
+
+Ativo;;142200000;INFARMED;Autoridade Nacional do Medicamento e Produtos de Saúde, IP;AP#IP#ASF#;;;;;;;;;;;;;;
+
+Ativo;;60210000;IGAC;Inspeção-Geral das Atividades Culturais;AP#;;;;;;;;;;;;;;
+
+Ativo;;141200000;IGAS;Inspeção-Geral das Atividades em Saúde;AP#;;;;;;;;;;;;;;
+
+Ativo;;875780365;ICNF;Instituto da Conservação da Natureza e das Florestas, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;795000105;IAMA;Instituto de Alimentação e Mercados Agrícolas;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;85230000;IASFA;Instituto de Ação Social das Forças Armadas, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;30160000;IFAP;Instituto de Financiamento da Agricultura e Pescas, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;790000022;ISSM;Instituto da Segurança Social da Madeira, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;875792013;ISSA;Instituto da Segurança Social dos Açores, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;90310000;ISS;Instituto da Segurança Social, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;90270000;IGFCSS;Instituto de Gestão de Fundos de Capitalização da Segurança Social, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;;IGFSS;Instituto de Gestão Financeira da Segurança Social, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;875780382;IGFEJ;Instituto de Gestão Financeira e Equipamentos da Justiça, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;30200000;IVV;Instituto da Vinha e do Vinho, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;110090000;IMT;Instituto de Mobilidade e dos Transportes, IP;"AP#
+ER#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;30210000;IVDP;Instituto dos Vinhos do Douro e do Porto, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;875790606;IH;Instituto Hidrográfico, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;12150000;INE;Instituto Nacional de Estatística, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;60320000;ICA;Instituto do Cinema e do Audiovisual, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;90320000;IEFP;Instituto do Emprego e Formação Profissional, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;111500000;IMPIC;Instituto dos Mercados Públicos, do Imobiliário e da Construção, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;152600000;IRN;Instituto dos Registos e do Notariado, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;90300000;II;Instituto de Informática, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;71400000;INPI;Instituto Nacional da Propriedade Industrial, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;142300000;INEM;Instituto Nacional de Emergência Médica, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;875780356;INIAV;Instituto Nacional de Investigação Agrária e Veterinária, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;151800000;INMLCF;Instituto Nacional de Medicina Legal e Ciências Forenses, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;142100000;INSA;Instituto Nacional de Saúde Doutor Ricardo Jorge, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;90170000;INR;Instituto Nacional para a Reabilitação, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;71600000;IPQ;Instituto Português da Qualidade, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;71960000;IPAC;Instituto Português de Acreditação, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;875780313;IPDJ;Instituto Português do Desporto e Juventude, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;875780355;IPMA;Instituto Português do Mar e da Atmosfera, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;142400000;IPST;Instituto Português do Sangue e da Transplantação, I.P.;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;102100600;IST;Instituto Superior Técnico;"EFD#
+IES#";;;;;;;;;;;;;;
+
+Ativo;;;CISAC;International Confederation of Societies of Authors and Composers;;Sim;;;;;;;;;;;;;
+
+Ativo;;;ISAN Portugal;International Standard Audiovisual Number Portugal;;;;;;;;;;;;;;;
+
+Ativo;;;LNEG;Laboratório Nacional de Energia e Geologia, IP;AP#IP#;;;;;;;;;;;;;;
+
+Ativo;;85090000;Marinha;Marinha Portuguesa;FA#;;;;;;;;;;;;;;
+
+Ativo;;;MP;Ministério Público;OSJ#;;;;;;;;;;;;;;
+
+Ativo;;;MJ;Ministro da Justiça;Gov#;;;;;;;;;;;;;;
+
+Ativo;;;MF;Ministro das Finanças;Gov#;;;;;;;;;;;;;;
+
+Ativo;;85090000;OMS;Organização Mundial de Saúde;;Sim;;;;;;;;;;;;;
+
+Ativo;;;PE;Parlamento Europeu;;Sim;;;;;;;;;;;;;
+
+Ativo;;20040000;PSP;Polícia de Segurança Pública;"AP#
+FSS#";;;;;;;;;;;;;;
+
+Ativo;;;PMar;Polícia Marítima;"AP#
+ASF#";;;;;;;;;;;;;;
+
+Ativo;;152900000;PJ;Polícia Judiciária;"AP#
+FSS#
+";;;;;;;;;;;;;;
+
+Ativo;;875780308;PR;Presidente da República;;;;;;;;;;;;;;;
+
+Ativo;;800003365;PGR;Procuradoria-Geral da República;OSJ#;;;;;;;;;;;;;;
+
+Ativo;;;PCM;Presidência do Conselho de Ministros;Gov#;;;;;;;;;;;;;;
+
+Ativo;;90350000;PM;Primeiro-Ministro;Gov#;;;;;;;;;;;;;;
+
+Ativo;;;RA-M;Região Autónoma da Madeira;;;;;;;;;;;;;;;
+
+Ativo;;;RA-A;Região Autónoma dos Açores;;;;;;;;;;;;;;;
+
+Ativo;;;SCML;Santa Casa da Misericórdia de Lisboa;;;;;;;;;;;;;;;
+
+Ativo;;13110000;SGPCM;Secretaria Geral da Presidência do Conselho de Ministros;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;22100000;SGMAI;Secretaria Geral do Ministério da Administração Interna ;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;151100000;SGMJ;Secretaria Geral do Ministério da Justiça;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;54100000;SGMF;Secretaria Geral do Ministério das Finanças ;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;86160000;SGMNE;Secretaria Geral do Ministério dos Negócios Estrangeiros;"AP#
+ACE#";;;;;;;;;;;;;;
+
+Ativo;;90370000;SGMTSSS;Secretaria Geral do Ministério do Trabalho, Solidariedade e Segurança Social;SGMTSSS#;;;;;;;;;;;;;;
+
+Ativo;;20060000;SEF;Serviço de Estrangeiros e Fronteiras;"AP#
+FSS#";;;;;;;;;;;;;;
+
+Ativo;;20070000;SIS;Serviço de Informações e Segurança ;"AP#
+FSS#";;;;;;;;;;;;;;
+
+Ativo;;875780320;SICAD;Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências;AP#;;;;;;;;;;;;;;
+
+Ativo;;;SEPNA;Serviço de Proteção da Natureza e Ambiente;AP#;;;;;;;;;;;;;;
+
+Ativo;;875780255;SPMS;Serviços Partilhados do Ministério da Saúde, EPE;SPE#;;;;;;;;;;;;;;
+
+Inativo;;51710000;SSAP;Serviços Sociais da Administração Pública;AP#;;;;;;;;;;;;;;
+
+Ativo;;17000000;SIRP;Sistema de Informações da República Portuguesa;AP#;;;;;;;;;;;;;;
+
+Ativo;;;SEN;Sistema Estatístico Nacional;AP#;;;;;;;;;;;;;;
+
+Ativo;;800003021;STA;Supremo Tribunal Administrativo;"OSJ#
+Trb#";;;;;;;;;;;;;;
+
+Ativo;;800003022;STJ;Supremo Tribunal de Justiça;"OSJ#
+Trb#";;;;;;;;;;;;;;
+
+Ativo;;800003044;TC;Tribunal Constitucional;"OSJ#
+Trb#";;;;;;;;;;;;;;
+
+Ativo;;800003052;TContas;Tribunal de Contas;"OSJ#
+Trb#";;;;;;;;;;;;;;
+
+Ativo;;;TJUE;Tribunal de Justiça da União Europeia;;Sim;;;;;;;;;;;;;
+
+Ativo;;73400000;TP;Turismo de Portugal, IP;"AP#
+IP#";;;;;;;;;;;;;;
+
+Ativo;;;UE;União Europeia;;Sim;;;;;;;;;;;;;
