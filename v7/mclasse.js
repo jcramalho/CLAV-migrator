@@ -69,7 +69,8 @@ function procClasse(c, listaErros, entCatalog, legCatalog, tipCatalog){
   
         // Bloco de decisão de avaliação: PCA e DF
         pca: {
-          valor: 0,
+          valor: [],
+          notas: [],
           formaContagem: "",
           subFormaContagem: "",
           justificacao: [] // j = [criterio]
@@ -125,11 +126,84 @@ function procClasse(c, listaErros, entCatalog, legCatalog, tipCatalog){
 
             // Informação sobre as decisões na avaliação
             if(classe.nivel > 2){
-                
+                classe.pca = migraPCA(classe, c, listaErros[classe.codigo], legCatalog)
             }
         }
     }
     return classe
+}
+
+// PCA
+function migraPCA(classe, data, listaErrosClasse, legCatalog){
+    if(classe.nivel == 3){
+        if(cod == "400.10.001"){
+            pcaTriples += proc_c400_10_001(pcaCode, cod, listaErrosClasse, legCatalog)
+        }
+        else{
+            if(jsonObj['Prazo de conservação administrativa']){
+                pcaTriples += procPCA(jsonObj, pcaCode, cod)
+                        }
+            else{
+                // Registar a classe para tratar o nível 4
+                classes3.push(cod)
+            }
+        }     
+    }
+}
+
+// PCA especial: classe c400.10.001
+
+function proc_c400_10_001(pcaCode, cod, listaErrosClasse, legCatalog){
+    var pca_400_10_001 = {}
+    pca_400_10_001.valor = [30, 50, 100]
+    pca_400_10_001.notas = ["30 anos após a data do assento de óbito",
+                            "50 anos sobre a data do registo de casamento",
+                            "100 anos após a data do assento de nascimento"]
+    pca_400_10_001.formaContagem = ":vc_pcaFormaContagem_disposicaoLegal"
+    pca_400_10_001.subFormaContagem = ":vc_pcaSubformaContagem_F01.01"
+    // justificação = [criterio]
+    var lindex = legCatalog.findIndex(l => l.id === "DL 324/2007")
+    var lcodigo = ""
+    if(lindex != -1){
+        lcodigo = legCatalog[lindex].codigo
+    }
+    else{
+        listaErrosClasse.push('PCA 400.10.001: não consegui encontrar a referência DL 324/2007 no critério de justificação.')
+    }
+    pca_400_10_001.justificacao = [{tipo: "CriterioJustificacaoLegal", 
+                                    notas: "[DL 324/2007], artº 15; 1 - Os livros cujos registos tenham sido objecto de "
+                                            + "informatização são transferidos para a entidade responsável pelos arquivos "
+                                            + "nacionais; 2 - O disposto no número anterior é aplicável aos livros de registo "
+                                            + "relativamente aos quais tenha decorrido, à data do último assento: a) Mais de 30 "
+                                            + "anos, quanto aos livros de assentos de óbito; b) Mais de 50 anos, quanto aos "
+                                            + "livros de assentos de casamento; c) Mais de 100 anos, quanto aos restantes livros "
+                                            + "de assentos; 3 - O disposto no número anterior é aplicável aos documentos que "
+                                            + "tenham servido de base aos assentos nele referidos; (Tem por base o tempo médio de "
+                                            + "vida da pessoa, visa a utilidade gestionária esgotando quase na totalidade as "
+                                            + "necessidades administrativas de consulta).",
+                                    leg: [lcodigo]}] 
+    // criterio = {tipo, notas, [proc], [leg]}
+    
+    // Destino Final
+    myTriples += "###  http://jcr.di.uminho.pt/m51-clav#df_c400.10.001\n"
+    myTriples += ":df_c400.10.001 rdf:type owl:NamedIndividual ,\n"
+    myTriples += "\t:DestinoFinal ;\n"
+    myTriples += "\t:dfValor \"C\".\n"
+    myTriples += ":c400.10.001 :temDF :df_c400.10.001 .\n"
+    // Justificação do Destino Final
+    myTriples += "###  http://jcr.di.uminho.pt/m51-clav#just_df_c400.10.001\n"
+    myTriples += ":just_df_c400.10.001 rdf:type owl:NamedIndividual ,\n"
+    myTriples += "\t\t:JustificacaoDF.\n"
+    
+    myTriples += ":df_c400.10.001 :temJustificacao :just_df_c400.10.001 .\n"
+
+    myTriples += ":crit_just_df_c400.10.001_1 rdf:type owl:NamedIndividual ,\n"
+    myTriples += "\t:CriterioJustificacaoLegal;\n"
+    myTriples += "\t:conteudo \"Código Civil, [DL 47344/66] (conservação para garante do exercício dos direitos de personalidade. Consagram direitos que não prescrevem no tempo).\".\n"
+    myTriples += ":just_df_c400.10.001 :temCriterio :crit_just_df_c400.10.001_1 .\n"
+    myTriples += ":crit_just_df_c400.10.001_1 :temLegislacao :leg_6.\n"
+
+    return myTriples
 }
 
 // Legislação
