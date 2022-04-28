@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jcramalho/M51-CLAV#readme",
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "console-sync": "0.0.1",
     "csv2json": "^1.3.0",
     "csvtojson": "^1.1.7",
